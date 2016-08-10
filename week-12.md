@@ -3,14 +3,11 @@ topic: "Accessibility"
 desc: "The web is for all humans—explore the small changes needed to make that a reality."
 
 video_tutorials:
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
+  - title: "Accessibility"
+    url: accessibility
+  - title: "Accessibility checklist"
+    url: accessibility-checklist
+    highlight: true
 
 slides:
   - title: "Accessibility"

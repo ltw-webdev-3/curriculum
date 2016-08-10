@@ -3,14 +3,12 @@ topic: "Grids + modular type"
 desc: "Combining grid systems with modular type to create a website without much hassle."
 
 video_tutorials:
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
+  - title: "Interactive wireframes"
+    url: interactive-wireframes
+  - title: "Gridifier cheat sheet"
+    url: gridifier-cheat-sheet
+  - title: "Typografier cheat sheet"
+    url: typografier-cheat-sheet
 
 group_activities:
   - title: "Sketching websites"

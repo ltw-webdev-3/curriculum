@@ -3,14 +3,10 @@ topic: "Preparing images"
 desc: "Discover how to prepare images in Illustrator & Photoshop and export them properly for the web."
 
 video_tutorials:
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
+  - title: "Website file organization"
+    url: organization
+  - title: "Images for the web"
+    url: image-formats
 
 slides:
   - title: "Preparing images"

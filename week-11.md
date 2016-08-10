@@ -3,14 +3,11 @@ topic: "Performance"
 desc: "Slow websites are the worst—identify what makes websites slow and how to fix the problems."
 
 video_tutorials:
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
+  - title: "Performance"
+    url: performance
+  - title: "Performance checklist"
+    url: performance-checklist
+    highlight: true
 
 slides:
   - title: "Performance"

@@ -3,14 +3,13 @@ topic: "Modular type"
 desc: "Explore modular & responsive type systems to simplify and codify typesetting on the web."
 
 video_tutorials:
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
+  - title: "Modular typography"
+    url: modular-typography
+  - title: "Typografier"
+    url: typografier
+  - title: "Typografier cheat sheet"
+    url: typografier-cheat-sheet
+    highlight: true
 
 slides:
   - title: "Modular type"

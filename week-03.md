@@ -3,14 +3,13 @@ topic: "Grid systems"
 desc: "Learn how modular grid systems can simplify layouts making coding more efficient."
 
 video_tutorials:
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
+  - title: "Grids"
+    url: grids
+  - title: "Gridifier"
+    url: gridifier
+  - title: "Gridifier cheat sheet"
+    url: gridifier-cheat-sheet
+    highlight: true
 
 slides:
   - title: "Grid systems"

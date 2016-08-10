@@ -3,14 +3,14 @@ topic: "Modular website completion"
 desc: "Finish the modular website by the end of the term."
 
 video_tutorials:
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
+  - title: "Browser testing"
+    url: browser-testing
+  - title: "Browser testing checklist"
+    url: browser-testing-checklist
+    highlight: true
+  - title: "Launch checklist, Web Dev 3"
+    url: launch-checklist-web-dev-3
+    highlight: true
 
 slides:
   - title: "Preview next term"

@@ -3,14 +3,16 @@ topic: "Tables & forms"
 desc: "Code complexly formatted data charts & discover interactive fillable forms."
 
 video_tutorials:
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
+  - title: "Forms"
+    url: forms
+  - title: "Forms cheat sheet"
+    url: forms-cheat-sheet
+    highlight: true
+  - title: "Tables"
+    url: tables
+  - title: "Tables cheat sheet"
+    url: tables-cheat-sheet
+    highlight: true
 
 slides:
   - title: "Tables & forms"

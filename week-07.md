@@ -1,16 +1,16 @@
 ---
 topic: "Grids + modular type + CSS components"
-desc: "Combine all the three types of modularity to get a website running quickly."
+desc: "Combine modular grids, type and CSS components together to get a website running quickly."
 
 video_tutorials:
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
+  - title: "Modular website layout"
+    url: modular-layout
+  - title: "Gridifier cheat sheet"
+    url: gridifier-cheat-sheet
+  - title: "Typografier cheat sheet"
+    url: typografier-cheat-sheet
+  - title: "Modulifier cheat sheet"
+    url: modulifier-cheat-sheet
 
 group_activities:
   - title: "Finding patterns"

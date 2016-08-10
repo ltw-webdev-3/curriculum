@@ -3,14 +3,13 @@ topic: "Modular CSS"
 desc: "Reduce CSS clutter and repetition by using modular CSS ideas and pre-built components."
 
 video_tutorials:
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
-  - title: ""
-    url: ""
+  - title: "Modules"
+    url: modules
+  - title: "Modulifier"
+    url: modulifier
+  - title: "Modulifier cheat sheet"
+    url: modulifier-cheat-sheet
+    highlight: true
 
 slides:
   - title: "Modular CSS"
