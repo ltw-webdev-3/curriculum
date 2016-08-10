@@ -14,7 +14,6 @@ video_tutorials:
 
 slides:
   - title: "Preview next term"
-    url: preview-next-term
 
 group_activities:
   - title: "Course feedback"
