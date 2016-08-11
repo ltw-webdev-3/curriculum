@@ -10,6 +10,7 @@ video_tutorials:
 
 slides:
   - title: "Web Dev 3 intro"
+    url: intro
 
 tasks:
   - type: blank

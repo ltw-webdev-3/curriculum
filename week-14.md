@@ -16,8 +16,9 @@ tasks:
   - title: "Accessibility Atomizer"
     type: activity
   - type: blank
-  - title: "Modular website milestone"
+  - title: "Modular website check-in"
     submit: show
   - title: "Modular website"
   - type: blank
+    graded-as: modular-website
 ---

@@ -23,6 +23,7 @@ tasks:
     type: lesson
   - title: "Accessibility fixer"
   - title: "Modular website"
+    graded-as: modular-website
   - title: "Modular website paper plan"
     type: paper
 ---

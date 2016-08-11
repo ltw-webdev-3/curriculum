@@ -31,5 +31,7 @@ tasks:
     pair: true
   - title: "Request for grade"
     type: basic
+    graded-as: false
   - title: "Modular website"
+    graded-as: modular-website
 ---
