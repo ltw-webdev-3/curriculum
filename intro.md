@@ -10,7 +10,7 @@ slides:
 
   - content: |
       ## Melissa Roy
-      *SOMETHING HERE*
+      *Gamer chick*
 
       [roym@algonquincollege.com](mailto:roym@algonquincollege.com)
 
