@@ -14,10 +14,11 @@ slides:
 
 tasks:
   - type: blank
-  - title: "Review exercise"
-  - title: "Review exercise 2"
   - title: "Update your computer!"
     type: basic
     submit: show
     button: activity
+    url: update-your-computer
+  - title: "Review exercise"
+  - title: "Review exercise 2"
 ---
