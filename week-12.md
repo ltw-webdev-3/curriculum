@@ -26,4 +26,5 @@ tasks:
     graded-as: modular-website
   - title: "Modular website paper plan"
     type: paper
+    no-solution: true
 ---

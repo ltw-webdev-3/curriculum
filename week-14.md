@@ -18,7 +18,8 @@ tasks:
   - type: blank
   - title: "Modular website check-in"
     submit: show
+    no-solution: true
   - title: "Modular website"
-  - type: blank
     graded-as: modular-website
+  - type: blank
 ---
