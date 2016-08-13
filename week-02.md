@@ -12,6 +12,11 @@ slides:
   - title: "Web Dev 3 intro"
     url: intro
 
+group_activities:
+  - title: "Semantics schmantics"
+    type: pencil
+    pair: true
+
 tasks:
   - type: blank
   - title: "Update your computer!"
@@ -19,6 +24,6 @@ tasks:
     submit: show
     button: activity
     url: update-your-computer
-  - title: "Review exercise"
-  - title: "Review exercise 2"
+  - title: "HTML writer"
+  - title: "Responsive image section"
 ---
