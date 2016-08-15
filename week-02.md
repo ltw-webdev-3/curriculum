@@ -37,5 +37,6 @@ tasks:
     button: activity
     url: update-your-computer
   - title: "HTML writer"
+    url: "https://github.com/acgd-webdev-3/html-writer"
   - title: "Responsive image section"
 ---
