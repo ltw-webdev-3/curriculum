@@ -7,15 +7,27 @@ video_tutorials:
     url: "#setup"
   - title: "Everything from Web Dev 1"
     url: "#web-dev-1"
+  - title: "HTML semantics cheat sheet"
+    url: html-semantics-cheat-sheet
+    highlight: true
+  - title: "All devices setup"
+    url: all-devices-setup
+    highlight: true
+  - title: "Screen sizes cheat sheet"
+    url: screen-sizes-cheat-sheet
+  - title: "Using Markbot"
+    url: "/courses/web-dev-1/using-markbot/"
+    highlight: true
 
 slides:
   - title: "Web Dev 3 intro"
     url: intro
 
 group_activities:
-  - title: "Semantics schmantics"
+  - title: "Semantics schemantics"
     type: pencil
     pair: true
+    url: semantics-schemantics
 
 tasks:
   - type: blank
