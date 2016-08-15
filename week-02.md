@@ -39,4 +39,5 @@ tasks:
   - title: "HTML writer"
     url: "https://github.com/acgd-webdev-3/html-writer"
   - title: "Responsive image section"
+    url: "https://github.com/acgd-webdev-3/responsive-image-section"
 ---
