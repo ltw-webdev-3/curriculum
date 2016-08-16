@@ -74,7 +74,7 @@ slides:
       ## Sticky note triage
       Specify your working status by sticking sticky notes on your monitor
 
-      ![](post-it-notes.svg)
+      ![](sticky-notes.svg)
 
   - content: |
       ## Naming conventions
