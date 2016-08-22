@@ -18,7 +18,7 @@ video_tutorials:
 
 tasks:
   - title: "VoiceOver Voyageur"
-    url: "http://activities.learn-the-web.algonquindesign.ca/voiceover-voyageur/"
+    url: "https://activities.learn-the-web.algonquindesign.ca/voiceover-voyageur/"
     type: activity
   - type: blank
   - title: "Modular website paper plan"

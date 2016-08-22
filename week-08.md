@@ -21,7 +21,7 @@ slides:
 
 tasks:
   - title: "URL Explorer"
-    url: "http://activities.learn-the-web.algonquindesign.ca/url-explorer/"
+    url: "https://activities.learn-the-web.algonquindesign.ca/url-explorer/"
     type: activity
   - title: "Data table"
     type: lesson
