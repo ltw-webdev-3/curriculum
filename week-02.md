@@ -1,6 +1,6 @@
 ---
 topic: "Review"
-desc: "An overview of the course this term, what we’ll be covering and a quick review exercise."
+desc: "Review exercises to get everybody warmed up and to flex the code muscles."
 
 video_tutorials:
   - title: "Everything from Set up"
