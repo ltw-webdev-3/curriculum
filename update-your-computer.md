@@ -6,9 +6,9 @@ desc: "Run all the updates on your computer to make sure everything you have is 
 hide_markbot: true
 
 steps:
-  - title: "Update macOS & App Store apps"
+  - title: "Update MacOS & App Store apps"
     before: |
-      Make sure you have all the updated versions of macOS for security and all the updated versions of any App Store applications.
+      Make sure you have all the updated versions of MacOS for security and all the updated versions of any App Store applications.
 
       ```
        > App Store…
