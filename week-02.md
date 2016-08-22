@@ -1,32 +1,34 @@
 ---
-topic: "Grid systems"
-desc: "Learn how modular grid systems can simplify layouts making coding more efficient."
+topic: "Review"
+desc: "An overview of the course this term, what we’ll be covering and a quick review exercise."
 
 video_tutorials:
-  - title: "Grids"
-    url: grids
-    videos: true
-  - title: "Gridifier"
-    url: gridifier
-  - title: "Gridifier cheat sheet"
-    url: gridifier-cheat-sheet
+  - title: "Everything from Set up"
+    url: "#setup"
+  - title: "Everything from Web Dev 1"
+    url: "#web-dev-1"
+  - title: "HTML semantics cheat sheet"
+    url: html-semantics-cheat-sheet
+    highlight: true
+  - title: "All devices setup"
+    url: all-devices-setup
+    highlight: true
+  - title: "Screen sizes cheat sheet"
+    url: screen-sizes-cheat-sheet
+  - title: "Using Markbot"
+    url: "/courses/web-dev-1/using-markbot/"
     highlight: true
 
-slides:
-  - title: "Grid systems"
-
 group_activities:
-  - title: "Finding grids"
+  - title: "Semantics schemantics"
     type: pencil
     pair: true
+    url: semantics-schemantics
 
 tasks:
-  - title: "Fraction Fragmenter"
-    type: activity
-  - title: "Making flexible grids"
-    type: lesson
-  - title: "Making responsive grids"
-    type: lesson
-  - title: "Grid layout"
-  - title: "Grid-ception"
+  - type: blank
+  - title: "HTML writer"
+    url: "https://github.com/acgd-webdev-3/html-writer"
+  - title: "Responsive image section"
+    url: "https://github.com/acgd-webdev-3/responsive-image-section"
 ---

@@ -1,31 +1,30 @@
 ---
-topic: "Accessibility"
-desc: "The web is for all humans—explore the small changes needed to make that a reality."
+topic: "Performance"
+desc: "Slow websites are the worst—identify what makes websites slow and how to fix the problems."
 
 video_tutorials:
-  - title: "Accessibility"
-    url: accessibility
+  - title: "Performance"
+    url: performance
     videos: true
-  - title: "Accessibility checklist"
-    url: accessibility-checklist
+  - title: "Performance checklist"
+    url: performance-checklist
     highlight: true
 
 slides:
-  - title: "Accessibility"
+  - title: "Performance"
 
 group_activities:
-  - title: "Using VoiceOver"
-    type: star
+  - title: "Slow & fast"
+    pair: true
+    type: pencil
 
 tasks:
-  - title: "Performance Prognosticator"
+  - title: "Form Finalizer"
     type: activity
-  - title: "Basic accessibility"
+  - title: "Checking performance"
     type: lesson
-  - title: "Accessibility fixer"
-  - title: "Modular website"
-    graded-as: modular-website
-  - title: "Modular website paper plan"
-    type: paper
-    no-solution: true
+  - title: "Smushing images"
+    type: lesson
+  - title: "Speed"
+  - title: "Speed 2"
 ---

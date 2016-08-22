@@ -1,29 +1,32 @@
 ---
-topic: "Preparing images"
-desc: "Discover how to prepare images in Illustrator & Photoshop and export them properly for the web."
+topic: "Tables & forms"
+desc: "Code complexly formatted data charts & discover interactive fillable forms."
 
 video_tutorials:
-  - title: "Website file organization"
-    url: organization
-  - title: "Images for the web"
-    url: image-formats
+  - title: "Forms"
+    url: forms
     videos: true
+  - title: "Forms cheat sheet"
+    url: forms-cheat-sheet
+    highlight: true
+  - title: "Tables"
+    url: tables
+    videos: true
+  - title: "Tables cheat sheet"
+    url: tables-cheat-sheet
+    highlight: true
 
 slides:
-  - title: "Preparing images"
-
-group_activities:
-  - title: "Image formats"
-    type: pencil
-    pair: true
+  - title: "Tables & forms"
 
 tasks:
-  - title: "Table Tabulator"
+  - title: "URL Explorer"
+    url: "https://activities.learn-the-web.algonquindesign.ca/url-explorer/"
     type: activity
-  - title: "Exporting from Photoshop"
+  - title: "Data table"
     type: lesson
-  - title: "Exporting from Illustrator"
+  - title: "Contact form"
     type: lesson
-  - title: "Production prepping"
-  - title: "Web compression"
+  - title: "Complex data table"
+  - title: "User registration"
 ---
