@@ -1,32 +1,30 @@
 ---
-topic: "Using images"
-desc: "Explore all the different methods to use images on websites and their ramifications."
+topic: "Performance"
+desc: "Slow websites are the worst—identify what makes websites slow and how to fix the problems."
 
 video_tutorials:
-  - title: "Using images"
-    url: using-images
+  - title: "Performance"
+    url: performance
     videos: true
-  - title: "Images for retina screens"
-    url: images-for-retina
-    videos: true
-  - title: "Images cheat sheet"
-    url: images-cheat-sheet
+  - title: "Performance checklist"
+    url: performance-checklist
     highlight: true
 
 slides:
-  - title: "Using images"
+  - title: "Performance"
 
 group_activities:
-  - title: "Retina math"
+  - title: "Slow & fast"
+    pair: true
     type: pencil
 
 tasks:
-  - title: "Image Imagineer"
+  - title: "Form Finalizer"
     type: activity
-  - title: "Background images"
+  - title: "Checking performance"
     type: lesson
-  - title: "Retina images"
+  - title: "Smushing images"
     type: lesson
-  - title: "Leafy decoration"
-  - title: "Retina gallery"
+  - title: "Speed"
+  - title: "Speed 2"
 ---

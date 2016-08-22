@@ -21,9 +21,7 @@ group_activities:
     type: star
 
 tasks:
-  - title: "Path Paladin"
-    url: "https://activities.learn-the-web.algonquindesign.ca/path-paladin/"
-    type: activity
+  - type: blank
   - type: blank
   - title: "Browser testing"
     url: /courses/web-dev-1/browser-testing/

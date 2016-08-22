@@ -1,31 +1,26 @@
 ---
-topic: "Modular type"
-desc: "Explore modular & responsive type systems to simplify and codify typesetting on the web."
+topic: "Grids + modular type"
+desc: "Combining grid systems with modular type to create a website without much hassle."
 
 video_tutorials:
-  - title: "Modular typography"
-    url: modular-typography
-    videos: true
-  - title: "Typografier"
-    url: typografier
+  - title: "Interactive wireframes"
+    url: interactive-wireframes
+  - title: "Gridifier cheat sheet"
+    url: gridifier-cheat-sheet
   - title: "Typografier cheat sheet"
     url: typografier-cheat-sheet
-    highlight: true
-
-slides:
-  - title: "Modular type"
 
 group_activities:
-  - title: "Type math"
+  - title: "Sketching websites"
     type: pencil
     pair: true
 
 tasks:
-  - title: "Grid Genius"
+  - title: "Type Trasher"
     type: activity
-  - title: "Using a type system"
+  - title: "Gridded section"
     type: lesson
-  - title: "Banner"
-  - title: "Content page"
-  - title: "Section"
+  - title: "Modular nav"
+  - title: "Lists & grids"
+  - title: "Refined grid-ception"
 ---

@@ -1,27 +1,32 @@
 ---
-topic: "Grids + modular type + CSS components"
-desc: "Combine modular grids, type and CSS components together to get a website running quickly."
+topic: "Tables & forms"
+desc: "Code complexly formatted data charts & discover interactive fillable forms."
 
 video_tutorials:
-  - title: "Modular website layout"
-    url: modular-layout
-  - title: "Gridifier cheat sheet"
-    url: gridifier-cheat-sheet
-  - title: "Typografier cheat sheet"
-    url: typografier-cheat-sheet
-  - title: "Modulifier cheat sheet"
-    url: modulifier-cheat-sheet
+  - title: "Forms"
+    url: forms
+    videos: true
+  - title: "Forms cheat sheet"
+    url: forms-cheat-sheet
+    highlight: true
+  - title: "Tables"
+    url: tables
+    videos: true
+  - title: "Tables cheat sheet"
+    url: tables-cheat-sheet
+    highlight: true
 
-group_activities:
-  - title: "Finding patterns"
-    pair: true
-    type: pencil
+slides:
+  - title: "Tables & forms"
 
 tasks:
-  - title: "Module Mogul"
+  - title: "URL Explorer"
+    url: "https://activities.learn-the-web.algonquindesign.ca/url-explorer/"
     type: activity
-  - type: blank
-  - title: "Icon card"
-  - title: "Icon navigation"
-  - title: "Responsive photo gallery"
+  - title: "Data table"
+    type: lesson
+  - title: "Contact form"
+    type: lesson
+  - title: "Complex data table"
+  - title: "User registration"
 ---

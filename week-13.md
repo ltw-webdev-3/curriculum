@@ -1,28 +1,23 @@
 ---
-topic: "Modular website planning"
-desc: "Start planning your modular website by finding the patterns & the basic CSS properties you need."
+topic: "Modular website milestone"
+desc: "Have a large majority of the modular website coded responsively & functioning."
 
 video_tutorials:
-  - title: "Gridifier cheat sheet"
-    url: gridifier-cheat-sheet
-  - title: "Typografier cheat sheet"
-    url: typografier-cheat-sheet
-  - title: "Modulifier cheat sheet"
-    url: modulifier-cheat-sheet
-  - title: "Images cheat sheet"
-    url: images-cheat-sheet
-  - title: "Performance checklist"
-    url: performance-checklist
-  - title: "Accessibility checklist"
-    url: accessibility-checklist
+  - title: "Browser testing"
+    url: browser-testing
+  - title: "Browser testing checklist"
+    url: browser-testing-checklist
+    highlight: true
+  - title: "Launch checklist, Web Dev 3"
+    url: launch-checklist-web-dev-3
+    highlight: true
 
 tasks:
-  - title: "VoiceOver Voyageur"
-    url: "https://activities.learn-the-web.algonquindesign.ca/voiceover-voyageur/"
+  - title: "Accessibility Atomizer"
     type: activity
   - type: blank
-  - title: "Modular website paper plan"
-    type: paper
+  - title: "Modular website check-in"
+    submit: show
     no-solution: true
   - title: "Modular website"
     graded-as: modular-website

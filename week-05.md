@@ -1,26 +1,26 @@
 ---
-topic: "Grids + modular type"
-desc: "Combining grid systems with modular type to create a website without much hassle."
+topic: "Modular CSS"
+desc: "Reduce CSS clutter and repetition by using modular CSS ideas and pre-built components."
 
 video_tutorials:
-  - title: "Interactive wireframes"
-    url: interactive-wireframes
-  - title: "Gridifier cheat sheet"
-    url: gridifier-cheat-sheet
-  - title: "Typografier cheat sheet"
-    url: typografier-cheat-sheet
+  - title: "Modules"
+    url: modules
+    videos: true
+  - title: "Modulifier"
+    url: modulifier
+  - title: "Modulifier cheat sheet"
+    url: modulifier-cheat-sheet
+    highlight: true
 
-group_activities:
-  - title: "Sketching websites"
-    type: pencil
-    pair: true
+slides:
+  - title: "Modular CSS"
 
 tasks:
-  - title: "Type Trasher"
+  - title: "Specificity Spy"
     type: activity
-  - title: "Gridded section"
+  - title: "Button systems"
     type: lesson
-  - title: "Modular nav"
-  - title: "Lists & grids"
-  - title: "Refined grid-ception"
+  - title: "List groups"
+  - title: "Embed containers"
+  - title: "Icons"
 ---

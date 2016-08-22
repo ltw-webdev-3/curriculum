@@ -1,6 +1,6 @@
 ---
-topic: "Modular website milestone"
-desc: "Have a large majority of the modular website coded responsively & functioning."
+topic: "Modular website work period"
+desc: "Continue working on the modular website by the end of the term."
 
 video_tutorials:
   - title: "Browser testing"
@@ -13,12 +13,11 @@ video_tutorials:
     highlight: true
 
 tasks:
-  - title: "Accessibility Atomizer"
+  - title: "Path Paladin"
+    url: "https://activities.learn-the-web.algonquindesign.ca/path-paladin/"
     type: activity
   - type: blank
-  - title: "Modular website check-in"
-    submit: show
-    no-solution: true
+  - type: blank
   - title: "Modular website"
     graded-as: modular-website
   - type: blank

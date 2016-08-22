@@ -1,29 +1,32 @@
 ---
-topic: "Preparing images"
-desc: "Discover how to prepare images in Illustrator & Photoshop and export them properly for the web."
+topic: "Using images"
+desc: "Explore all the different methods to use images on websites and their ramifications."
 
 video_tutorials:
-  - title: "Website file organization"
-    url: organization
-  - title: "Images for the web"
-    url: image-formats
+  - title: "Using images"
+    url: using-images
     videos: true
+  - title: "Images for retina screens"
+    url: images-for-retina
+    videos: true
+  - title: "Images cheat sheet"
+    url: images-cheat-sheet
+    highlight: true
 
 slides:
-  - title: "Preparing images"
+  - title: "Using images"
 
 group_activities:
-  - title: "Image formats"
+  - title: "Retina math"
     type: pencil
-    pair: true
 
 tasks:
-  - title: "Table Tabulator"
+  - title: "Image Imagineer"
     type: activity
-  - title: "Exporting from Photoshop"
+  - title: "Background images"
     type: lesson
-  - title: "Exporting from Illustrator"
+  - title: "Retina images"
     type: lesson
-  - title: "Production prepping"
-  - title: "Web compression"
+  - title: "Leafy decoration"
+  - title: "Retina gallery"
 ---

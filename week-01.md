@@ -1,5 +1,43 @@
 ---
-topic: "College orientation"
-desc: "No formal classes this week because of the College’s orientation sessions."
-disabled: true
+topic: "Intro & review"
+desc: "An overview of the course this term, what we’ll be covering and a quick review exercise."
+
+video_tutorials:
+  - title: "Everything from Set up"
+    url: "#setup"
+  - title: "Everything from Web Dev 1"
+    url: "#web-dev-1"
+  - title: "HTML semantics cheat sheet"
+    url: html-semantics-cheat-sheet
+    highlight: true
+  - title: "All devices setup"
+    url: all-devices-setup
+    highlight: true
+  - title: "Screen sizes cheat sheet"
+    url: screen-sizes-cheat-sheet
+  - title: "Using Markbot"
+    url: "/courses/web-dev-1/using-markbot/"
+    highlight: true
+
+slides:
+  - title: "Web Dev 3 intro"
+    url: intro
+
+group_activities:
+  - title: "Semantics schemantics"
+    type: pencil
+    pair: true
+    url: semantics-schemantics
+
+tasks:
+  - type: blank
+  - title: "Update your computer!"
+    type: basic
+    submit: show
+    button: activity
+    url: update-your-computer
+  - title: "HTML writer"
+    url: "https://github.com/acgd-webdev-3/html-writer"
+  - title: "Responsive image section"
+    url: "https://github.com/acgd-webdev-3/responsive-image-section"
 ---

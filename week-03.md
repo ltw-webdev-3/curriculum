@@ -1,32 +1,31 @@
 ---
-topic: "Grid systems"
-desc: "Learn how modular grid systems can simplify layouts making coding more efficient."
+topic: "Modular type"
+desc: "Explore modular & responsive type systems to simplify and codify typesetting on the web."
 
 video_tutorials:
-  - title: "Grids"
-    url: grids
+  - title: "Modular typography"
+    url: modular-typography
     videos: true
-  - title: "Gridifier"
-    url: gridifier
-  - title: "Gridifier cheat sheet"
-    url: gridifier-cheat-sheet
+  - title: "Typografier"
+    url: typografier
+  - title: "Typografier cheat sheet"
+    url: typografier-cheat-sheet
     highlight: true
 
 slides:
-  - title: "Grid systems"
+  - title: "Modular type"
 
 group_activities:
-  - title: "Finding grids"
+  - title: "Type math"
     type: pencil
     pair: true
 
 tasks:
-  - title: "Fraction Fragmenter"
+  - title: "Grid Genius"
     type: activity
-  - title: "Making flexible grids"
+  - title: "Using a type system"
     type: lesson
-  - title: "Making responsive grids"
-    type: lesson
-  - title: "Grid layout"
-  - title: "Grid-ception"
+  - title: "Banner"
+  - title: "Content page"
+  - title: "Section"
 ---

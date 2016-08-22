@@ -1,31 +1,30 @@
 ---
-topic: "Accessibility"
-desc: "The web is for all humans—explore the small changes needed to make that a reality."
+topic: "Modular website planning"
+desc: "Start planning your modular website by finding the patterns & the basic CSS properties you need."
 
 video_tutorials:
-  - title: "Accessibility"
-    url: accessibility
-    videos: true
+  - title: "Gridifier cheat sheet"
+    url: gridifier-cheat-sheet
+  - title: "Typografier cheat sheet"
+    url: typografier-cheat-sheet
+  - title: "Modulifier cheat sheet"
+    url: modulifier-cheat-sheet
+  - title: "Images cheat sheet"
+    url: images-cheat-sheet
+  - title: "Performance checklist"
+    url: performance-checklist
   - title: "Accessibility checklist"
     url: accessibility-checklist
-    highlight: true
-
-slides:
-  - title: "Accessibility"
-
-group_activities:
-  - title: "Using VoiceOver"
-    type: star
 
 tasks:
-  - title: "Performance Prognosticator"
+  - title: "VoiceOver Voyageur"
+    url: "https://activities.learn-the-web.algonquindesign.ca/voiceover-voyageur/"
     type: activity
-  - title: "Basic accessibility"
-    type: lesson
-  - title: "Accessibility fixer"
-  - title: "Modular website"
-    graded-as: modular-website
+  - type: blank
   - title: "Modular website paper plan"
     type: paper
     no-solution: true
+  - title: "Modular website"
+    graded-as: modular-website
+  - type: blank
 ---
