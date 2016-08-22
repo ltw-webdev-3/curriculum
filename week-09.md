@@ -7,6 +7,7 @@ video_tutorials:
     url: organization
   - title: "Images for the web"
     url: image-formats
+    videos: true
 
 slides:
   - title: "Preparing images"

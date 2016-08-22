@@ -5,6 +5,7 @@ desc: "Learn how modular grid systems can simplify layouts making coding more ef
 video_tutorials:
   - title: "Grids"
     url: grids
+    videos: true
   - title: "Gridifier"
     url: gridifier
   - title: "Gridifier cheat sheet"

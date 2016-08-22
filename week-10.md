@@ -5,8 +5,10 @@ desc: "Explore all the different methods to use images on websites and their ram
 video_tutorials:
   - title: "Using images"
     url: using-images
+    videos: true
   - title: "Images for retina screens"
     url: images-for-retina
+    videos: true
   - title: "Images cheat sheet"
     url: images-cheat-sheet
     highlight: true

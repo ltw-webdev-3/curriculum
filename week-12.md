@@ -5,6 +5,7 @@ desc: "The web is for all humans—explore the small changes needed to make that
 video_tutorials:
   - title: "Accessibility"
     url: accessibility
+    videos: true
   - title: "Accessibility checklist"
     url: accessibility-checklist
     highlight: true

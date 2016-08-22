@@ -5,6 +5,7 @@ desc: "Slow websites are the worst—identify what makes websites slow and how t
 video_tutorials:
   - title: "Performance"
     url: performance
+    videos: true
   - title: "Performance checklist"
     url: performance-checklist
     highlight: true

@@ -5,11 +5,13 @@ desc: "Code complexly formatted data charts & discover interactive fillable form
 video_tutorials:
   - title: "Forms"
     url: forms
+    videos: true
   - title: "Forms cheat sheet"
     url: forms-cheat-sheet
     highlight: true
   - title: "Tables"
     url: tables
+    videos: true
   - title: "Tables cheat sheet"
     url: tables-cheat-sheet
     highlight: true

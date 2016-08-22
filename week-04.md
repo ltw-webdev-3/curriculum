@@ -5,6 +5,7 @@ desc: "Explore modular & responsive type systems to simplify and codify typesett
 video_tutorials:
   - title: "Modular typography"
     url: modular-typography
+    videos: true
   - title: "Typografier"
     url: typografier
   - title: "Typografier cheat sheet"

@@ -5,6 +5,7 @@ desc: "Reduce CSS clutter and repetition by using modular CSS ideas and pre-buil
 video_tutorials:
   - title: "Modules"
     url: modules
+    videos: true
   - title: "Modulifier"
     url: modulifier
   - title: "Modulifier cheat sheet"
