@@ -17,6 +17,13 @@ slides:
       3. Print “content.pdf”
       4. Get out a pencil for marking up the paper
 
+  - content: |
+      1. **Draw boxes**<br>
+        Determine what things will become HTML elements.
+
+      2. **Write semantics**<br>
+        Assign each box a semantically appropriate HTML tag.
+
   - type: image
     image: content.png
 
