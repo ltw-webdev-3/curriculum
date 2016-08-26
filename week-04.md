@@ -7,7 +7,7 @@ video_tutorials:
     url: modular-typography
     videos: true
   - title: "Typografier"
-    url: typografier
+    url: "http://typografier.web-dev.tools/"
   - title: "Typografier cheat sheet"
     url: typografier-cheat-sheet
     highlight: true

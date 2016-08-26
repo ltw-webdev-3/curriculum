@@ -7,7 +7,7 @@ video_tutorials:
     url: grids
     videos: true
   - title: "Gridifier"
-    url: gridifier
+    url: "http://gridifier.web-dev.tools/"
   - title: "Gridifier cheat sheet"
     url: gridifier-cheat-sheet
     highlight: true

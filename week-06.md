@@ -7,7 +7,7 @@ video_tutorials:
     url: modules
     videos: true
   - title: "Modulifier"
-    url: modulifier
+    url: "http://modulifier.web-dev.tools/"
   - title: "Modulifier cheat sheet"
     url: modulifier-cheat-sheet
     highlight: true
