@@ -1,6 +1,7 @@
 ---
 topic: "Review"
 desc: "Review exercises to get everybody warmed up and to flex the code muscles."
+clr: "1, 2"
 
 video_tutorials:
   - title: "Everything from Set up"

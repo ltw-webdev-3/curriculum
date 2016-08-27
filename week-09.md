@@ -1,6 +1,7 @@
 ---
 topic: "Preparing images"
 desc: "Discover how to prepare images in Illustrator & Photoshop and export them properly for the web."
+clr: "1, 2, 4, 5"
 
 video_tutorials:
   - title: "Website file organization"

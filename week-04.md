@@ -1,6 +1,7 @@
 ---
 topic: "Modular type"
 desc: "Explore modular & responsive type systems to simplify and codify typesetting on the web."
+clr: "1, 2, 3, 4"
 
 video_tutorials:
   - title: "Modular typography"

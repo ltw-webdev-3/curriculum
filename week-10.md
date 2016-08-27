@@ -1,6 +1,7 @@
 ---
 topic: "Using images"
 desc: "Explore all the different methods to use images on websites and their ramifications."
+clr: "1, 2, 4, 5"
 
 video_tutorials:
   - title: "Using images"

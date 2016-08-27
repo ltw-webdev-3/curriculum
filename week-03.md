@@ -1,6 +1,7 @@
 ---
 topic: "Grid systems"
 desc: "Learn how modular grid systems can simplify layouts making coding more efficient."
+clr: "1, 2, 3, 4"
 
 video_tutorials:
   - title: "Grids"

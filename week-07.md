@@ -1,6 +1,7 @@
 ---
 topic: "Grids + modular type + CSS components"
 desc: "Combine modular grids, type and CSS components together to get a website running quickly."
+clr: "1, 2, 3, 4"
 
 video_tutorials:
   - title: "Modular website layout"

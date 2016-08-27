@@ -1,6 +1,7 @@
 ---
 topic: "Performance"
 desc: "Slow websites are the worst—identify what makes websites slow and how to fix the problems."
+clr: "1, 2, 5, 8"
 
 video_tutorials:
   - title: "Performance"

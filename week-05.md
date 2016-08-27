@@ -1,6 +1,7 @@
 ---
 topic: "Grids + modular type"
 desc: "Combining grid systems with modular type to create a website without much hassle."
+clr: "1, 2, 3, 4"
 
 video_tutorials:
   - title: "Interactive wireframes"

@@ -1,6 +1,7 @@
 ---
 topic: "Tables & forms"
 desc: "Code complexly formatted data charts & discover interactive fillable forms."
+clr: "1, 2, 6, 7"
 
 video_tutorials:
   - title: "Forms"

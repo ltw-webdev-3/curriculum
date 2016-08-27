@@ -1,6 +1,7 @@
 ---
 topic: "Accessibility"
 desc: "The web is for all humans—explore the small changes needed to make that a reality."
+clr: "1, 2, 9"
 
 video_tutorials:
   - title: "Accessibility"
