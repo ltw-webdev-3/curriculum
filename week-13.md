@@ -23,6 +23,7 @@ tasks:
     type: activity
   - type: blank
   - title: "Modular website paper plan"
+    graded-as: false
     type: paper
     no-solution: true
   - title: "Modular website"
