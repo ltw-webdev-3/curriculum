@@ -15,6 +15,7 @@ video_tutorials:
 
 slides:
   - title: "Grid systems"
+    url: grid-systems
 
 group_activities:
   - title: "Finding grids"
@@ -24,9 +25,9 @@ group_activities:
 tasks:
   - title: "Fraction Fragmenter"
     type: activity
-  - title: "Making flexible grids"
-    type: lesson
   - title: "Making responsive grids"
+    type: lesson
+  - title: "Using Gridifier"
     type: lesson
   - title: "Grid layout"
   - title: "Grid-ception"
