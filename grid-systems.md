@@ -122,7 +122,7 @@ slides:
       - Max number of column configuration
       - *And lots more features…*
 
-      [**Gridifier »**](http://gridifier.web-dev.tools)
+      [**Gridifier »**](https://gridifier.web-dev.tools)
 
   - type: code
     html_lines: 6
@@ -169,6 +169,6 @@ slides:
       ## Videos & tutorials
 
       - [Grids ➔](/topics/grids/)
-      - [**Gridifier »**](http://gridifier.web-dev.tools/)
+      - [**Gridifier »**](https://gridifier.web-dev.tools/)
       - [Gridifier cheat sheet ➔](/topics/gridifier-cheat-sheet/)
 ---
