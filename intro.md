@@ -19,9 +19,9 @@ slides:
 
       *Available in class and during labs*
 
-      - Ashley
-      - Rob
-      - Len
+      - Chelle
+      - Sage
+      - Sarah
 
   - content: |
       ## What we’re learning
