@@ -24,6 +24,7 @@ group_activities:
 
 tasks:
   - title: "Fraction Fragmenter"
+    url: https://activities.learn-the-web.algonquindesign.ca/fraction-fragmenter/
     type: activity
   - title: "Making responsive grids"
     type: lesson
