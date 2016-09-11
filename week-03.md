@@ -19,6 +19,7 @@ slides:
 
 group_activities:
   - title: "Finding grids"
+    url: finding-grids
     type: pencil
     pair: true
 
@@ -31,5 +32,7 @@ tasks:
   - title: "Using Gridifier"
     type: lesson
   - title: "Grid layout"
+    url: https://github.com/acgd-webdev-3/grid-layout
   - title: "Grid-ception"
+    url: https://github.com/acgd-webdev-3/grid-ception
 ---
