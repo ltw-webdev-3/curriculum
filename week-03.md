@@ -28,6 +28,7 @@ tasks:
     url: https://activities.learn-the-web.algonquindesign.ca/fraction-fragmenter/
     type: activity
   - title: "Making responsive grids"
+    url: making-responsive-grids
     type: lesson
   - title: "Using Gridifier"
     type: lesson
