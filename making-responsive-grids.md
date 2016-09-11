@@ -123,7 +123,7 @@ steps:
         width: 100%;
       }
     lines:
-      - num: "14-17"
+      - num: "24-27"
         text: "Make sure to add the class for scalable images."
     notes:
       - label: "CSS snippets"
