@@ -31,6 +31,7 @@ tasks:
     url: making-responsive-grids
     type: lesson
   - title: "Using Gridifier"
+    url: using-gridifier
     type: lesson
   - title: "Grid layout"
     url: https://github.com/acgd-webdev-3/grid-layout
