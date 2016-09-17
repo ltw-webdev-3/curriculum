@@ -16,18 +16,16 @@ video_tutorials:
 slides:
   - title: "Modular type"
 
-group_activities:
-  - title: "Type math"
-    type: pencil
-    pair: true
-
 tasks:
   - title: "Grid Genius"
     type: activity
   - title: "Using a type system"
     url: using-a-type-system
     type: lesson
-  - title: "Banner"
-  - title: "Content page"
   - title: "Section"
+    url: "https://github.com/acgd-webdev-3/section"
+  - title: "Banner"
+    url: "https://github.com/acgd-webdev-3/banner"
+  - title: "Content page"
+    url: "https://github.com/acgd-webdev-3/content-page"
 ---
