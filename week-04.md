@@ -25,6 +25,7 @@ tasks:
   - title: "Grid Genius"
     type: activity
   - title: "Using a type system"
+    url: using-a-type-system
     type: lesson
   - title: "Banner"
   - title: "Content page"
