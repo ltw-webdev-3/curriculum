@@ -1,7 +1,7 @@
 ---
 layout: lesson
 title: "Using Gridifier"
-desc: "A quick look at how using a generated grid from Gridifier in your website to simplify making responsive layouts."
+desc: "A quick look at using a generated grid from Gridifier in your website to simplify making responsive layouts."
 
 extra_tutorials:
   - title: "Grids"

@@ -17,7 +17,7 @@ goal:
   before: |
     We’re going to explore the HTML and CSS necessary to make a very basic responsive grid.
 
-    ### [Download the content and images.](https://github.com/acgd-webdev-3/making-responsive-grids/archive/gh-pages.zip)
+    ### [Download the content & images.](https://github.com/acgd-webdev-3/making-responsive-grids/archive/gh-pages.zip)
 
     - *You can ignore the `credits.txt` file.*
     - *The `content.txt` file has all the text you’ll need for this website.*
