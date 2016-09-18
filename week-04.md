@@ -15,9 +15,11 @@ video_tutorials:
 
 slides:
   - title: "Modular type"
+    url: modular-type
 
 tasks:
   - title: "Grid Genius"
+    url: "https://activities.learn-the-web.algonquindesign.ca/grid-genius/"
     type: activity
   - title: "Using a type system"
     url: using-a-type-system
