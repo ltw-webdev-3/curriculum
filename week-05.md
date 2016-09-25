@@ -22,8 +22,8 @@ tasks:
   - type: blank
   - title: "Refined grid-ception"
     url: "https://github.com/acgd-webdev-3/refined-grid-ception"
-  - title: "Lists ’n’ grids"
-    url: "https://github.com/acgd-webdev-3/lists-n-grids"
   - title: "Modular nav"
     url: "https://github.com/acgd-webdev-3/modular-nav"
+  - title: "Lists ’n’ grids"
+    url: "https://github.com/acgd-webdev-3/lists-n-grids"
 ---
