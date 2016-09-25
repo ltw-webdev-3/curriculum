@@ -19,9 +19,11 @@ group_activities:
 tasks:
   - title: "Type Trasher"
     type: activity
-  - title: "Gridded section"
-    type: lesson
-  - title: "Modular nav"
-  - title: "Lists & grids"
+  - type: blank
   - title: "Refined grid-ception"
+    url: "https://github.com/acgd-webdev-3/refined-grid-ception"
+  - title: "Lists ’n’ grids"
+    url: "https://github.com/acgd-webdev-3/lists-n-grids"
+  - title: "Modular nav"
+    url: "https://github.com/acgd-webdev-3/modular-nav"
 ---
