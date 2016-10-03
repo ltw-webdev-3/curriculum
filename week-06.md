@@ -15,9 +15,11 @@ video_tutorials:
 
 slides:
   - title: "Modular CSS"
+    url: modular-css
 
 tasks:
   - title: "Specificity Spy"
+    url: "https://activities.learn-the-web.algonquindesign.ca/specificity-spy/"
     type: activity
   - title: "Button systems"
     type: lesson
