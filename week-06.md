@@ -22,6 +22,7 @@ tasks:
     url: "https://activities.learn-the-web.algonquindesign.ca/specificity-spy/"
     type: activity
   - title: "Button systems"
+    url: button-systems
     type: lesson
   - title: "Embed containers"
     url: "https://github.com/acgd-webdev-3/embed-containers"
