@@ -22,7 +22,10 @@ tasks:
   - title: "Module Mogul"
     type: activity
   - type: blank
-  - title: "Icon card"
-  - title: "Icon navigation"
   - title: "Responsive photo gallery"
+    url: "https://github.com/acgd-webdev-3/responsive-photo-gallery"
+  - title: "Icon navigation"
+    url: "https://github.com/acgd-webdev-3/icon-navigation"
+  - title: "Icon cards"
+    url: "https://github.com/acgd-webdev-3/icon-cards"
 ---
