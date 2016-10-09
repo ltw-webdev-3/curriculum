@@ -15,6 +15,7 @@ video_tutorials:
 
 group_activities:
   - title: "Finding patterns"
+    url: finding-patterns
     pair: true
     type: pencil
 
