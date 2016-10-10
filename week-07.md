@@ -21,6 +21,7 @@ group_activities:
 
 tasks:
   - title: "Module Mogul"
+    url: "https://activities.learn-the-web.algonquindesign.ca/module-mogul/"
     type: activity
   - type: blank
   - title: "Responsive photo gallery"
