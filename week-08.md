@@ -4,21 +4,22 @@ desc: "Code complexly formatted data charts & discover interactive fillable form
 clr: "1, 2, 6, 7"
 
 video_tutorials:
-  - title: "Forms"
-    url: forms
-    videos: true
-  - title: "Forms cheat sheet"
-    url: forms-cheat-sheet
-    highlight: true
   - title: "Tables"
     url: tables
+    videos: true
+  - title: "Forms"
+    url: forms
     videos: true
   - title: "Tables cheat sheet"
     url: tables-cheat-sheet
     highlight: true
+  - title: "Forms cheat sheet"
+    url: forms-cheat-sheet
+    highlight: true
 
 slides:
   - title: "Tables & forms"
+    url: tables-forms
 
 tasks:
   - title: "URL Explorer"
