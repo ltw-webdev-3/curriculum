@@ -28,6 +28,7 @@ tasks:
   - title: "Data table"
     type: lesson
   - title: "Contact form"
+    url: contact-form
     type: lesson
   - title: "Complex data table"
   - title: "User registration"
