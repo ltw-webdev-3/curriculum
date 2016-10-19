@@ -25,6 +25,8 @@ tasks:
   - title: "Path Paladin"
     url: "https://activities.learn-the-web.algonquindesign.ca/path-paladin/"
     type: activity
+  # - title: "Accessibility Atomizer"
+    # type: activity
   - type: blank
   - title: "Browser testing"
     url: /courses/web-dev-1/browser-testing/

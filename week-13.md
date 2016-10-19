@@ -1,32 +1,32 @@
 ---
-topic: "Modular website planning"
-desc: "Start planning your modular website by finding the patterns & the basic CSS properties you need."
-clr: "1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
+topic: "Accessibility"
+desc: "The web is for all humans—explore the small changes needed to make that a reality."
+clr: "1, 2, 9"
 
 video_tutorials:
-  - title: "Gridifier cheat sheet"
-    url: gridifier-cheat-sheet
-  - title: "Typografier cheat sheet"
-    url: typografier-cheat-sheet
-  - title: "Modulifier cheat sheet"
-    url: modulifier-cheat-sheet
-  - title: "Images cheat sheet"
-    url: images-cheat-sheet
-  - title: "Performance checklist"
-    url: performance-checklist
+  - title: "Accessibility"
+    url: accessibility
+    # videos: true
   - title: "Accessibility checklist"
     url: accessibility-checklist
+    highlight: true
+
+slides:
+  - title: "Accessibility"
+
+group_activities:
+  - title: "Using VoiceOver"
+    type: star
 
 tasks:
-  - title: "VoiceOver Voyageur"
-    url: "https://activities.learn-the-web.algonquindesign.ca/voiceover-voyageur/"
+  - title: "Performance Prognosticator"
     type: activity
-  - type: blank
-  - title: "Modular website paper plan"
-    graded-as: false
-    type: paper
-    no-solution: true
+  - title: "Basic accessibility"
+    type: lesson
+  - title: "Accessibility fixer"
   - title: "Modular website"
     graded-as: modular-website
-  - type: blank
+  - title: "Modular website paper plan"
+    type: paper
+    no-solution: true
 ---
