@@ -6,7 +6,7 @@ clr: "1, 2, 5, 8"
 video_tutorials:
   - title: "Performance"
     url: performance
-    videos: true
+    # videos: true
   - title: "Performance checklist"
     url: performance-checklist
     highlight: true

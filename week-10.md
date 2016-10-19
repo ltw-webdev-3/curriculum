@@ -6,10 +6,10 @@ clr: "1, 2, 4, 5"
 video_tutorials:
   - title: "Using images"
     url: using-images
-    videos: true
+    # videos: true
   - title: "Images for retina screens"
     url: images-for-retina
-    videos: true
+    # videos: true
   - title: "Images cheat sheet"
     url: images-cheat-sheet
     highlight: true

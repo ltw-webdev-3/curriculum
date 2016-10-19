@@ -6,10 +6,10 @@ clr: "1, 2, 6, 7"
 video_tutorials:
   - title: "Tables"
     url: tables
-    videos: true
+    # videos: true
   - title: "Forms"
     url: forms
-    videos: true
+    # videos: true
   - title: "Tables cheat sheet"
     url: tables-cheat-sheet
     highlight: true

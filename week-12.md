@@ -6,7 +6,7 @@ clr: "1, 2, 9"
 video_tutorials:
   - title: "Accessibility"
     url: accessibility
-    videos: true
+    # videos: true
   - title: "Accessibility checklist"
     url: accessibility-checklist
     highlight: true
