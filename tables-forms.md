@@ -70,10 +70,10 @@ slides:
 
           <tr>                <!-- Defines a row of data in the table -->
 
-            <th>              <!-- Defines a column/row label -->
+            <th>              <!-- Defines a column/row heading -->
             <td>              <!-- Defines a piece of data in the table -->
 
-            <th scope="col">  <!-- `scope` defines the label’s direction -->
+            <th scope="col">  <!-- `scope` defines the heading’s direction -->
             <td rowspan="3">  <!-- `rowspan` merges a cell vertically, across rows -->
             <td colspan="2">  <!-- `colspan` merges a cell horizontally, across cells -->
 

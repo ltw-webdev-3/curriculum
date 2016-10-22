@@ -26,6 +26,7 @@ tasks:
     url: "https://activities.learn-the-web.algonquindesign.ca/url-explorer/"
     type: activity
   - title: "Data table"
+    url: data-table
     type: lesson
   - title: "Contact form"
     url: contact-form

@@ -129,6 +129,7 @@ steps:
       ![](basic-html.png)
 
       That’s pretty darn ugly…
+
   - title: "Add Gridifier, Typografier & Modulifier"
     before: |
       The default look of forms is pretty abysmal—Modulifier has some slightly nicer form defaults, do let’s add that code into your website.
@@ -153,7 +154,6 @@ steps:
       - label: "index.html"
         indent: 1
         fade: true
-
     after: |
       *The web dev tools CSS files need to be populated:*
 
