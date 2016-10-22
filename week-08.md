@@ -31,6 +31,8 @@ tasks:
   - title: "Contact form"
     url: contact-form
     type: lesson
-  - title: "Complex data table"
-  - title: "User registration"
+  - title: "Events calendar"
+    url: "https://github.com/acgd-webdev-3/events-calendar"
+  - title: "Registration form"
+    url: "https://github.com/acgd-webdev-3/registration-form"
 ---
