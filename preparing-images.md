@@ -31,6 +31,15 @@ slides:
 
       <small>*In most cases</small>
 
+  - content: |
+      ## Avoid GIFs—period
+
+      - GIFs are **huge** files!
+      - They have poor user experience
+      - Bad accessibility: flashing that can cause seizures & can’t be stopped
+
+      Avoid them at all costs.
+
   - type: image
     image: choice-flow-chart.svg
 
