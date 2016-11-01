@@ -12,14 +12,17 @@ video_tutorials:
 
 slides:
   - title: "Preparing images"
+    url: preparing-images
 
 group_activities:
   - title: "Image formats"
+    url: image-formats
     type: pencil
     pair: true
 
 tasks:
   - title: "Table Tabulator"
+    url: "https://activities.learn-the-web.algonquindesign.ca/table-tabulator/"
     type: activity
   - title: "Exporting from Photoshop"
     type: lesson
