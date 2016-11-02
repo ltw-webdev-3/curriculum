@@ -12,7 +12,7 @@ slides:
     content: |
       ## Set up
 
-      You’ll be shown and image—we’ll discuss together what format it should be exported
+      You’ll be shown an image—we’ll discuss together what format it should be exported
 
       *The checkerboard isn’t part of the images—it’s giving you helpful information*
 
