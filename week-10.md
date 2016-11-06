@@ -27,6 +27,7 @@ tasks:
   - title: "Exporting from Photoshop"
     type: lesson
   - title: "Exporting from Illustrator"
+    url: exporting-from-illustrator
     type: lesson
   - title: "Production prepping"
   - title: "Web compression"
