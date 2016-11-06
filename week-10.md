@@ -30,6 +30,7 @@ tasks:
   - title: "Exporting from Illustrator"
     url: exporting-from-illustrator
     type: lesson
-  - title: "Production prepping"
-  - title: "Web compression"
+  - title: "Production prepping & compression"
+    url: "https://github.com/acgd-webdev-3/production-prepping-compression"
+    submit: show
 ---
