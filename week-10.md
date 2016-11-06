@@ -25,6 +25,7 @@ tasks:
     url: "https://activities.learn-the-web.algonquindesign.ca/table-tabulator/"
     type: activity
   - title: "Exporting from Photoshop"
+    url: exporting-from-photoshop
     type: lesson
   - title: "Exporting from Illustrator"
     url: exporting-from-illustrator

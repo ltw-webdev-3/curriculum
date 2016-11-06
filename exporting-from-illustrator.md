@@ -116,5 +116,7 @@ steps:
 
       ![](images.jpg)
 
-      **You can go ahead and use these graphics in your HTML & CSS how you’re used to.**
+      *You can go ahead and use these graphics in your HTML & CSS how you’re used to.*
+
+      **Never edit the SVG after it has been exported—that’s why we save the AI file. AI files are for editing, SVG files are for using on the website.**
 ---
