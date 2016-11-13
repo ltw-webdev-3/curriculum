@@ -17,17 +17,16 @@ video_tutorials:
 slides:
   - title: "Using images"
 
-group_activities:
-  - title: "Retina math"
-    type: pencil
-
 tasks:
-  - title: "Image Imagineer"
+  - title: "Alt Attributer"
+    url: "https://activities.learn-the-web.algonquindesign.ca/alt-attributer/"
     type: activity
   - title: "Background images"
     type: lesson
   - title: "Retina images"
     type: lesson
   - title: "Leafy decoration"
+    url: "https://github.com/acgd-webdev-3/leafy-decoration"
   - title: "Retina gallery"
+    url: "https://github.com/acgd-webdev-3/retina-gallery"
 ---
