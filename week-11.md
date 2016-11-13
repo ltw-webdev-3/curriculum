@@ -25,8 +25,8 @@ tasks:
     type: lesson
   - title: "Retina images"
     type: lesson
-  - title: "Leafy decoration"
-    url: "https://github.com/acgd-webdev-3/leafy-decoration"
+  - title: "Leafy decorations"
+    url: "https://github.com/acgd-webdev-3/leafy-decorations"
   - title: "Retina gallery"
     url: "https://github.com/acgd-webdev-3/retina-gallery"
 ---
