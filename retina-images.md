@@ -26,9 +26,9 @@ steps:
     before: |
       To get started on this project we need to download a few PSDs and the code of a basic website.
 
-      ### [Fork this repo.](https://github.com/acgd-webdev-3/retina-images-download/fork)
+      ### [Fork this repo.](https://github.com/acgd-webdev-3/retina-images/fork)
 
-      ### [Download these PSDs.](https://assets.learn-the-web.algonquindesign.ca/web-dev-3/retina-images.zip)
+      ### [Download these PSDs.](https://assets.learn-the-web.algonquindesign.ca/web-dev-3/retina-images-download.zip)
 
       **Make sure you clone the repo to your computer.**
     folders:
