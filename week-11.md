@@ -15,7 +15,8 @@ video_tutorials:
     highlight: true
 
 slides:
-  - title: "Using images"
+  - title: "Background & retina images"
+    url: background-retina-images
 
 tasks:
   - title: "Alt Attributer"
