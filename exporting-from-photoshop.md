@@ -17,7 +17,7 @@ steps:
     before: |
       To get started on this project we need to download a few raster graphics that we can manipulate & export.
 
-      <h3><a href="https://assets.learn-the-web.algonquindesign.ca/web-dev-3/export-psd.zip">Download these files.</a></h3>
+      ### [Download these files.](https://assets.learn-the-web.algonquindesign.ca/web-dev-3/export-psd.zip)
 
       Now create the following folder structure on your computer:
     folders:

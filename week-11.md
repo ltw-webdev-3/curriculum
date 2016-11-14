@@ -22,8 +22,10 @@ tasks:
     url: "https://activities.learn-the-web.algonquindesign.ca/alt-attributer/"
     type: activity
   - title: "Background images"
+    url: background-images
     type: lesson
   - title: "Retina images"
+    url: retina-images
     type: lesson
   - title: "Leafy decorations"
     url: "https://github.com/acgd-webdev-3/leafy-decorations"
