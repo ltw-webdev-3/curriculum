@@ -24,9 +24,7 @@ tasks:
   - title: "Basic accessibility"
     type: lesson
   - title: "Accessibility fixer"
-  - title: "Modular website"
-    graded-as: modular-website
-  - title: "Modular website paper plan"
-    type: paper
+  - title: "Confectionary website"
+    graded-as: confectionary-website
     no-solution: true
 ---

@@ -36,6 +36,7 @@ tasks:
     url: "https://github.com/acgd-webdev-3/request-for-grade"
     type: basic
     graded-as: false
-  - title: "Modular website"
-    graded-as: modular-website
+  - title: "Confectionary website"
+    graded-as: confectionary-website
+    no-solution: true
 ---
