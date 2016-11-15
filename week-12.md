@@ -13,19 +13,15 @@ video_tutorials:
 
 slides:
   - title: "Performance"
-
-group_activities:
-  - title: "Slow & fast"
-    pair: true
-    type: pencil
+    url: performance
 
 tasks:
   - title: "Form Finalizer"
     type: activity
   - title: "Checking performance"
+    url: checking-performance
     type: lesson
-  - title: "Smushing images"
-    type: lesson
-  - title: "Speed"
+    submit: "Submit nothing."
+  - title: "Fastness fixer"
   - title: "Speed 2"
 ---
