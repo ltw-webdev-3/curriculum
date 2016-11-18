@@ -15,6 +15,9 @@ slides:
   - title: "Performance"
     url: performance
 
+next_week_notes:
+  - 'Please bring headphones to class next week.'
+
 tasks:
   - title: "Form Finalizer"
     type: activity
