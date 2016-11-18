@@ -23,7 +23,7 @@ tasks:
     type: lesson
     submit: "Submit nothing."
   - title: "Fastness fixer"
-    url: "https://github.com/acgd-webdev-3/fastness-fixer"
+    # url: "https://github.com/acgd-webdev-3/fastness-fixer"
   - title: "This site ain’t no sloth"
-    url: "https://github.com/acgd-webdev-3/this-site-aint-no-sloth"
+    # url: "https://github.com/acgd-webdev-3/this-site-aint-no-sloth"
 ---
