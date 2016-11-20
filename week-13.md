@@ -24,7 +24,7 @@ tasks:
   - title: "Basic accessibility"
     type: lesson
   - title: "Accessibility fixer"
-  - title: "Confectionary website"
-    graded-as: confectionary-website
+  - title: "Confectionery website"
+    graded-as: confectionery-website
     no-solution: true
 ---

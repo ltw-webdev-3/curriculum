@@ -22,12 +22,12 @@ tasks:
     url: "https://activities.learn-the-web.algonquindesign.ca/voiceover-voyageur/"
     type: activity
   - type: blank
-  - title: "Confectionary website check-in"
+  - title: "Confectionery website check-in"
     graded-as: false
     type: paper
     no-solution: true
-  - title: "Confectionary website"
-    graded-as: confectionary-website
+  - title: "Confectionery website"
+    graded-as: confectionery-website
     no-solution: true
   - type: blank
 ---
