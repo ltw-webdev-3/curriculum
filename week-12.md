@@ -20,6 +20,7 @@ next_week_notes:
 
 tasks:
   - title: "Form Finalizer"
+    url: "https://activities.learn-the-web.algonquindesign.ca/form-finalizer/"
     type: activity
   - title: "Checking performance"
     url: checking-performance
