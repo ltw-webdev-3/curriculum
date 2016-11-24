@@ -17,6 +17,11 @@ video_tutorials:
   - title: "Accessibility checklist"
     url: accessibility-checklist
 
+group_activities:
+  - title: "Course feedback"
+    url: https://www.algonquincollege.com/studentfeedback/
+    type: star
+
 tasks:
   - title: "VoiceOver Voyageur"
     url: "https://activities.learn-the-web.algonquindesign.ca/voiceover-voyageur/"
