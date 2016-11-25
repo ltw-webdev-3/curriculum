@@ -25,6 +25,8 @@ tasks:
     type: lesson
   - title: "Accessibility fixer"
   - title: "Confectionery website"
+    url: "https://github.com/acgd-webdev-3/confectionery-website"
+    due: "Midnight, last day of term"
     graded-as: confectionery-website
     no-solution: true
 ---

@@ -29,9 +29,12 @@ tasks:
     pair: true
   - title: "Request for grade"
     url: "https://github.com/acgd-webdev-3/request-for-grade"
+    due: "Midnight, last day of term"
     type: basic
     graded-as: false
   - title: "Confectionery website"
+    url: "https://github.com/acgd-webdev-3/confectionery-website"
+    due: "Midnight, last day of term"
     graded-as: confectionery-website
     no-solution: true
 ---

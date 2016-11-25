@@ -28,10 +28,12 @@ tasks:
     type: activity
   - type: blank
   - title: "Confectionery website check-in"
-    graded-as: false
+    url: "https://github.com/acgd-webdev-3/confectionery-website-check-in"
     type: paper
     no-solution: true
   - title: "Confectionery website"
+    url: "https://github.com/acgd-webdev-3/confectionery-website"
+    due: "Midnight, last day of term"
     graded-as: confectionery-website
     no-solution: true
   - type: blank
