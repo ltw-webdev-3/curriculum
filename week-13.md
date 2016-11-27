@@ -22,6 +22,7 @@ group_activities:
 
 tasks:
   - title: "Performance Prognosticator"
+    url: "https://activities.learn-the-web.algonquindesign.ca/performance-prognosticator/"
     type: activity
   - title: "Basic accessibility"
     url: basic-accessibility
