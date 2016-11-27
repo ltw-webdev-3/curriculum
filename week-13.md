@@ -24,6 +24,7 @@ tasks:
   - title: "Performance Prognosticator"
     type: activity
   - title: "Basic accessibility"
+    url: basic-accessibility
     type: lesson
   - title: "Accessibility fixer-upper"
     url: "https://github.com/acgd-webdev-3/accessibility-fixer-upper"
