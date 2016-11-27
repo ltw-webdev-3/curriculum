@@ -13,6 +13,7 @@ video_tutorials:
 
 slides:
   - title: "Accessibility"
+    url: accessibility
 
 group_activities:
   - title: "Using VoiceOver"
