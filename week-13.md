@@ -16,6 +16,7 @@ slides:
 
 group_activities:
   - title: "Using VoiceOver"
+    url: using-voiceover
     type: star
 
 tasks:
@@ -23,7 +24,8 @@ tasks:
     type: activity
   - title: "Basic accessibility"
     type: lesson
-  - title: "Accessibility fixer"
+  - title: "Accessibility fixer-upper"
+    url: "https://github.com/acgd-webdev-3/accessibility-fixer-upper"
   - title: "Confectionery website"
     url: "https://github.com/acgd-webdev-3/confectionery-website"
     due: "Midnight, last day of term"
