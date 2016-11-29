@@ -15,7 +15,20 @@ slides:
       2. Complete the task with VoiceOver
       3. Show the teacher when you’re done
 
-  - content: |
+  - type: two-col
+    col1: |
+      ## VoiceOver keys
+
+      - `⌘ F5` — Turn VoiceOver on/off
+      - `⌃` — Pause VoiceOver
+      - `⌃⌥ →` — Move to next item
+      - `⌃⌥ ←` — Move to previous item
+      - `⌃⌥ U` — Open the rotor
+      - `⌃⌥⌘ H` — Next heading (+ `Shift` for previous)
+      - `⌃⌥⌘ L` — Next link
+      - `⌃⌥⌘ G` — Next graphic
+      - `⌃⌥⌘ X` — Next list
+    col2: |
       ## VoiceOver task
 
       *Do all of this with VoiceOver—we’ll be watching.*
