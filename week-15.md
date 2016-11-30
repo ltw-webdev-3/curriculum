@@ -1,6 +1,6 @@
 ---
-topic: "Modular website completion"
-desc: "Finish the modular website by the end of the term."
+topic: "Confectionery website completion"
+desc: "Finish the confectionery website by the end of the term."
 clr: "1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
 
 video_tutorials:

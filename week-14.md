@@ -1,6 +1,6 @@
 ---
-topic: "Modular website planning"
-desc: "Start planning your modular website by finding the patterns & the basic CSS properties you need."
+topic: "Confectionery website planning"
+desc: "Start your confectionery website by sketching, writing some text & starting to code."
 clr: "1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
 
 video_tutorials:
