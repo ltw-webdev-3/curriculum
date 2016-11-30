@@ -13,8 +13,8 @@ video_tutorials:
     url: launch-checklist-web-dev-3
     highlight: true
 
-slides:
-  - title: "Preview next term"
+# slides:
+  # - title: "Preview next term"
 
 tasks:
   - title: "Path Paladin"
