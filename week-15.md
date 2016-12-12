@@ -13,9 +13,6 @@ video_tutorials:
     url: launch-checklist-web-dev-3
     highlight: true
 
-# slides:
-  # - title: "Preview next term"
-
 tasks:
   - title: "Path Paladin"
     url: "https://activities.learn-the-web.algonquindesign.ca/path-paladin/"
