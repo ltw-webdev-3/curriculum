@@ -22,7 +22,7 @@ tasks:
   - type: blank
   - title: "Browser testing"
     url: /courses/web-dev-1/browser-testing/
-    submit: show
+    submit: "Submit nothing."
     pair: true
   - title: "Request for grade"
     url: "https://github.com/acgd-webdev-3/request-for-grade"
