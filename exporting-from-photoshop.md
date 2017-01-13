@@ -248,9 +248,7 @@ steps:
     before: |
       We want to make the images we use on the web as small as possible—Photoshop only does part of the job.
 
-      Next up we need to drop the images into [ImageOptim](https://imageoptim.com/mac)† to really reduce their file size—it won’t reduce the quality in any way.
-
-      † (*You should already have this installed on your computer.*)
+      Next up we need to drop the images into [**ImageOptim**](https://imageoptim.com/mac) to really reduce their file size—it won’t reduce the quality in any way.
 
       ![](imageoptim.jpg)
 
