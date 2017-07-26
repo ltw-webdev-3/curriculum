@@ -1,37 +1,37 @@
 ---
-topic: "Accessibility"
-desc: "The web is for all humans—explore the small changes needed to make that a reality."
-clr: "1, 2, 9"
+topic: "Fancy website planning"
+desc: "Start your fancy website by sketching, writing some text & starting to code."
+clr: "1, 2, 3, 4, 5, 6, 7, 8, 9"
 
 video_tutorials:
-  - title: "Accessibility"
-    url: accessibility
-    # videos: true
+  - title: "Gridifier cheat sheet"
+    url: gridifier-cheat-sheet
+  - title: "Typografier cheat sheet"
+    url: typografier-cheat-sheet
+  - title: "Modulifier cheat sheet"
+    url: modulifier-cheat-sheet
+  - title: "Images cheat sheet"
+    url: images-cheat-sheet
+  - title: "Performance checklist"
+    url: performance-checklist
   - title: "Accessibility checklist"
     url: accessibility-checklist
-    highlight: true
-
-slides:
-  - title: "Accessibility"
-    url: accessibility
-
-group_activities:
-  - title: "Using VoiceOver"
-    url: using-voiceover
-    type: star
 
 tasks:
   - title: "Performance Prognosticator"
     url: "https://activities.learn-the-web.algonquindesign.ca/performance-prognosticator/"
     type: activity
-  - title: "Basic accessibility"
-    url: basic-accessibility
-    type: lesson
-  - title: "Accessibility fixer-upper"
-    url: "https://github.com/acgd-webdev-3/accessibility-fixer-upper"
-  - title: "Confectionery website"
-    url: "https://github.com/acgd-webdev-3/confectionery-website"
-    due: "Midnight, last day of term"
-    graded-as: confectionery-website
+  - type: blank
+  - title: "Fancy website sketches"
+    url: "https://github.com/acgd-webdev-3/fancy-website-sketches"
+    type: paper
     no-solution: true
+    disabled: true
+  - title: "Fancy website"
+    url: "https://github.com/acgd-webdev-3/fancy-website"
+    due: "Midnight, last day of class"
+    graded-as: fancy-website
+    no-solution: true
+    disabled: true
+  - type: blank
 ---

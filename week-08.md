@@ -1,38 +1,33 @@
 ---
-topic: "Tables & forms"
-desc: "Code complexly formatted data charts & discover interactive fillable forms."
-clr: "1, 2, 6, 7"
+topic: "SVG icons"
+desc: "Look at how to use SVG symbols to create SVG sprite sheets for better performance and reusable systems."
+clr: "1, 2, 3, 4, 5, 6"
 
 video_tutorials:
-  - title: "Tables"
-    url: tables
-    # videos: true
-  - title: "Forms"
-    url: forms
-    # videos: true
-  - title: "Tables cheat sheet"
-    url: tables-cheat-sheet
-    highlight: true
-  - title: "Forms cheat sheet"
-    url: forms-cheat-sheet
+  - title: "Advanced SVG"
+    url: advanced-svg
+    videos: true
+    notes: "Only watch from “Icons” to “Icon sprite sheets”"
+  - title: "SVG cheat sheet"
+    url: svg-cheat-sheet
     highlight: true
 
 slides:
-  - title: "Tables & forms"
-    url: tables-forms
+  - title: "SVG icons"
+    url: svg-icons
+    disabled: true
 
 tasks:
-  - title: "URL Explorer"
-    url: "https://activities.learn-the-web.algonquindesign.ca/url-explorer/"
+  - title: "SVG Synthesizer"
+    url: "https://activities.learn-the-web.algonquindesign.ca/svg-synthesizer/"
     type: activity
-  - title: "Data table"
-    url: data-table
+  - title: "Using SVG icons"
+    url: using-svg-icons
     type: lesson
-  - title: "Contact form"
-    url: contact-form
-    type: lesson
-  - title: "Events calendar"
-    url: "https://github.com/acgd-webdev-3/events-calendar"
-  - title: "Registration form"
-    url: "https://github.com/acgd-webdev-3/registration-form"
+    disabled: true
+  - type: blank
+  - title: "SVG icons sets"
+    url: "https://github.com/acgd-webdev-4/svg-icon-sets"
+    disabled: true
+  - type: watch-videos
 ---

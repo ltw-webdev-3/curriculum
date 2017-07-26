@@ -9,10 +9,11 @@ slides:
       **Web Dev 3**
 
   - content: |
-      ## Melissa Roy
-      *Gamer chick*
+      ## Chelle Lorenzon
 
-      [roym@algonquincollege.com](mailto:roym@algonquincollege.com)
+      *Super hero*
+
+      [lorenzc@algonquincollege.com](mailto:lorenzc@algonquincollege.com)
 
   - content: |
       ## TAs
@@ -26,8 +27,10 @@ slides:
   - content: |
       ## What we’re learning
 
-      - Modular code & design
-      - Working with images
+      - Working with images & icons
+      - Animations & effects
+      - Accessibility
+      - Performance
 
   - content: |
       ## High expectations
@@ -42,6 +45,7 @@ slides:
 
   - content: |
       ## Office hours
+
       *By appointment only.*
 
   - content: |
@@ -49,7 +53,7 @@ slides:
 
       - 1 hour work labs
       - Scheduled outside class
-      - Watch videos—*progress is graded*
+      - Watch videos
       - Get help from TAs
       - Attendance expected
 
@@ -60,6 +64,7 @@ slides:
 
   - content: |
       ## Always be coding
+
       Multiple activities & exercises every week
 
       [**Week 2 tasks ➔**](/courses/web-dev-3/week-02/)
@@ -72,6 +77,7 @@ slides:
 
   - content: |
       ## Sticky note triage
+
       Specify your working status by sticking sticky notes on your monitor
 
       ![](sticky-notes.svg)

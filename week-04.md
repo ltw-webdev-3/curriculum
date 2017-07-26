@@ -1,33 +1,38 @@
 ---
-topic: "Modular type"
-desc: "Explore modular & responsive type systems to simplify and codify typesetting on the web."
+topic: "Using images"
+desc: "Explore all the different methods to use images on websites and their ramifications."
 clr: "1, 2, 3, 4"
 
 video_tutorials:
-  - title: "Modular typography"
-    url: modular-typography
+  - title: "Using images"
+    url: using-images
     videos: true
-  - title: "Typografier"
-    url: "https://typografier.web-dev.tools/"
-  - title: "Typografier cheat sheet"
-    url: typografier-cheat-sheet
+  - title: "Images for retina screens"
+    url: images-for-retina
+    videos: true
+  - title: "Images cheat sheet"
+    url: images-cheat-sheet
     highlight: true
 
 slides:
-  - title: "Modular type"
-    url: modular-type
+  - title: "Background & retina images"
+    url: background-retina-images
+    disabled: true
 
 tasks:
-  - title: "Grid Genius"
-    url: "https://activities.learn-the-web.algonquindesign.ca/grid-genius/"
-    type: activity
-  - title: "Using a type system"
-    url: using-a-type-system
+  - type: blank
+  - title: "Background images"
+    url: background-images
     type: lesson
-  - title: "Section"
-    url: "https://github.com/acgd-webdev-3/section"
-  - title: "Banner"
-    url: "https://github.com/acgd-webdev-3/banner"
-  - title: "Content page"
-    url: "https://github.com/acgd-webdev-3/content-page"
+    disabled: true
+  - title: "Retina images"
+    url: retina-images
+    type: lesson
+    disabled: true
+  - title: "Leafy decorations"
+    url: "https://github.com/acgd-webdev-3/leafy-decorations"
+    disabled: true
+  - title: "Retina gallery"
+    url: "https://github.com/acgd-webdev-3/retina-gallery"
+    disabled: true
 ---

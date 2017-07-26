@@ -8,6 +8,8 @@ video_tutorials:
     url: "#setup"
   - title: "Everything from Web Dev 1"
     url: "#web-dev-1"
+  - title: "Everything from Web Dev 2"
+    url: "#web-dev-2"
   - title: "HTML semantics cheat sheet"
     url: html-semantics-cheat-sheet
     highlight: true
@@ -21,15 +23,22 @@ video_tutorials:
     highlight: true
 
 group_activities:
-  - title: "Semantics schemantics"
+  - title: "All ’bout them semantics"
     type: pencil
     pair: true
-    url: semantics-schemantics
+    disabled: true
+  - title: "Gotta sketch ’em all"
+    type: pencil
+    pair: true
+    disabled: true
 
 tasks:
+  - title: "Semantics Soothsayer"
+    type: activity
   - type: blank
-  - title: "HTML writer"
-    url: "https://github.com/acgd-webdev-3/html-writer"
-  - title: "Responsive image section"
-    url: "https://github.com/acgd-webdev-3/responsive-image-section"
+  - title: "Me-oh-my HTML"
+    disabled: true
+  - title: "Modularity mindfulness"
+    disabled: true
+  - type: watch-videos
 ---

@@ -1,33 +1,32 @@
 ---
-topic: "Grids + modular type + CSS components"
-desc: "Combine modular grids, type and CSS components together to get a website running quickly."
-clr: "1, 2, 3, 4"
+topic: "Advanced SVG"
+desc: "An in-depth look at the code behind SVG files, writing them by hand, and adding effects to them."
+clr: "1, 2, 3, 4, 5, 6"
 
 video_tutorials:
-  - title: "Modular website layout"
-    url: modular-layout
-  - title: "Gridifier cheat sheet"
-    url: gridifier-cheat-sheet
-  - title: "Typografier cheat sheet"
-    url: typografier-cheat-sheet
-  - title: "Modulifier cheat sheet"
-    url: modulifier-cheat-sheet
+  - title: "Advanced SVG"
+    url: advanced-svg
+    videos: true
+    notes: "Only watch from “Writing SVG code” to “Animations”"
+  - title: "SVG cheat sheet"
+    url: svg-cheat-sheet
+    highlight: true
 
-group_activities:
-  - title: "Finding patterns"
-    url: finding-patterns
-    pair: true
-    type: pencil
+slides:
+  - title: "Advanced SVG"
+    url: advanced-svg
+    disabled: true
 
 tasks:
-  - title: "Module Mogul"
-    url: "https://activities.learn-the-web.algonquindesign.ca/module-mogul/"
-    type: activity
   - type: blank
-  - title: "Responsive photo gallery"
-    url: "https://github.com/acgd-webdev-3/responsive-photo-gallery"
-  - title: "Icon navigation"
-    url: "https://github.com/acgd-webdev-3/icon-navigation"
-  - title: "Icon cards"
-    url: "https://github.com/acgd-webdev-3/icon-cards"
+  - title: "SVG smiley face"
+    url: svg-smiley-face
+    type: lesson
+    disabled: true
+  - title: "Interactive SVG"
+    url: "https://github.com/acgd-webdev-4/interactive-svg"
+    disabled: true
+  - title: "Targeted SVG"
+    # SVG + :target to make some interactivity
+  - type: watch-videos
 ---

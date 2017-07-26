@@ -1,36 +1,17 @@
 ---
-topic: "Preparing images"
-desc: "Discover how to prepare images in Illustrator & Photoshop and export them properly for the web."
-clr: "1, 2, 4, 5"
+topic: "Reading week—no classes"
+during_class: "No class"
+desc: "No classes, labs or new homework this week—get caught up!"
 
-video_tutorials:
-  - title: "Website file organization"
-    url: organization
-  - title: "Images for the web"
-    url: image-formats
-    # videos: true
+no_lab_times: true
+no_office_hours: true
 
-slides:
-  - title: "Preparing images"
-    url: preparing-images
-
-group_activities:
-  - title: "Image formats"
-    url: image-formats
-    type: pencil
-    pair: true
+next_week_notes:
+  - "Please bring headphones to next class."
 
 tasks:
-  - title: "Table Tabulator"
-    url: "https://activities.learn-the-web.algonquindesign.ca/table-tabulator/"
-    type: activity
-  - title: "Exporting from Photoshop"
-    url: exporting-from-photoshop
-    type: lesson
-  - title: "Exporting from Illustrator"
-    url: exporting-from-illustrator
-    type: lesson
-  - title: "Production prepping & compression"
-    url: "https://github.com/acgd-webdev-3/production-prepping-compression"
-    submit: show
+  - type: blank
+  - type: blank
+  - type: blank
+  - type: blank
 ---

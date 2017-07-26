@@ -1,7 +1,7 @@
 ---
-topic: "Confectionery website planning"
-desc: "Start your confectionery website by sketching, writing some text & starting to code."
-clr: "1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
+topic: "Fancy website coding"
+desc: "Progress makes perfect: continue working on your fancy website and show the teacher some progress."
+clr: "1, 2, 3, 4, 5, 6, 7, 8, 9"
 
 video_tutorials:
   - title: "Gridifier cheat sheet"
@@ -23,18 +23,19 @@ group_activities:
     type: star
 
 tasks:
-  - title: "VoiceOver Voyageur"
-    url: "https://activities.learn-the-web.algonquindesign.ca/voiceover-voyageur/"
+  - title: "Commit Connoisseur"
     type: activity
   - type: blank
-  - title: "Confectionery website check-in"
-    url: "https://github.com/acgd-webdev-3/confectionery-website-check-in"
+  - title: "Fancy website check-in"
+    url: "https://github.com/acgd-webdev-3/fancy-website-check-in"
     type: paper
     no-solution: true
-  - title: "Confectionery website"
-    url: "https://github.com/acgd-webdev-3/confectionery-website"
-    due: "Midnight, last day of term"
-    graded-as: confectionery-website
+    disabled: true
+  - title: "Fancy website"
+    url: "https://github.com/acgd-webdev-3/fancy-website"
+    due: "Midnight, last day of class"
+    graded-as: fancy-website
     no-solution: true
+    disabled: true
   - type: blank
 ---

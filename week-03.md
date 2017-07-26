@@ -1,40 +1,42 @@
 ---
-topic: "Grid systems"
-desc: "Learn how modular grid systems can simplify layouts making coding more efficient."
+topic: "Preparing images"
+desc: "Discover how to prepare images in Illustrator & Photoshop and export them properly for the web."
 clr: "1, 2, 3, 4"
 
 video_tutorials:
-  - title: "Grids"
-    url: grids
+  - title: "Website file organization"
+    url: organization
+  - title: "Images for the web"
+    url: image-formats
     videos: true
-  - title: "Gridifier"
-    url: "https://gridifier.web-dev.tools/"
-  - title: "Gridifier cheat sheet"
-    url: gridifier-cheat-sheet
-    highlight: true
 
 slides:
-  - title: "Grid systems"
-    url: grid-systems
+  - title: "Preparing images"
+    url: preparing-images
+    disabled: true
 
 group_activities:
-  - title: "Finding grids"
-    url: finding-grids
+  - title: "Image formats"
+    url: image-formats
     type: pencil
     pair: true
+    disabled: true
 
 tasks:
-  - title: "Fraction Fragmenter"
-    url: https://activities.learn-the-web.algonquindesign.ca/fraction-fragmenter/
+  - title: "License Liberator"
+    url: https://activities.learn-the-web.algonquindesign.ca/license-liberator/
     type: activity
-  - title: "Making responsive grids"
-    url: making-responsive-grids
+  - title: "Exporting from Photoshop"
+    url: exporting-from-photoshop
     type: lesson
-  - title: "Using Gridifier"
-    url: using-gridifier
+    disabled: true
+  - title: "Exporting from Illustrator"
+    url: exporting-from-illustrator
     type: lesson
-  - title: "Grid layout"
-    url: https://github.com/acgd-webdev-3/grid-layout
-  - title: "Grid-ception"
-    url: https://github.com/acgd-webdev-3/grid-ception
+    disabled: true
+  - title: "Production prepping & compression"
+    url: "https://github.com/acgd-webdev-3/production-prepping-compression"
+    submit: show
+    disabled: true
+  - type: watch-videos
 ---

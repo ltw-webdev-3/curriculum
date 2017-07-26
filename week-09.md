@@ -1,15 +1,38 @@
 ---
-topic: "Reading week—no classes"
-during_class: "No class"
-desc: "No classes, labs or new homework this week—get caught up!"
-clr: "1, 2, 4, 5"
+topic: "Accessibility"
+desc: "The web is for all humans—explore the small changes needed to make that a reality."
+clr: "1, 2, 4, 7"
 
-no_lab_times: true
-no_office_hours: true
+video_tutorials:
+  - title: "Accessibility"
+    url: accessibility
+    videos: true
+  - title: "Accessibility checklist"
+    url: accessibility-checklist
+    highlight: true
+
+slides:
+  - title: "Accessibility"
+    url: accessibility
+    disabled: true
+
+group_activities:
+  - title: "Text me slowly"
+    # Describing actions, describing interfaces, ARIA?, alt attributes
+    type: pencil
+    pair: true
+
+next_week_notes:
+  - "Please bring headphones to next class."
 
 tasks:
   - type: blank
-  - type: blank
-  - type: blank
-  - type: blank
+  - title: "Basic accessibility"
+    url: basic-accessibility
+    type: lesson
+    disabled: true
+  - title: "Accessibility fixer-upper"
+    url: "https://github.com/acgd-webdev-3/accessibility-fixer-upper"
+    disabled: true
+  - title: "All the humans"
 ---

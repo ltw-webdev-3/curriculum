@@ -1,7 +1,7 @@
 ---
-topic: "Confectionery website completion"
-desc: "Finish the confectionery website by the end of the term."
-clr: "1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
+topic: "Fancy website completion"
+desc: "Finish the fancy website by the end of the term."
+clr: "1, 2, 3, 4, 5, 6, 7, 8, 9"
 
 video_tutorials:
   - title: "Browser testing"
@@ -14,11 +14,7 @@ video_tutorials:
     highlight: true
 
 tasks:
-  - title: "Path Paladin"
-    url: "https://activities.learn-the-web.algonquindesign.ca/path-paladin/"
-    type: activity
-  # - title: "Accessibility Atomizer"
-    # type: activity
+  - type: blank
   - type: blank
   - title: "Browser testing"
     url: /courses/web-dev-1/browser-testing/
@@ -26,12 +22,13 @@ tasks:
     pair: true
   - title: "Request for grade"
     url: "https://github.com/acgd-webdev-3/request-for-grade"
-    due: "Midnight, last day of term"
+    due: "Midnight, last day of class"
     type: basic
     graded-as: false
-  - title: "Confectionery website"
-    url: "https://github.com/acgd-webdev-3/confectionery-website"
-    due: "Midnight, last day of term"
-    graded-as: confectionery-website
+  - title: "Fancy website"
+    url: "https://github.com/acgd-webdev-3/fancy-website"
+    due: "Midnight, last day of class"
+    graded-as: fancy-website
     no-solution: true
+    disabled: true
 ---

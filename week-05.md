@@ -1,37 +1,33 @@
 ---
-topic: "Grids + modular type"
-desc: "Combining grid systems with modular type to create a website without much hassle."
-clr: "1, 2, 3, 4"
+topic: "Transitions"
+desc: "Look at the effects that can be created with CSS using transforms and transitions."
+clr: "1, 2, 5, 6"
 
 video_tutorials:
-  - title: "Interactive wireframes"
-    url: interactive-wireframes
-  - title: "Gridifier"
-    url: "https://gridifier.web-dev.tools/"
-  - title: "Gridifier cheat sheet"
-    url: gridifier-cheat-sheet
+  - title: "CSS animations & effects"
+    url: css-animations-effects
     highlight: true
-  - title: "Typografier"
-    url: "https://typografier.web-dev.tools/"
-  - title: "Typografier cheat sheet"
-    url: typografier-cheat-sheet
-    highlight: true
+    videos: true
 
-group_activities:
-  - title: "Sketching websites"
-    url: sketching-websites
-    type: pencil
-    pair: true
+slides:
+  - title: "CSS transitions"
+    url: css-effects
+    disabled: true
 
 tasks:
-  - title: "Type Trasher"
-    url: "https://activities.learn-the-web.algonquindesign.ca/type-trasher/"
+  - title: "Path Paladin"
+    url: "https://activities.learn-the-web.algonquindesign.ca/path-paladin/"
     type: activity
-  - type: blank
-  - title: "Refined grid-ception"
-    url: "https://github.com/acgd-webdev-3/refined-grid-ception"
-  - title: "Modular nav"
-    url: "https://github.com/acgd-webdev-3/modular-nav"
-  - title: "Lists ’n’ grids"
-    url: "https://github.com/acgd-webdev-3/lists-n-grids"
+  - title: "Alt Attributer"
+    url: "https://activities.learn-the-web.algonquindesign.ca/alt-attributer/"
+    type: activity
+  - title: "News reader effects"
+    # Maybe replace with something just transitions & transforms
+    url: news-reader-effects
+    type: lesson
+    disabled: true
+  - title: "Interactive polaroids"
+    url: "https://github.com/acgd-webdev-4/interactive-polaroids"
+    disabled: true
+  - title: "But ’em buttons"
 ---

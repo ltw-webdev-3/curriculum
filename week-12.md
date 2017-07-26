@@ -1,12 +1,12 @@
 ---
 topic: "Performance"
 desc: "Slow websites are the worst—identify what makes websites slow and how to fix the problems."
-clr: "1, 2, 5, 8"
+clr: "1, 2, 4, 8"
 
 video_tutorials:
   - title: "Performance"
     url: performance
-    # videos: true
+    videos: true
   - title: "Performance checklist"
     url: performance-checklist
     highlight: true
@@ -14,20 +14,21 @@ video_tutorials:
 slides:
   - title: "Performance"
     url: performance
-
-next_week_notes:
-  - 'Please bring headphones to class next week.'
+    disabled: true
 
 tasks:
-  - title: "Form Finalizer"
-    url: "https://activities.learn-the-web.algonquindesign.ca/form-finalizer/"
+  - title: "VoiceOver Voyageur"
+    url: "https://activities.learn-the-web.algonquindesign.ca/voiceover-voyageur/"
     type: activity
   - title: "Checking performance"
     url: checking-performance
     type: lesson
     submit: "Submit nothing."
+    disabled: true
   - title: "Fastness fixer"
     url: "https://github.com/acgd-webdev-3/fastness-fixer"
+    disabled: true
   - title: "This site ain’t no sloth"
     url: "https://github.com/acgd-webdev-3/this-site-aint-no-sloth"
+    disabled: true
 ---

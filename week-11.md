@@ -1,35 +1,32 @@
 ---
-topic: "Using images"
-desc: "Explore all the different methods to use images on websites and their ramifications."
-clr: "1, 2, 4, 5"
+topic: "Accessibility testing"
+desc: "Explore the myriad of helpful accessibility tools to help make our websites truly humanist."
+clr: "1, 2, 4, 7"
 
 video_tutorials:
-  - title: "Using images"
-    url: using-images
-    # videos: true
-  - title: "Images for retina screens"
-    url: images-for-retina
-    # videos: true
-  - title: "Images cheat sheet"
-    url: images-cheat-sheet
+  - title: "Accessibility"
+    url: accessibility
+    videos: true
+  - title: "Accessibility checklist"
+    url: accessibility-checklist
+  - title: "Accessibility testing checklist"
+    url: accessibility-testing-checklist
     highlight: true
 
-slides:
-  - title: "Background & retina images"
-    url: background-retina-images
+group_activities:
+  - title: "Using VoiceOver"
+    url: using-voiceover
+    type: star
+  - title: "Solving accessibility problems"
+    # Get students to find problems on important websites (Algonquin, etc.)
+    type: pencil
+    pair: true
 
 tasks:
-  - title: "Alt Attributer"
-    url: "https://activities.learn-the-web.algonquindesign.ca/alt-attributer/"
+  - title: "Accessibility Atomizer"
     type: activity
-  - title: "Background images"
-    url: background-images
-    type: lesson
-  - title: "Retina images"
-    url: retina-images
-    type: lesson
-  - title: "Leafy decorations"
-    url: "https://github.com/acgd-webdev-3/leafy-decorations"
-  - title: "Retina gallery"
-    url: "https://github.com/acgd-webdev-3/retina-gallery"
+  - title: "Using a11y testing tools"
+  - type: blank
+  - title: "Only keyboards allowed"
+  - type: watch-videos
 ---
