@@ -24,9 +24,9 @@ video_tutorials:
 
 group_activities:
   - title: "All ’bout them semantics"
+    url: all-bout-them-semantics
     type: pencil
     pair: true
-    disabled: true
   - title: "Gotta sketch ’em all"
     type: pencil
     pair: true
@@ -34,10 +34,11 @@ group_activities:
 
 tasks:
   - title: "Semantics Soothsayer"
+    url: "https://activities.learn-the-web.algonquindesign.ca/semantics-soothsayer/"
     type: activity
   - type: blank
   - title: "Me-oh-my HTML"
-    disabled: true
+    url: "https://github.com/acgd-webdev-3/me-oh-my-html"
   - title: "Modularity mindfulness"
     disabled: true
   - type: watch-videos
