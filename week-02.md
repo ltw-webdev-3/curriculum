@@ -28,9 +28,9 @@ group_activities:
     type: pencil
     pair: true
   - title: "Gotta sketch ’em all"
+    url: gotta-sketch-em-all
     type: pencil
     pair: true
-    disabled: true
 
 tasks:
   - title: "Semantics Soothsayer"
@@ -40,6 +40,6 @@ tasks:
   - title: "Me-oh-my HTML"
     url: "https://github.com/acgd-webdev-3/me-oh-my-html"
   - title: "Modularity mindfulness"
-    disabled: true
+    url: "https://github.com/acgd-webdev-3/modularity-mindfulness"
   - type: watch-videos
 ---
