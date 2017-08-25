@@ -10,6 +10,8 @@ video_tutorials:
   - title: "Performance checklist"
     url: performance-checklist
     highlight: true
+  - title: "Accessibility checklist"
+    url: accessibility-checklist
 
 slides:
   - title: "Performance"

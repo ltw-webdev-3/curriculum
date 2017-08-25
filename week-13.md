@@ -1,6 +1,6 @@
 ---
-topic: "Fancy website planning"
-desc: "Start your fancy website by sketching, writing some text & starting to code."
+topic: "Animal rescue website planning"
+desc: "Start your animal rescue website by sketching, writing some text & starting to code."
 clr: "1, 2, 3, 4, 5, 6, 7, 8, 9"
 
 video_tutorials:
@@ -22,15 +22,15 @@ tasks:
     url: "https://activities.learn-the-web.algonquindesign.ca/performance-prognosticator/"
     type: activity
   - type: blank
-  - title: "Fancy website sketches"
-    url: "https://github.com/acgd-webdev-3/fancy-website-sketches"
+  - title: "Animal rescue website sketches"
+    url: "https://github.com/acgd-webdev-3/animal-rescue-website-sketches"
     type: paper
     no-solution: true
     disabled: true
-  - title: "Fancy website"
-    url: "https://github.com/acgd-webdev-3/fancy-website"
+  - title: "Animal rescue website"
+    url: "https://github.com/acgd-webdev-3/animal-rescue-website"
     due: "Midnight, last day of class"
-    graded-as: fancy-website
+    graded-as: animal-rescue-website
     no-solution: true
     disabled: true
   - type: blank

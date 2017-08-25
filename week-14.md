@@ -1,5 +1,5 @@
 ---
-topic: "Fancy website coding"
+topic: "Animal rescue website coding"
 desc: "Progress makes perfect: continue working on your fancy website and show the teacher some progress."
 clr: "1, 2, 3, 4, 5, 6, 7, 8, 9"
 
@@ -23,18 +23,20 @@ group_activities:
     type: star
 
 tasks:
-  - title: "Commit Connoisseur"
+  - title: "License Liberator"
+    url: https://activities.learn-the-web.algonquindesign.ca/license-liberator/
     type: activity
   - type: blank
-  - title: "Fancy website check-in"
-    url: "https://github.com/acgd-webdev-3/fancy-website-check-in"
-    type: paper
+  - title: "Animal rescue website check-in"
+    url: "https://github.com/acgd-webdev-3/animal-rescue-website-check-in"
+    button: activity
+    type: basic
     no-solution: true
     disabled: true
-  - title: "Fancy website"
-    url: "https://github.com/acgd-webdev-3/fancy-website"
+  - title: "Animal rescue website"
+    url: "https://github.com/acgd-webdev-3/animal-rescue-website"
     due: "Midnight, last day of class"
-    graded-as: fancy-website
+    graded-as: animal-rescue-website
     no-solution: true
     disabled: true
   - type: blank

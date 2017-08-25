@@ -13,6 +13,8 @@ video_tutorials:
   - title: "Images cheat sheet"
     url: images-cheat-sheet
     highlight: true
+  - title: "Naming & paths cheat sheet "
+    url: naming-paths-cheat-sheet
 
 slides:
   - title: "Background & retina images"

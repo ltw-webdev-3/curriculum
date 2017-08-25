@@ -9,6 +9,8 @@ video_tutorials:
   - title: "Images for the web"
     url: image-formats
     videos: true
+  - title: "Naming & paths cheat sheet "
+    url: naming-paths-cheat-sheet
 
 slides:
   - title: "Preparing images"
@@ -23,8 +25,7 @@ group_activities:
     disabled: true
 
 tasks:
-  - title: "License Liberator"
-    url: https://activities.learn-the-web.algonquindesign.ca/license-liberator/
+  - title: "Naming Conventioneer"
     type: activity
   - title: "Exporting from Photoshop"
     url: exporting-from-photoshop

@@ -8,6 +8,8 @@ video_tutorials:
     url: css-animations-effects
     highlight: true
     videos: true
+  - title: "Naming & paths cheat sheet "
+    url: naming-paths-cheat-sheet
 
 slides:
   - title: "CSS transitions"

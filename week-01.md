@@ -3,6 +3,14 @@ topic: "Introduction"
 desc: "An overview of the course this term, assignments, projects and weekly tasks."
 clr: "1, 2"
 
+video_tutorials:
+  - title: "Everything from Set up"
+    url: "#setup"
+  - title: "Everything from Web Dev 1"
+    url: "#web-dev-1"
+  - title: "Everything from Web Dev 2"
+    url: "#web-dev-2"
+
 slides:
   - title: "Web Dev 3 intro"
     url: intro

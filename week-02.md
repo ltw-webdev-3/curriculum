@@ -4,20 +4,18 @@ desc: "Review exercises to get everybody warmed up and to flex the code muscles.
 clr: "1, 2"
 
 video_tutorials:
-  - title: "Everything from Set up"
-    url: "#setup"
-  - title: "Everything from Web Dev 1"
-    url: "#web-dev-1"
-  - title: "Everything from Web Dev 2"
-    url: "#web-dev-2"
   - title: "HTML semantics cheat sheet"
     url: html-semantics-cheat-sheet
-    highlight: true
-  - title: "All devices setup"
-    url: all-devices-setup
-    highlight: true
+  - title: "CSS selectors & units cheat sheet"
+    url: css-selectors-units-cheat-sheet
   - title: "Screen sizes cheat sheet"
     url: screen-sizes-cheat-sheet
+  - title: "Gridifier cheat sheet"
+    url: gridifier-cheat-sheet
+  - title: "Typografier cheat sheet"
+    url: typografier-cheat-sheet
+  - title: "Modulifier cheat sheet"
+    url: modulifier-cheat-sheet
   - title: "Using Markbot"
     url: "/courses/web-dev-1/using-markbot/"
     highlight: true
