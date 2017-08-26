@@ -12,6 +12,7 @@ video_tutorials:
     url: modulifier-cheat-sheet
   - title: "Images cheat sheet"
     url: images-cheat-sheet
+  - title: "CSS animations & effects cheat sheet"
   - title: "Performance checklist"
     url: performance-checklist
   - title: "Accessibility checklist"

@@ -8,6 +8,7 @@ video_tutorials:
     url: css-animations-effects
     highlight: true
     videos: true
+  - title: "CSS animations & effects cheat sheet"
 
 slides:
   - title: "CSS animations"
@@ -19,13 +20,16 @@ group_activities:
 
 tasks:
   - title: "Effect Effector"
+    url: "https://activities.learn-the-web.algonquindesign.ca/effect-effector/"
     type: activity
+    disabled: true
   - title: "Animational situational"
+    url: animational-situational
     type: lesson
     disabled: true
   - type: blank
   - title: "Animated clock"
-    url: "https://github.com/acgd-webdev-4/animated-clock"
+    url: "https://github.com/acgd-webdev-3/animated-clock"
     disabled: true
   - type: watch-videos
 ---

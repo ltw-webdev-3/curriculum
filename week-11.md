@@ -24,9 +24,15 @@ group_activities:
 
 tasks:
   - title: "Accessibility Atomizer"
+    url: "https://activities.learn-the-web.algonquindesign.ca/accessibility-atomizer/"
     type: activity
+    disabled: true
   - title: "Using a11y testing tools"
+    url: using-a11y-testing-tools
+    disabled: true
   - type: blank
   - title: "Only keyboards allowed"
+    url: "https://github.com/acgd-webdev-4/only-keyboards-allowed"
+    disabled: true
   - type: watch-videos
 ---

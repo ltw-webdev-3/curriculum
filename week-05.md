@@ -29,7 +29,9 @@ tasks:
     type: lesson
     disabled: true
   - title: "Interactive polaroids"
-    url: "https://github.com/acgd-webdev-4/interactive-polaroids"
+    url: "https://github.com/acgd-webdev-3/interactive-polaroids"
     disabled: true
   - title: "But ’em buttons"
+    url: "https://github.com/acgd-webdev-3/but-em-buttons"
+    disabled: true
 ---

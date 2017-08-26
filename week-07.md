@@ -11,6 +11,7 @@ video_tutorials:
   - title: "SVG cheat sheet"
     url: svg-cheat-sheet
     highlight: true
+  - title: "CSS animations & effects cheat sheet"
 
 slides:
   - title: "Advanced SVG"
@@ -24,9 +25,11 @@ tasks:
     type: lesson
     disabled: true
   - title: "Interactive SVG"
-    url: "https://github.com/acgd-webdev-4/interactive-svg"
+    url: "https://github.com/acgd-webdev-3/interactive-svg"
     disabled: true
   - title: "Targeted SVG"
     # SVG + :target to make some interactivity
+    url: "https://github.com/acgd-webdev-3/targeted-svg"
+    disabled: true
   - type: watch-videos
 ---

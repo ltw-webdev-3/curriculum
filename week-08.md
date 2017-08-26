@@ -11,6 +11,7 @@ video_tutorials:
   - title: "SVG cheat sheet"
     url: svg-cheat-sheet
     highlight: true
+  - title: "CSS animations & effects cheat sheet"
 
 slides:
   - title: "SVG icons"
@@ -27,7 +28,7 @@ tasks:
     disabled: true
   - type: blank
   - title: "SVG icons sets"
-    url: "https://github.com/acgd-webdev-4/svg-icon-sets"
+    url: "https://github.com/acgd-webdev-3/svg-icon-sets"
     disabled: true
   - type: watch-videos
 ---
