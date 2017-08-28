@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Gotta sketch ’em all"
+desc: "A in-class review exercise for grids, type systems and modular CSS."
 
 slides:
   - type: super-big-text

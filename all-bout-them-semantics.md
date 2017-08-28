@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "All ’bout them semantics"
+desc: "A quick review exercise for HTML semantics before starting the term."
 
 slides:
   - type: super-big-text
