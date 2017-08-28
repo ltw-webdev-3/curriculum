@@ -13,7 +13,7 @@ slides:
 
       *Super hero*
 
-      [lorenzc@algonquincollege.com](mailto:lorenzc@algonquincollege.com)
+      [vandemm@algonquincollege.com](mailto:vandemm@algonquincollege.com)
 
   - content: |
       ## TAs
