@@ -17,15 +17,6 @@ slides:
       [vandemm@algonquincollege.com](mailto:vandemm@algonquincollege.com)
 
   - content: |
-      ## TAs
-
-      *Available in class and during labs*
-
-      - Chelle
-      - Sage
-      - Sarah
-
-  - content: |
       ## What we’re learning
 
       - Working with images & icons
@@ -53,12 +44,9 @@ slides:
       - Watch the videos before class
 
   - content: |
-      ## Office hours
+      ## Labs & TAs
 
-      *By appointment only.*
-
-  - content: |
-      ## Labs
+      **TAs in class & scheduled work labs**
 
       - 1 hour work labs
       - Scheduled outside class
