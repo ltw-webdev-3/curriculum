@@ -3,6 +3,8 @@ layout: slide-deck
 title: "All ’bout them semantics"
 desc: "A quick review exercise for HTML semantics before starting the term."
 
+group_work: true
+
 slides:
   - type: super-big-text
     content: |
