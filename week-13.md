@@ -30,8 +30,10 @@ tasks:
     disabled: true
   - title: "Animal rescue website"
     url: "https://github.com/acgd-webdev-3/animal-rescue-website"
-    due: "Midnight, last day of class"
     graded-as: animal-rescue-website
+    due: "Midnight, last day of class"
+    due_week: 15
+    due_time: "23:59"
     no-solution: true
     disabled: true
   - type: blank
