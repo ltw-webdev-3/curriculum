@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Advanced SVG"
+desc: "An introduction to writing SVG code by hand and integrating it with CSS effects like animations & transitions."
 
 slides:
   - type: super-big-text

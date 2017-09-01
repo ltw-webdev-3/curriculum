@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "SVG icons"
+desc: "A quick introduction to SVG icon and different ways to use them: separate files or embedded in the HTML."
 
 slides:
   - type: super-big-text

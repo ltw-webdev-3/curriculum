@@ -1,7 +1,9 @@
 ---
 layout: slide-deck
-
 title: "Images formats"
+desc: "A group activity to practice quickly determining the correct image format and how to correctly implement the image into a website."
+
+group_work: true
 
 slides:
   - type: super-big-text

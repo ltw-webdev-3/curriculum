@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Using VoiceOver"
+desc: "A activity to practice navigating a website using MacOS’s VoiceOver accessibility tool."
 
 slides:
   - type: super-big-text

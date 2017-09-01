@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Performance"
+desc: "A quick overview of basic performance metrics and solutions to make websites more performant."
 
 slides:
   - type: super-big-text

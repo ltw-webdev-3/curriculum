@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Preparing images"
+desc: "A quick introduction to exporting and preparing images for the web from common Adobe applications."
 
 slides:
   - type: super-big-text

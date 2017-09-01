@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Accessibility"
+desc: "A quick overview of major accessibility concerns, how they affect our websites, and how we can make access to our websites better."
 
 slides:
   - type: super-big-text

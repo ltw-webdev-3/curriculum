@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Background & retina images"
+desc: "A quick overview of using CSS background images on a site and when they should be used."
 
 slides:
   - type: super-big-text

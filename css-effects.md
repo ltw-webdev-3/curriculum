@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "CSS effects"
+desc: "A quick overview of CSS properties that help create animations & effects, e.g. transform, transition & animation."
 
 slides:
   - type: super-big-text
