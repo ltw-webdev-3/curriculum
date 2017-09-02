@@ -26,7 +26,7 @@ slides:
   - content: |
       ## Final project
 
-      - Theme: Animal Rescue Redesign
+      - Theme: *Animal Rescue Redesign*
       - Multi-page website, integrating everything from this and previous terms
       - ~3 weeks to complete
       - Fully responsive, fast, accessible, designed & complete website
