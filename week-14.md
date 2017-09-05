@@ -33,6 +33,7 @@ tasks:
     button: activity
     type: basic
     no-solution: true
+    submit: show
     disabled: true
   - title: "Animal rescue website"
     url: "https://github.com/acgd-webdev-3/animal-rescue-website"
