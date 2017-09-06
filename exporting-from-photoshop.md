@@ -17,7 +17,7 @@ steps:
     before: |
       To get started on this project we need to download a few raster graphics that we can manipulate & export.
 
-      ### [Download these files.](https://assets.learn-the-web.algonquindesign.ca/web-dev-3/exporting-from-photoshop.zip)
+      ### [Download these files.](https://assets.learn-the-web.algonquindesign.ca/web-dev-3/exporting-from-photoshop-download.zip)
 
       Now create the following folder structure on your computer:
     folders:

@@ -17,7 +17,7 @@ steps:
     before: |
       To get started on this project we need to download an Illustrator file that we can manipulate & export.
 
-      <h3><a href="https://assets.learn-the-web.algonquindesign.ca/web-dev-3/exporting-from-illustrator.zip">Download this Illustrator file.</a></h3>
+      ### [Download these files.](https://assets.learn-the-web.algonquindesign.ca/web-dev-3/exporting-from-illustrator-download.zip)
 
       Now create the following folder structure on your computer:
     folders:

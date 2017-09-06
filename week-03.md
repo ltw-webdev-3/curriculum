@@ -36,6 +36,5 @@ tasks:
   - title: "Production prepping & compression"
     url: "https://github.com/acgd-webdev-3/production-prepping-compression"
     submit: show
-    disabled: true
   - type: watch-videos
 ---
