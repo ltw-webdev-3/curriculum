@@ -30,11 +30,9 @@ tasks:
   - title: "Exporting from Photoshop"
     url: exporting-from-photoshop
     type: lesson
-    disabled: true
   - title: "Exporting from Illustrator"
     url: exporting-from-illustrator
     type: lesson
-    disabled: true
   - title: "Production prepping & compression"
     url: "https://github.com/acgd-webdev-3/production-prepping-compression"
     submit: show

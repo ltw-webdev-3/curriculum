@@ -17,7 +17,7 @@ steps:
     before: |
       To get started on this project we need to download an Illustrator file that we can manipulate & export.
 
-      <h3><a href="https://assets.learn-the-web.algonquindesign.ca/web-dev-3/dinosaurs.zip">Download this Illustrator file.</a></h3>
+      <h3><a href="https://assets.learn-the-web.algonquindesign.ca/web-dev-3/exporting-from-illustrator.zip">Download this Illustrator file.</a></h3>
 
       Now create the following folder structure on your computer:
     folders:
@@ -40,12 +40,10 @@ steps:
 
       - `prod` — (short for `production`) to keep perfect assets ready for exporting, in case they need to be changed
       - `www` — this is your GitHub repository, where all your HTML & CSS files are (we’re not using GitHub right now)
-      - `images` — this is where the exported, smushed files go
+      - `www/images` — this is where the exported, smushed files go
 
       **Illustrator documents SHOULD NEVER be committed into your GitHub repository.**
     notes:
-      - label: "Type it, type it real good"
-        text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
       - label: "Naming conventions"
         text: "Don’t forget to follow the [naming conventions](/topics/naming-paths-cheat-sheet/#naming-conventions)."
 
@@ -64,7 +62,7 @@ steps:
 
       *Change the dimensions of the artboard to exactly “256 × 256”.* I like to use `256` as a good starting size for SVG artboards.
 
-      We want to make sure the artboard perfectly matches the artwork—**if there are wide spaces in the artboard, those will cause the SVG to look funny.**
+      We want to make sure the artboard perfectly matches the artwork—**if there extra spaces around the artboard, those will cause the SVG to look funny.**
 
       You can use the `Object > Artboard > Fit to Artwork Bounds` menu option to make it faster—but sometimes I don’t like the artwork touching the sides of the artboard.
     notes:
@@ -116,7 +114,20 @@ steps:
 
       ![](images.jpg)
 
-      *You can go ahead and use these graphics in your HTML & CSS how you’re used to.*
-
       **Never edit the SVG after it has been exported—that’s why we save the AI file. AI files are for editing, SVG files are for using on the website.**
+
+  - title: "Smush the files"
+    before: |
+      We want to make the SVGs we use on the web as small as possible—Illustrator only does part of the job.
+
+      Next up we need to drop the images into [**Spritebot**](https://github.com/thomasjbradley/spritebot) to really reduce their file size—it won’t reduce the quality in any way.
+
+      ![](spritebot.jpg)
+
+      You don’t have to save the files or anything, Spritebot will just overwrite your graphics with ones that are smaller size.
+
+      **Now we have super small, super optimized graphics for our website that will help it load quickly.**
+
+      You can go ahead and use these graphics in your HTML & CSS how you’re used to.
+
 ---

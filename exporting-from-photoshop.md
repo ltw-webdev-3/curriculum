@@ -17,7 +17,7 @@ steps:
     before: |
       To get started on this project we need to download a few raster graphics that we can manipulate & export.
 
-      ### [Download these files.](https://assets.learn-the-web.algonquindesign.ca/web-dev-3/export-psd.zip)
+      ### [Download these files.](https://assets.learn-the-web.algonquindesign.ca/web-dev-3/exporting-from-photoshop.zip)
 
       Now create the following folder structure on your computer:
     folders:
@@ -50,13 +50,15 @@ steps:
       - `assets` — for files that are sourced or downloaded from another location that aren’t ready to be exported. *These files usually need to be credited to the author because you didn’t create them.*
       - `prod` — (short for `production`) to keep perfect assets ready for exporting, in case they need to be changed
       - `www` — this is your GitHub repository, where all your HTML & CSS files are (we’re not using GitHub right now)
-      - `images` — this is where the exported, smushed files go
+      - `www/images` — this is where the exported, smushed files go
 
       **Photoshop documents SHOULD NEVER be committed into your GitHub repository.**
     notes:
+      - label: "Naming conventions"
+        text: "Don’t forget to follow the [naming conventions](/topics/naming-paths-cheat-sheet/#naming-conventions)."
       - label: "Older is sometimes better"
         text: |
-          Photoshop has some newer ways of exporting graphics—that may work really well for mobile apps but are inferior for The Web.
+          Photoshop has some newer ways of exporting graphics—that may work really well for mobile apps but are inferior for The Open Web.
 
           - `Generator` is okay for lots of tiny assets, but isn’t ideal for good compression. It also messes with layer names.
           - `Export As…` is a newer version of generator but removes file size controls that are so essential so saving for the web.
