@@ -20,37 +20,53 @@ slides:
 
       **Don’t look ahead—the answers are within!**
 
-  - type: image
+  - type: figure
     checkerboard: true
     image: image-1.svg
+    caption: |
+      № 1
 
-  - type: image
+  - type: figure
     checkerboard: true
     image: image-2.jpg
+    caption: |
+      № 2
 
-  - type: image
+  - type: figure
     checkerboard: true
     image: image-3.jpg
+    caption: |
+      № 3
 
-  - type: image
+  - type: figure
     checkerboard: true
     image: image-4.png
+    caption: |
+      № 4
 
-  - type: image
+  - type: figure
     checkerboard: true
     image: image-5.svg
+    caption: |
+      № 5
 
-  - type: image
+  - type: figure
     checkerboard: true
     image: image-6.svg
+    caption: |
+      № 6
 
-  - type: image
+  - type: figure
     checkerboard: true
     image: image-7.png
+    caption: |
+      № 7
 
-  - type: image
+  - type: figure
     checkerboard: true
     image: image-8.png
+    caption: |
+      № 8
 
   - content: |
       1. SVG — simple graphic

@@ -15,14 +15,12 @@ video_tutorials:
 slides:
   - title: "Preparing images"
     url: preparing-images
-    disabled: true
 
 group_activities:
   - title: "Image formats"
     url: image-formats
     type: pencil
     pair: true
-    disabled: true
 
 tasks:
   - title: "Naming Conventioneer"
