@@ -26,7 +26,6 @@ tasks:
   - title: "Naming Conventioneer"
     url: "https://activities.learn-the-web.algonquindesign.ca/naming-conventioneer/"
     type: activity
-    disabled: true
   - title: "Exporting from Photoshop"
     url: exporting-from-photoshop
     type: lesson
