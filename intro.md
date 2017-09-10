@@ -9,7 +9,7 @@ slides:
       **Web Dev 3**
 
   - content: |
-      ## Chelle Lorenzon
+      ## Chelle Lorenzen
 
       *Super hero*
 
