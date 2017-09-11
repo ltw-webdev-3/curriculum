@@ -19,18 +19,17 @@ video_tutorials:
 slides:
   - title: "Background & retina images"
     url: background-retina-images
-    disabled: true
 
 tasks:
   - type: blank
   - title: "Background images"
     url: background-images
     type: lesson
-    disabled: true
+    submit: code
   - title: "Retina images"
     url: retina-images
     type: lesson
-    disabled: true
+    submit: code
   - title: "Leafy decorations"
     url: "https://github.com/acgd-webdev-3/leafy-decorations"
     disabled: true

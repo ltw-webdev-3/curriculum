@@ -32,6 +32,12 @@ slides:
         background-image: url("../images/pattern.svg");
         border: 4px solid steelblue;
       }
+    css_lines:
+      - num: 2
+        text: |
+          Notice the `url()` function. The path to the image is written from the perspective of the CSS file.
+
+          *It’ll very often start with `../` which means “go out of this folder” or, in this case, go out of the `CSS` folder.*
 
   - type: interactive
     html: |
@@ -40,6 +46,13 @@ slides:
         the image isn’t visible
       -->
       <div class="bg"></div>
+    html_lines:
+      - num: 5
+        text: |
+          The background image isn’t visible because the `<div>` doesn’t take up any space in the layout.
+
+          - If the `<div>` had content inside the image would be visible.
+          - If the `<div>` had a `height` (not recommended to ever use `height`) the image would also be visible.
     css: |
       .bg {
         background-image: url("../images/pattern.svg");
@@ -72,6 +85,12 @@ slides:
         background-image: linear-gradient(to bottom, red, darkred);
         color: #fff;
       }
+    css_lines:
+      - num: 2
+        text: |
+          Gradients are background images that the browser generates for us. They will cover the `background-color`.
+
+          *It’s a very good idea to also provide a `background-color` when using gradients.*
 
   - content: |
       ## Retina images
@@ -85,12 +104,18 @@ slides:
       - `<img srcset="…" alt="…">`
       - `<picture>`
       - “Compressive JPGs”
+    notes: |
+      1. `srcset` is great when you want to provide different resolutions of the same graphic, like a 1× & a 2×. It’s backwards compatible because the regular `src` attribute should always point to the smallest image version.
+      2. `<picture>` is great for different croppings of images, like a square image on small screens & a rectangular image on large screens. It’s generally backwards compatible because a standard `<img>` tag should be nested inside.
+      3. “Compressive JPGs” are what we’ll concentrate on: making the images bigger than they’re displayed.
 
   - content: |
       ## Compressive JPGs
 
       - Recognizes that the images are scaled down
       - The quality can be much lower to save download time—yet still look good
+    notes: |
+      We’re going to be using Compressive JPGs almost exclusively because in many situations they’re the simplest solution to get the job done.
 
   - content: |
       ## Compressive calculations

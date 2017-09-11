@@ -3,10 +3,8 @@ layout: lesson
 title: "Background images"
 desc: "Use multiple images as background to create more complex design solutions."
 
-markbot_notes: |
-  *Ignore the “there are no headings in this document” error message—but fix everything else.*
-
-  Since this is the footer of a page, a heading isn’t terribly necessary.
+markbot_submit: true
+hide_show_for_marks: true
 
 extra_tutorials:
   - title: "Using images"
@@ -25,14 +23,13 @@ goal:
     - label: "Type it, type it real good"
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
+fork:
+  url: "https://github.com/acgd-webdev-3/background-images/fork"
+
 steps:
-  - title: "Project setup"
+  - title: "Project files"
     before: |
-      To get started on this project we need to download a few graphics that are exported, compressed, smushed and ready to be used.
-
-      ### [Fork this repo.](https://github.com/acgd-webdev-3/background-images/fork)
-
-      **Make sure you clone it to your computer.**
+      After forking & cloning the repository to your computer you should have the following files:
     folders:
       - label: "background-images"
         type: folder
@@ -61,7 +58,7 @@ steps:
       - label: "index.html"
         indent: 1
     after: |
-      There’s also some HTML & CSS already coded so we can concentrate completely on background images.
+      *There’s also some HTML & CSS already coded so we can concentrate completely on background images.*
 
   - title: "Spy glass image in search field"
     before: |

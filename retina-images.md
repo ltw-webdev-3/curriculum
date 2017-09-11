@@ -3,8 +3,8 @@ layout: lesson
 title: "Retina images"
 desc: "A quick look at exporting retina ready images using the compressive JPG technique."
 
-markbot_notes: |
-  *Ignore the “there are no headings in this document” & the `main.css` is empty error messages—but fix everything else.*
+markbot_submit: true
+hide_show_for_marks: true
 
 extra_tutorials:
   - title: "Using images"
@@ -21,45 +21,61 @@ goal:
 
     The technique we’re going to look at is called “Compressive JPGs”—essentially we make them double the width and scale them down while significantly reducing the quality.
 
+fork:
+  url: "https://github.com/acgd-webdev-3/retina-images/fork"
+
 steps:
   - title: "Project setup"
     before: |
-      To get started on this project we need to download a few PSDs and the code of a basic website.
-
-      ### [Fork this repo.](https://github.com/acgd-webdev-3/retina-images/fork)
+      To get started on this project we need to download a few PSDs to use on the website.
 
       ### [Download these PSDs.](https://assets.learn-the-web.algonquindesign.ca/web-dev-3/retina-images-download.zip)
 
-      **Make sure you clone the repo to your computer.**
+      After downloading the PSDs and cloning the repo you should have a folder structure like this:
     folders:
+      - label: "retina-images-lesson"
+        type: folder
+      - label: "prod"
+        type: folder
+        indent: 1
+      - label: "bee-butt.psd"
+        indent: 2
+      - label: "bee-face.psd"
+        indent: 2
       - label: "background-images"
         type: folder
+        indent: 1
+        notes: "This is the cloned GitHub repo"
       - label: "images"
         type: folder
-        indent: 1
+        indent: 2
       - label: "placeholder-3by2.svg"
-        indent: 2
+        indent: 3
       - label: "placeholder-3by1.svg"
-        indent: 2
+        indent: 3
       - label: "css"
         type: folder
-        indent: 1
+        indent: 2
         fade: true
         notes: "We’re not going to touch the CSS"
       - label: "grid.css"
-        indent: 2
+        indent: 3
         fade: true
       - label: "main.css"
-        indent: 2
+        indent: 3
         fade: true
       - label: "modules.css"
-        indent: 2
+        indent: 3
         fade: true
       - label: "type.css"
-        indent: 2
+        indent: 3
         fade: true
       - label: "index.html"
-        indent: 1
+        indent: 2
+    after: |
+      *Notice how the PSD files are not inside our Git repository, they’re in a folder beside the Git repository named `prod`.*
+
+      **Creative Suite documents never go inside your Git repository!**
 
   - title: "Determine the image width"
     before: |
@@ -104,6 +120,14 @@ steps:
       The important part of exporting when making compressive JPGs is to make the **quality really low**, 20% low. Since the images will be scaled down by the browser the quality degradation won’t be noticeable.
 
       ![](export.jpg)
+
+  - title: "Smush the images"
+    before: |
+      Because performance is probably the most important design consideration for The Web we need to make sure the images are as small as possible.
+
+      Drop ’em into ImageOptim and remove all the extra cruft from the JPGs so they can be as small as possible.
+
+      ![](imageoptim.jpg)
 
   - title: "Point to the new images"
     before: |
