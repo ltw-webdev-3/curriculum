@@ -32,8 +32,6 @@ tasks:
     submit: code
   - title: "Leafy decorations"
     url: "https://github.com/acgd-webdev-3/leafy-decorations"
-    disabled: true
   - title: "Retina gallery"
     url: "https://github.com/acgd-webdev-3/retina-gallery"
-    disabled: true
 ---
