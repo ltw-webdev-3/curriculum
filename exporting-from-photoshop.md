@@ -256,5 +256,7 @@ steps:
 
       You don’t have to save the files or anything, ImageOptim will just overwrite your graphics with ones that are smaller size.
 
+      *If you’re on Windows you can use [FileOptimizer](http://nikkhokkho.sourceforge.net/static.php?page=FileOptimizer) to perform the same task as ImageOptim.*
+
       **Now we have super small, super optimized graphics for our website that will help it load quickly.**
 ---
