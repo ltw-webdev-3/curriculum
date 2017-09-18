@@ -9,8 +9,8 @@ hide_show_for_marks: true
 extra_tutorials:
   - title: "Using images"
     url: using-images
-  - title: "Images for retina screens"
-    url: images-for-retina
+  - title: "Responsive & retina images"
+    url: responsive-retina-images
   - title: "Images cheat sheet"
     url: images-cheat-sheet
     highlight: true

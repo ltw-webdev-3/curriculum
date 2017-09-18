@@ -133,7 +133,7 @@ slides:
       ## Videos & tutorials
 
       - [Using images ➔](/topics/using-images/)
-      - [Images for retina screens ➔](/topics/images-for-retina/)
+      - [Responsive & retina images ➔](/topics/responsive-retina-images/)
       - [Images cheat sheet ➔](/topics/images-cheat-sheet/)
 
 ---

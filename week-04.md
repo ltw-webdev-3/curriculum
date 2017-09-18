@@ -7,8 +7,8 @@ video_tutorials:
   - title: "Using images"
     url: using-images
     videos: true
-  - title: "Images for retina screens"
-    url: images-for-retina
+  - title: "Responsive & retina images"
+    url: responsive-retina-images
     videos: true
   - title: "Images cheat sheet"
     url: images-cheat-sheet
