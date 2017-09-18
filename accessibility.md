@@ -68,7 +68,7 @@ slides:
       <a href="…" aria-label="More complex information">
 
       <!-- Define an HTML element that contains the alternative description -->
-      <img src="…" aria-describedat="thing">
+      <img src="…" alt="…" aria-details="thing">
 
   - content: |
       ## Tools

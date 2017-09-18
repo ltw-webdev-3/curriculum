@@ -291,13 +291,13 @@ steps:
 
       Maybe in this situation, the `alt="…"` attribute is too limiting: we can’t describe all our content in a single sentence. But it’d still be nice to provide an alternative.
 
-      ARIA provides an `aria-describedat` attribute that allows us to point to another HTML element for the `alt` instead.
+      ARIA provides an `aria-details` attribute that allows us to point to another HTML element for the `alt` instead.
     code_lang: "html"
     code_file: "index.html"
     code: |
       ⋮
       <main role="main" id="main">
-        <img src="images/map.jpg" alt="" aria-describedat="#countries">
+        <img src="images/map.jpg" alt="" aria-details="countries">
 
         <section id="description">
           <h2>Description</h2>
@@ -323,12 +323,12 @@ steps:
         fade: true
       - num: 3
         text: |
-          The new `<img>` tag here has an empty `alt=""` attribute and uses the `aria-describedat="…"` attribute to point to an HTML element in another location on the page that describes the image fully.
+          The new `<img>` tag here has an empty `alt=""` attribute and uses the `aria-details="…"` attribute to point to the ID of an HTML element in another location on the page that describes the image fully.
       - num: "5-6"
         fade: true
       - num: "8-21"
         text: |
-          The element that `aria-describedat="…"` points to must have a matching `id="…"` attribute.
+          The element that `aria-details="…"` points to must have a matching `id="…"` attribute.
       - num: 22
         fade: true
 
