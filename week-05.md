@@ -1,5 +1,5 @@
 ---
-topic: "Transitions"
+topic: "Transforms & transitions"
 desc: "Look at the effects that can be created with CSS using transforms and transitions."
 clr: "1, 2, 5, 6"
 
@@ -29,7 +29,6 @@ tasks:
     disabled: true
   - title: "Interactive polaroids"
     url: "https://github.com/acgd-webdev-3/interactive-polaroids"
-    disabled: true
   - title: "But ’em buttons"
     url: "https://github.com/acgd-webdev-3/but-em-buttons"
     disabled: true
