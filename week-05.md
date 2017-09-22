@@ -12,9 +12,8 @@ video_tutorials:
     url: naming-paths-cheat-sheet
 
 slides:
-  - title: "CSS transitions"
-    url: css-effects
-    disabled: true
+  - title: "Transforms & transitions"
+    url: transforms-transitions
 
 tasks:
   - title: "Path Paladin"
