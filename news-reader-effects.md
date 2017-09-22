@@ -11,10 +11,12 @@ markbot_notes: |
   I feel like this is part of a larger website so the `<h1>` would probably be somewhere else on the page.
 
 extra_tutorials:
-  - title: "CSS animations & effects"
-    url: css-animations-effects
   - title: "CSS effects slide deck"
     url: /courses/web-dev-4/css-effects/
+  - title: "CSS animations & effects"
+    url: css-animations-effects
+  - title: "CSS animations & effects cheat sheet"
+    url: css-animations-effects-cheat-sheet
 
 goal:
   before: |

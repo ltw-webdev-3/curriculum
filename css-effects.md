@@ -143,5 +143,6 @@ slides:
       ## Videos & tutorials
 
       [CSS animations & effects ➔](/topics/css-animations-effects/)
+      [CSS animations & effects cheat sheet ➔](/topics/css-animations-effects-cheat-sheet/)
 
 ---

@@ -13,6 +13,7 @@ video_tutorials:
   - title: "Images cheat sheet"
     url: images-cheat-sheet
   - title: "CSS animations & effects cheat sheet"
+    url: css-animations-effects-cheat-sheet
   - title: "Performance checklist"
     url: performance-checklist
   - title: "Accessibility checklist"

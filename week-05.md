@@ -8,6 +8,9 @@ video_tutorials:
     url: css-animations-effects
     highlight: true
     videos: true
+  - title: "CSS animations & effects cheat sheet"
+    url: css-animations-effects-cheat-sheet
+    highlight: true
   - title: "Naming & paths cheat sheet "
     url: naming-paths-cheat-sheet
 

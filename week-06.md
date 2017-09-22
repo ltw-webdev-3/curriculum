@@ -9,6 +9,7 @@ video_tutorials:
     highlight: true
     videos: true
   - title: "CSS animations & effects cheat sheet"
+    url: css-animations-effects-cheat-sheet
 
 slides:
   - title: "CSS animations"

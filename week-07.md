@@ -12,6 +12,7 @@ video_tutorials:
     url: svg-cheat-sheet
     highlight: true
   - title: "CSS animations & effects cheat sheet"
+    url: css-animations-effects-cheat-sheet
 
 slides:
   - title: "Advanced SVG"
