@@ -42,7 +42,7 @@ steps:
         indent: 2
       - label: "bee-face.psd"
         indent: 2
-      - label: "background-images"
+      - label: "retina-images"
         type: folder
         indent: 1
         notes: "This is the cloned GitHub repo"
