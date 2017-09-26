@@ -13,6 +13,8 @@ video_tutorials:
     highlight: true
   - title: "Naming & paths cheat sheet "
     url: naming-paths-cheat-sheet
+  - title: "Images cheat sheet"
+    url: images-cheat-sheet
 
 slides:
   - title: "Transforms & transitions"
@@ -25,14 +27,11 @@ tasks:
   - title: "Alt Attributer"
     url: "https://activities.learn-the-web.algonquindesign.ca/alt-attributer/"
     type: activity
-  - title: "News reader effects"
-    # Maybe replace with something just transitions & transforms
-    url: news-reader-effects
+  - title: "Fancy hover boxes"
+    url: fancy-hover-boxes
     type: lesson
-    disabled: true
   - title: "Interactive polaroids"
     url: "https://github.com/acgd-webdev-3/interactive-polaroids"
   - title: "But ’em buttons"
     url: "https://github.com/acgd-webdev-3/but-em-buttons"
-    disabled: true
 ---
