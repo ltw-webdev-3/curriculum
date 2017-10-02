@@ -13,6 +13,7 @@ video_tutorials:
 
 slides:
   - title: "CSS animations"
+    url: css-animations
 
 group_activities:
   - title: "Stories on board"
