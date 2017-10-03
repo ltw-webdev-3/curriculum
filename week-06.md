@@ -25,13 +25,13 @@ tasks:
     url: "https://activities.learn-the-web.algonquindesign.ca/effect-effector/"
     type: activity
     disabled: true
-  - title: "Animational situational"
-    url: animational-situational
+  - title: "Animated clock"
     type: lesson
+    url: animated-clock
+    submit: code
     disabled: true
   - type: blank
-  - title: "Animated clock"
-    url: "https://github.com/acgd-webdev-3/animated-clock"
-    disabled: true
+  - title: "Frozen—not in time"
+    url: "https://github.com/acgd-webdev-3/frozen-not-in-time"
   - type: watch-videos
 ---
