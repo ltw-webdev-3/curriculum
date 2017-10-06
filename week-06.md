@@ -29,7 +29,6 @@ tasks:
     type: lesson
     url: animated-clock
     submit: code
-    disabled: true
   - type: blank
   - title: "Frozen—not in time"
     url: "https://github.com/acgd-webdev-3/frozen-not-in-time"

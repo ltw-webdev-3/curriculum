@@ -22,6 +22,7 @@ goal:
     We’re going to explore how to use transitions to make fancy hover boxes where images go from greyscale to coloured and zoom in when hovered.
   no_image: true
   video: "https://assets.learn-the-web.algonquindesign.ca/web-dev-3/fancy-hover-boxes/goal.mp4"
+  video_poster: goal.jpg
   notes:
     - label: "Type it, type it real good"
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
@@ -34,19 +35,19 @@ steps:
     before: |
       After forking & cloning the repository to your computer you should have the following files:
     folders:
-      - label: "background-images"
+      - label: "fancy-hover-boxes"
         type: folder
       - label: "images"
         type: folder
         indent: 1
       - label: "black.jpg"
-        indent: 1
+        indent: 2
       - label: "blue.jpg"
-        indent: 1
+        indent: 2
       - label: "orange.jpg"
-        indent: 1
+        indent: 2
       - label: "yellow.jpg"
-        indent: 1
+        indent: 2
       - label: "css"
         type: folder
         indent: 1
