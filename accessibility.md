@@ -78,10 +78,10 @@ slides:
       - [AccessLint](http://www.accesslint.com/)
       - [**VoiceOver**](https://www.apple.com/accessibility/osx/voiceover/)
 
-  - type: video
+  - type: youtube-embed
     video: c0nvdiRdehw
 
-  - type: video
+  - type: youtube-embed
     video: cSSgndQ5mVs?start=55&end=164
 
   - content: |
