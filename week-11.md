@@ -17,6 +17,7 @@ group_activities:
   - title: "Using VoiceOver"
     url: using-voiceover
     type: star
+    no-solution: true
   - title: "Solving accessibility problems"
     # Get students to find problems on important websites (Algonquin, etc.)
     type: pencil
