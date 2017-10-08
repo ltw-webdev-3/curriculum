@@ -17,6 +17,7 @@ slides:
 
 group_activities:
   - title: "Stories on board"
+    url: stories-on-board
     type: pencil
     pair: true
 
@@ -24,7 +25,6 @@ tasks:
   - title: "Effect Effector"
     url: "https://activities.learn-the-web.algonquindesign.ca/effect-effector/"
     type: activity
-    disabled: true
   - title: "Animated clock"
     type: lesson
     url: animated-clock
