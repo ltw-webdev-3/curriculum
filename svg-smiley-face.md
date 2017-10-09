@@ -3,23 +3,34 @@ layout: lesson
 title: "SVG smiley face"
 desc: "Hand write SVG code to create an interactive smiley face."
 
-markbot_notes: |
-  *Ignore the “there are no headings in this document…” error message—but fix everything else.*
+hide_show_for_marks: true
+markbot_submit: true
 
 extra_tutorials:
   - title: "Advanced SVG"
     url: advanced-svg
   - title: "Advanced SVG slide deck"
     url: /courses/web-dev-4/advanced-svg/
+  - title: "SVG cheat sheet"
+    url: svg-cheat-sheet
+    highlight: true
+  - title: "CSS animations & effects cheat sheet"
+    url: css-animations-effects-cheat-sheet
 
 goal:
   before: |
     We’re going to look at hand writing some SVG & CSS to create an interactive smiley face.
 
     When hovering over the face the eyebrows will tilt from happy to angry positions.
+  no_image: true
+  video: "https://assets.learn-the-web.algonquindesign.ca/web-dev-3/svg-smiley-face/goal.mp4"
+  video_poster: "goal.jpg"
   notes:
     - label: "Type it, type it real good"
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
+
+fork:
+  url: "https://github.com/acgd-webdev-3/svg-smiley-face"
 
 steps:
   - title: "Set up project"
@@ -36,9 +47,8 @@ steps:
       - label: "main.css"
         indent: 2
     after: |
-      1. Create a folder named `smiley-face`
-      2. Make an `index.html` & add the boilerplate code.
-      3. Make a `main.css` in your `css` folder—it can remain empty.
+      1. Make an `index.html` & add the boilerplate code.
+      2. Make a `main.css` in your `css` folder—it can remain empty.
     notes:
       - label: "Naming conventions"
         text: "Don’t forget to follow the [naming conventions](/topics/naming-paths-cheat-sheet/#naming-conventions)."

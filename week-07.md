@@ -17,17 +17,14 @@ video_tutorials:
 slides:
   - title: "Advanced SVG"
     url: advanced-svg
-    disabled: true
 
 tasks:
   - type: blank
   - title: "SVG smiley face"
     url: svg-smiley-face
     type: lesson
-    disabled: true
   - title: "Interactive SVG"
     url: "https://github.com/acgd-webdev-3/interactive-svg"
-    disabled: true
   - title: "Targeted SVG"
     # SVG + :target to make some interactivity
     url: "https://github.com/acgd-webdev-3/targeted-svg"
