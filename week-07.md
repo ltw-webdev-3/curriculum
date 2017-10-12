@@ -25,9 +25,7 @@ tasks:
     type: lesson
   - title: "Interactive SVG"
     url: "https://github.com/acgd-webdev-3/interactive-svg"
-  - title: "Targeted SVG"
-    # SVG + :target to make some interactivity
-    url: "https://github.com/acgd-webdev-3/targeted-svg"
-    disabled: true
+  - title: "SVG line drawing"
+    url: "https://github.com/acgd-webdev-3/svg-line-drawing"
   - type: watch-videos
 ---
