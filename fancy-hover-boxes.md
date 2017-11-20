@@ -7,6 +7,8 @@ markbot_submit: true
 hide_show_for_marks: true
 
 extra_tutorials:
+  - title: "Transforms & transitions slide deck"
+    url: "/courses/web-dev-3/transforms-transitions/"
   - title: "CSS animations & effects"
     url: css-animations-effects
     highlight: true

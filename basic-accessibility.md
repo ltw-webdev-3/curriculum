@@ -3,6 +3,9 @@ layout: lesson
 title: "Basic accessibility"
 desc: "A quick look at some basic additions to a website to make it more accessible."
 
+markbot_submit: true
+hide_show_for_marks: true
+
 extra_tutorials:
   - title: "Accessibility"
     url: accessibility
@@ -23,20 +26,28 @@ goal:
     - label: "Type it, type it real good"
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
+important:
+  title: "Accessibility is really broad"
+  text: |
+    **There is so much to making an accessible website. The list below is a good start but should not be considered “all there is”.**
+
+    The only way to truly test website accessibility is with live user feedback. Find people and test your website with their different conditions and tools.
+
+fork:
+  url: "https://github.com/acgd-webdev-3/basic-accessibility"
+
 steps:
   - title: "Project setup"
     before: |
       We’re going to start a website from scratch, so we can completely concentrate on just the accessibility.
 
-      Create the following files and folder structure on your computer.
+      After forking & cloning the repository, create the following files in your folder.
     folders:
-      - label: "accessibility"
+      - label: "basic-accessibility"
         type: folder
       - label: "css"
         type: folder
         indent: 1
-      - label: "main.css"
-        indent: 2
       - label: "modules.css"
         indent: 2
       - label: "index.html"
@@ -44,9 +55,12 @@ steps:
     after: |
       Let’s add some basic code to the files now.
 
-      1. Fill the `index.html` with the default boilerplate
-      2. Link both CSS files in `index.html`
-      3. [Go to Modulifier](https://modulifier.web-dev.tools/) and get a fresh copy—make sure to enable the “Accessibility” module
+      1. Fill the `index.html` with the default boilerplate.
+      2. [Go to Modulifier](https://modulifier.web-dev.tools/) and get a fresh copy—select all modules—and link up the `modules.css` file.
+
+      *We’re not even going to bother with a `main.css` because we’re not going to touch any CSS in this lesson.*
+
+      **You can find the text inside the `content.txt` file.**
     notes:
       - label: "HTML snippets"
         text: "Create the boilerplate with `html5`, `viewport` & `css`"
@@ -86,7 +100,7 @@ steps:
         </main>
 
         <footer>
-          <p>© 1821 Pangolin</p>
+          <small>© 1821 Pangolin</small>
         </footer>
 
       </body>
@@ -97,7 +111,7 @@ steps:
       - num: "34-35"
         fade: true
     after: |
-      Make sure very, single page has:
+      Make sure every, single page has:
 
       - `<title>` — that’s unique to every page
       - `<header>`
@@ -126,15 +140,15 @@ steps:
         </header>
 
         <main>
-          <section id="description">
+          <section id="description" tabindex="0">
             <h2>Description</h2>
           </section>
 
-          <section id="behaviour">
+          <section id="behaviour" tabindex="0">
             <h2>Behaviour</h2>
           </section>
 
-          <section id="conservation">
+          <section id="conservation" tabindex="0">
             <h2>Conservation</h2>
           </section>
         </main>
@@ -150,6 +164,8 @@ steps:
       - num: 13
         text: |
           Add the matching `id="…"` attributes to the appropriate sections.
+
+          We also need to add `tabindex="0"` to these elements. This helps keyboard tabbing order by focusing the `<section>` elements when the links are clicked.
       - num: "14-16"
         fade: true
       - num: 17
@@ -159,9 +175,9 @@ steps:
       - num: "22-24"
         fade: true
 
-  - title: "Add ARIA roles"
+  - title: "Add ARIA landmark roles"
     before: |
-      The Web Accessibility Initiative (WAI) has a series of recommendations to make websites more accessible, known as Accessible Rich Internet Applications (ARIA).
+      The [Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/) has a series of recommendations to make websites more accessible, an important specification is [Accessible Rich Internet Applications (ARIA)](https://www.w3.org/WAI/ARIA/).
 
       One of the major things ARIA adds is a “role” system, where we can define specific elements as being important landmarks on the page.
     code_lang: "html"
@@ -197,7 +213,7 @@ steps:
         </main>
 
         <footer role="contentinfo">
-          <p>© 1821 Pangolin</p>
+          <small>© 1821 Pangolin</small>
         </footer>
 
       </body>
@@ -251,7 +267,7 @@ steps:
 
         <header role="banner">
           <h1>Pangolin</h1>
-          <nav role="navigation" id="nav">
+          <nav role="navigation" id="nav" tabindex="0">
             <ul>
               <li><a href="#description">Description</a></li>
               <li><a href="#behaviour">Behaviour</a></li>
@@ -260,7 +276,7 @@ steps:
           </nav>
         </header>
 
-        <main role="main" id="main">
+        <main role="main" id="main" tabindex="0">
           <section id="description">
             <h2>Description</h2>
       ⋮
@@ -277,6 +293,8 @@ steps:
       - num: 12
         text: |
           Make sure to add IDs to the appropriate elements on the page.
+
+          And also make sure to add the `tabindex="0"` to help with keyboard focus.
       - num: "13-19"
         fade: true
       - num: 21
@@ -287,7 +305,7 @@ steps:
 
   - title: "Better image alternatives"
     before: |
-      Let’s say that we have an image on our website—but it doesn’t make sense to use a `<figure>` element, maybe because it’s describe further down the page or something.
+      Let’s say that we have an image on our website—but it doesn’t make sense to use a `<figure>` element, maybe because it’s described much further down the page.
 
       Maybe in this situation, the `alt="…"` attribute is too limiting: we can’t describe all our content in a single sentence. But it’d still be nice to provide an alternative.
 
@@ -296,7 +314,7 @@ steps:
     code_file: "index.html"
     code: |
       ⋮
-      <main role="main" id="main">
+      <main role="main" id="main" tabindex="0">
         <img src="images/map.jpg" alt="" aria-details="countries">
 
         <section id="description">
@@ -370,6 +388,16 @@ steps:
       - num: 12
       - num: "13-14"
         fade: true
+
+  - title: "Link focus states"
+    before: |
+      We don’t actually have to do anything right now. Browsers have default focus states for links and *Modulifier changes them to be large black outlines*.
+
+      *Try navigating around the page using the `Tab` key.*
+
+      ![](focus.png)
+
+      **Those black boxes that surround links are extremely important for accessibility access and should never be removed.** You’re welcome to style them a little to make sure there’s enough contrast with the background—because black boxes won’t show up on a dark background.
     after: |
       **That’s absolutely not all there is to accessibility.** Much more testing needs to be done with accessibility validators and tools like VoiceOver.
 

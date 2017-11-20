@@ -23,6 +23,7 @@ tasks:
   - title: "SVG smiley face"
     url: svg-smiley-face
     type: lesson
+    submit: code
   - title: "Interactive SVG"
     url: "https://github.com/acgd-webdev-3/interactive-svg"
   - title: "SVG line drawing"

@@ -10,7 +10,7 @@ extra_tutorials:
   - title: "Advanced SVG"
     url: advanced-svg
   - title: "Advanced SVG slide deck"
-    url: /courses/web-dev-4/advanced-svg/
+    url: "/courses/web-dev-3/advanced-svg/"
   - title: "SVG cheat sheet"
     url: svg-cheat-sheet
     highlight: true

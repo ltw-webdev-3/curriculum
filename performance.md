@@ -39,9 +39,20 @@ slides:
       - Properly export, compress & smush images
       - Use as few fonts as possible (none is ideal)
       - Remove duplicate code
-      - Fix broken links make websites slower
+      - Fix broken links which make websites slower
       - Remove social media buttons and stick to simple icons
       - Remove ads and tracking scripts
+
+  - content: |
+      ## Have a performance budget
+
+      *Think about the slowest you want your website to be and come up with restrictions*
+
+      Here’s an example:
+
+      - Max. load time: **< 1000 ms**
+      - Max. requests: **15** (CSS, fonts, images, etc.)
+      - Max. download size: **800 kB**
 
   - content: |
       ## Videos & tutorials

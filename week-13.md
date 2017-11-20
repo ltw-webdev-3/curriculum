@@ -24,11 +24,10 @@ tasks:
     url: "https://activities.learn-the-web.algonquindesign.ca/performance-prognosticator/"
     type: activity
   - type: blank
-  - title: "Animal rescue website sketches"
-    url: "https://github.com/acgd-webdev-3/animal-rescue-website-sketches"
-    type: paper
+  - title: "Animal rescue website UX"
+    url: "https://github.com/acgd-webdev-3/animal-rescue-website-ux"
+    type: basic
     no-solution: true
-    disabled: true
   - title: "Animal rescue website"
     url: "https://github.com/acgd-webdev-3/animal-rescue-website"
     graded-as: animal-rescue-website
@@ -36,6 +35,5 @@ tasks:
     due_week: 15
     due_time: "23:59"
     no-solution: true
-    disabled: true
   - type: blank
 ---

@@ -29,6 +29,7 @@ tasks:
     type: activity
   - title: "Fancy hover boxes"
     url: fancy-hover-boxes
+    submit: code
     type: lesson
   - title: "Interactive polaroids"
     url: "https://github.com/acgd-webdev-3/interactive-polaroids"

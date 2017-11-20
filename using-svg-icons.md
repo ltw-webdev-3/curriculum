@@ -3,14 +3,14 @@ layout: lesson
 title: "Using SVG icons"
 desc: "Use Illustrator & Spritebot to generate some SVG icons and use them in a website."
 
-markbot_notes: |
-  *Ignore the “there are no headings in this document…” error message—but fix everything else.*
-
 extra_tutorials:
+  - title: "SVG icons slide deck"
+    url: "/courses/web-dev-3/svg-icons/"
   - title: "Advanced SVG"
     url: advanced-svg
-  - title: "Advanced SVG slide deck"
-    url: /courses/web-dev-4/advanced-svg/
+
+markbot_submit: true
+hide_show_for_marks: true
 
 goal:
   image: goal.gif
@@ -20,34 +20,46 @@ goal:
     - label: "Type it, type it real good"
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
+fork:
+  url: "https://github.com/acgd-webdev-3/using-svg-icons"
+
+download:
+  url: "https://assets.learn-the-web.algonquindesign.ca/web-dev-3/using-svg-icons-download.zip"
+  export_notes: "We’ll be walking through setting up this Illustrator document together so there’s no need to do anything with it right away."
+
 steps:
   - title: "Set up project"
     before: |
-      To get started on this project we need to download a few graphics that we can manipulate & export.
-
-      ### [Download these files.](https://assets.learn-the-web.algonquindesign.ca/web-dev-4/using-svg-icons-download.zip)
-
-      Now create the following folder structure on your computer:
+      After forking, cloning & downloading we should have a folder structure like this:
     folders:
+      - label: "using-svg-icons-lesson"
+        type: folder
+      - label: "prod"
+        type: folder
+        indent: 1
+      - label: "dino-icons.ai"
+        indent: 2
       - label: "using-svg-icons"
         type: folder
-      - label: "index.html"
         indent: 1
+        notes: "This is the cloned GitHub repo"
+      - label: "index.html"
+        indent: 2
       - label: "css"
         type: folder
-        indent: 1
+        indent: 2
       - label: "main.css"
-        indent: 2
+        indent: 3
       - label: "modules.css"
-        indent: 2
+        indent: 3
       - label: "images"
         type: folder
-        indent: 1
+        indent: 2
     after: |
-      1. Create a folder named `using-svg-icons`
-      2. Make an `index.html` & add the boilerplate code.
-      3. Make a `main.css` in your `css` folder—it can remain empty.
-      4. Make a `modules.css` in your `css` folder—[get a new version from Modulifier](https://modulifier.web-dev.tools/). **Make sure to press “Select All”.**
+      1. Make an `index.html` & add the boilerplate code.
+      2. Make a `main.css` in your `css` folder—it can remain empty.
+      3. Make a `modules.css` in your `css` folder—[get a new version from Modulifier](https://modulifier.web-dev.tools/). **Make sure to press “Select All”.**
+      4. Make an `images` folder.
     notes:
       - label: "Naming conventions"
         text: "Don’t forget to follow the [naming conventions](/topics/naming-paths-cheat-sheet/#naming-conventions)."
@@ -82,7 +94,7 @@ steps:
 
       ![](fill-black.jpg)
 
-      The simplest way to remove fill colours when exporting from Illustrator is to set all their colours to black. The default `fill` in SVG is black, so the optimizer will leave the fill off.
+      The simplest way to remove fill colours when exporting from Illustrator is to set all their colours to black—absolute black, `#000000`. The default `fill` in SVG is black, so the optimizer will leave the fill off.
 
       **Of course you could remove the fill colour in Illustrator but then you wouldn’t be able to see the graphic and that’s just annoying.**
 
@@ -112,6 +124,7 @@ steps:
     before: |
       We should now have 3 completely separate SVG files in our SVG folder, looking like this:
     folders:
+      - continue: true
       - label: "using-svg-icons"
         type: folder
       - label: "index.html"
@@ -207,7 +220,7 @@ steps:
 
       ![](markbot.jpg)
 
-      In the `File` menu go to `Browse Local Website` (`⌘B`)—this will pop open your default browser with the URL to your project running over with a web server.
+      Press the “Browse Website” toolbar button or, in the `File` menu, go to `Browse Local Website` (`⌘B`)—this will pop open your default browser with the URL to your project running over with a web server.
 
       The URL will most likely be: [**https://localhost:8000/**](https://localhost:8000/).
 

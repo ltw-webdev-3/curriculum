@@ -7,6 +7,8 @@ markbot_submit: true
 hide_show_for_marks: true
 
 extra_tutorials:
+  - title: "Background & retina images slide deck"
+    url: "/courses/web-dev-3/background-retina-images/"
   - title: "Using images"
     url: using-images
   - title: "Responsive & retina images"

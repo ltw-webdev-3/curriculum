@@ -18,7 +18,7 @@ slides:
 tasks:
   - type: blank
   - title: "Submit GitHub account"
-    url: https://github.com/acgd-webdev-3/submit-github-account
+    url: "https://github.com/acgd-webdev-3/submit-github-account"
     type: basic
   - title: "Update your computer!"
     type: basic

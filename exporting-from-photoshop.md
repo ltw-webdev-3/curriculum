@@ -6,6 +6,8 @@ desc: "A quick look at properly exporting raster graphics from Photoshop."
 hide_markbot: true
 
 extra_tutorials:
+  - title: "Preparing images slide deck"
+    url: "/courses/web-dev-3/preparing-images/"
   - title: "Website file organization"
     url: organization
   - title: "Images for the web"

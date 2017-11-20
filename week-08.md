@@ -17,7 +17,6 @@ video_tutorials:
 slides:
   - title: "SVG icons"
     url: svg-icons
-    disabled: true
 
 tasks:
   - title: "SVG Synthesizer"
@@ -26,10 +25,9 @@ tasks:
   - title: "Using SVG icons"
     url: using-svg-icons
     type: lesson
-    disabled: true
+    submit: code
   - type: blank
   - title: "SVG icons sets"
     url: "https://github.com/acgd-webdev-3/svg-icon-sets"
-    disabled: true
   - type: watch-videos
 ---

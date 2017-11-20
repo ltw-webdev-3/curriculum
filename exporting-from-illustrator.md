@@ -6,6 +6,8 @@ desc: "A quick look at properly setting up an Illustrator file for exporting to 
 hide_markbot: true
 
 extra_tutorials:
+  - title: "Preparing images slide deck"
+    url: "/courses/web-dev-3/preparing-images/"
   - title: "Website file organization"
     url: organization
   - title: "Images for the web"
@@ -75,7 +77,7 @@ steps:
 
       ![](layers.jpg)
 
-      *The names of the layers will export into the SVG as `id` attributes that we can target with CSS & Javascript.*
+      *The names of the layers will export into the SVG as `id` attributes that we can target with CSS & JavaScript.*
 
       It’s also a really good idea to group things together—those groups will be represented in the SVG as different tags.
     notes:

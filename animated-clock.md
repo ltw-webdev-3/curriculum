@@ -7,6 +7,8 @@ markbot_submit: true
 hide_show_for_marks: true
 
 extra_tutorials:
+  - title: "CSS animations slide deck"
+    url: "/courses/web-dev-3/css-animations/"
   - title: "CSS animations & effects"
     url: css-animations-effects
   - title: "CSS animations & effects cheat sheet"

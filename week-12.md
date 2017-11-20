@@ -16,7 +16,6 @@ video_tutorials:
 slides:
   - title: "Performance"
     url: performance
-    disabled: true
 
 tasks:
   - title: "VoiceOver Voyageur"
@@ -26,11 +25,8 @@ tasks:
     url: checking-performance
     type: lesson
     submit: "Submit nothing."
-    disabled: true
   - title: "Fastness fixer"
     url: "https://github.com/acgd-webdev-3/fastness-fixer"
-    disabled: true
   - title: "This site ain’t no sloth"
     url: "https://github.com/acgd-webdev-3/this-site-aint-no-sloth"
-    disabled: true
 ---

@@ -14,26 +14,24 @@ video_tutorials:
     highlight: true
 
 group_activities:
+  - title: "Solving accessibility problems"
+    url: solving-accessibility-problems
+    type: pencil
+    pair: true
   - title: "Using VoiceOver"
     url: using-voiceover
     type: star
     no-solution: true
-  - title: "Solving accessibility problems"
-    # Get students to find problems on important websites (Algonquin, etc.)
-    type: pencil
-    pair: true
 
 tasks:
-  - title: "Accessibility Atomizer"
-    url: "https://activities.learn-the-web.algonquindesign.ca/accessibility-atomizer/"
+  - title: "Accessibility Adapter"
+    url: "https://activities.learn-the-web.algonquindesign.ca/accessibility-adapter/"
     type: activity
-    disabled: true
   - title: "Using a11y testing tools"
     url: using-a11y-testing-tools
-    disabled: true
+    type: lesson
   - type: blank
   - title: "Only keyboards allowed"
-    url: "https://github.com/acgd-webdev-4/only-keyboards-allowed"
-    disabled: true
+    url: "https://github.com/acgd-webdev-3/only-keyboards-allowed"
   - type: watch-videos
 ---

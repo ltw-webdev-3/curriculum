@@ -54,9 +54,9 @@ slides:
   - content: |
       ## WAI-ARIA
 
-      *Describes enhancements to websites to make them more accessible.*
+      *Describes enhancements to websites to make them more accessible*
 
-      Extra attributes to help accessibility tools understand your content better.
+      Extra attributes to help accessibility tools understand your content better
 
   - type: code
     html: |
@@ -74,8 +74,7 @@ slides:
       ## Tools
 
       - [Web Developer Toolbar](http://chrispederick.com/work/web-developer/)
-      - [Color Oracle](http://colororacle.org/)
-      - [AccessLint](http://www.accesslint.com/)
+      - [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/)
       - [**VoiceOver**](https://www.apple.com/accessibility/osx/voiceover/)
 
   - type: youtube-embed

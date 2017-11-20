@@ -14,11 +14,10 @@ video_tutorials:
 slides:
   - title: "Accessibility"
     url: accessibility
-    disabled: true
 
 group_activities:
   - title: "Text me slowly"
-    # Describing actions, describing interfaces, ARIA?, alt attributes
+    url: text-me-slowly
     type: pencil
     pair: true
 
@@ -26,13 +25,14 @@ next_week_notes:
   - "Please bring headphones to next class."
 
 tasks:
-  - type: blank
+  - title: "Accessibility Atomizer"
+    url: "https://activities.learn-the-web.algonquindesign.ca/accessibility-atomizer/"
+    type: activity
   - title: "Basic accessibility"
     url: basic-accessibility
     type: lesson
-    disabled: true
+    submit: code
+  - type: blank
   - title: "Accessibility fixer-upper"
     url: "https://github.com/acgd-webdev-3/accessibility-fixer-upper"
-    disabled: true
-  - title: "All the humans"
 ---
