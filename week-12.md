@@ -25,6 +25,7 @@ tasks:
     url: checking-performance
     type: lesson
     submit: "Submit nothing."
+    no-solution: true
   - title: "Fastness fixer"
     url: "https://github.com/acgd-webdev-3/fastness-fixer"
   - title: "This site ain’t no sloth"

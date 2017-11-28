@@ -30,6 +30,7 @@ tasks:
   - title: "Using a11y testing tools"
     url: using-a11y-testing-tools
     type: lesson
+    no-solution: true
   - type: blank
   - title: "Only keyboards allowed"
     url: "https://github.com/acgd-webdev-3/only-keyboards-allowed"

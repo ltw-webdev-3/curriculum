@@ -20,6 +20,7 @@ group_activities:
     url: text-me-slowly
     type: pencil
     pair: true
+    no-solution: true
 
 next_week_notes:
   - "Please bring headphones to next class."
