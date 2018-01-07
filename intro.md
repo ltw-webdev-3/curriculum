@@ -11,7 +11,7 @@ slides:
   - content: |
       ## Chelle Lorenzen
 
-      *Super hero*
+      *Nerdherder*
 
       [vandemm@algonquincollege.com](mailto:vandemm@algonquincollege.com)
 
