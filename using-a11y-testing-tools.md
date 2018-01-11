@@ -265,7 +265,7 @@ steps:
         text: 'Turn VoiceOver on/off'
       - keys: '`⌃`'
         text: 'Pause VoiceOver'
-      - keys: '`⌃⌥ →`'
+      - keys: '`⌃⌥ ➔`'
         text: 'Move to next item'
       - keys: '`⌃⌥ ←`'
         text: 'Move to previous item'
