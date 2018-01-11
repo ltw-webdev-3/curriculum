@@ -19,7 +19,12 @@ video_tutorials:
     highlight: true
 
 tasks:
-  - type: blank
+  - title: "Performance testing"
+    url: "/courses/shared/performance-testing/"
+    submit: "Submit nothing."
+    pair: true
+    button: activity
+    type: basic
   - title: "Accessibility testing"
     url: "/courses/shared/accessibility-testing/"
     submit: "Submit nothing."
