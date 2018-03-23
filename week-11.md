@@ -31,7 +31,9 @@ tasks:
     url: using-a11y-testing-tools
     type: lesson
     no-solution: true
-  - type: blank
+  - title: "All the humans"
+    url: "https://github.com/acgd-webdev-2/all-the-humans"
+    disabled: true
   - title: "Only keyboards allowed"
     url: "https://github.com/acgd-webdev-3/only-keyboards-allowed"
   - type: watch-videos

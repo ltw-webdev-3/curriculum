@@ -1,39 +1,52 @@
 ---
-topic: "Accessibility"
-desc: "The web is for all humans—explore the small changes needed to make that a reality."
-clr: "1, 2, 4, 7"
+topic: "Icons, images & interfaces"
+desc: "Explore more complex SVG icons tricks & alternative ways to make images responsive while working on create few different application interfaces."
+clr: "1, 2, 3, 4, 5, 6"
 
 video_tutorials:
-  - title: "Accessibility"
-    url: accessibility
-    videos: true
-  - title: "Accessibility checklist"
-    url: accessibility-checklist
+  - title: "Responsive & retina images"
+    url: responsive-retina-images
     highlight: true
+  - title: "Images cheat sheet"
+    url: images-cheat-sheet
+  - title: "SVG cheat sheet"
+    url: svg-cheat-sheet
+  - title: "CSS animations & effects cheat sheet"
+    url: css-animations-effects-cheat-sheet
 
 slides:
-  - title: "Accessibility"
-    url: accessibility
-
-group_activities:
-  - title: "Text me slowly"
-    url: text-me-slowly
-    type: pencil
-    pair: true
-    no-solution: true
+  - title: "Many images, you choose"
+    # Slide deck about choosing the correct responsive image format
+    # <picture>, srcset, compressive
 
 next_week_notes:
   - "Please bring headphones to next class."
 
 tasks:
-  - title: "Accessibility Atomizer"
-    url: "https://activities.learn-the-web.algonquindesign.ca/accessibility-atomizer/"
-    type: activity
-  - title: "Basic accessibility"
-    url: basic-accessibility
+  - type: blank
+  # About using the picture tag
+  # Theme should literally be crops, like corn or grains
+  # Tzolk'in inspired?
+  - title: "Different crops, same image"
+    url: different-crops, same image
     type: lesson
     submit: code
-  - type: blank
-  - title: "Accessibility fixer-upper"
-    url: "https://github.com/acgd-webdev-3/accessibility-fixer-upper"
+    disabled: true
+  # An application interface card—theme could be an action hero card, all meta-like
+  # Maybe like Pinterest with an image and action buttons
+  # The action buttons should include SVG icons
+  # Students download: the image & the AI file with icons
+  # Make them use `srcset` or <picture>
+  - title: "Action hero card with actions"
+    url: "https://github.com/acgd-webdev-3/action-hero-card-with-action"
+    disabled: true
+  # Small dashboard, maybe 3 panels, maintaining a dinosaur park
+  #   Show pens & status & stuff
+  # Use icons for buttons & nav & controls
+  # Have an SVG chart that animates
+  # Some kind of fake video feed with responsive images
+  #   Maybe see if we can fake it animating with CSS animations
+  - title: "Jurassic dashboard"
+    url: "https://github.com/acgd-webdev-3/jurassic-dashboard"
+    disabled: true
 ---
