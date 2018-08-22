@@ -29,11 +29,14 @@ tasks:
   - title: "Exporting from Photoshop"
     url: exporting-from-photoshop
     type: lesson
+    submit: code
   - title: "Exporting from Illustrator"
     url: exporting-from-illustrator
     type: lesson
+    submit: code
   - title: "Production prepping & compression"
     url: "https://github.com/acgd-webdev-3/production-prepping-compression"
-    submit: show
+    button: do-work
+    type: download-markbot
   - type: watch-videos
 ---

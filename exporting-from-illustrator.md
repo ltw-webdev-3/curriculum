@@ -3,7 +3,8 @@ layout: lesson
 title: "Exporting from Illustrator"
 desc: "A quick look at properly setting up an Illustrator file for exporting to SVG."
 
-hide_markbot: true
+hide_show_for_marks: true
+markbot_submit: true
 
 extra_tutorials:
   - title: "Preparing images slide deck"

@@ -3,7 +3,8 @@ layout: lesson
 title: "Exporting from Photoshop"
 desc: "A quick look at properly exporting raster graphics from Photoshop."
 
-hide_markbot: true
+hide_show_for_marks: true
+markbot_submit: true
 
 extra_tutorials:
   - title: "Preparing images slide deck"
@@ -233,6 +234,7 @@ steps:
       Notice these important settings:
 
       - You can play with “Perceptual” and “Diffusion” to control the dithering—but it won’t make any difference for this graphic
+      - “Transparency” doesn’t need to be checked because we don’t need transparency for this graphic
       - Check “Interlaced”
       - Un-check “Embed Color Profile”
       - Check “Convert to sRGB”
