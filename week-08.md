@@ -1,33 +1,38 @@
 ---
-topic: "SVG icons"
-desc: "Look at how to use SVG symbols to create SVG sprite sheets for better performance and reusable systems."
-clr: "1, 2, 3, 4, 5, 6"
+# topic: "Reading week—no classes"
+topic: "Work week"
+# during_class: "No class"
+# desc: "No classes, labs or new homework this week—get caught up!"
+desc: "Work classes to get caught up and ready for the final push to the end of the term!"
+clr: "1, 2, 4, 7"
 
-video_tutorials:
-  - title: "Advanced SVG"
-    url: advanced-svg
-    videos: true
-    notes: "Only watch from “Icons” to “Icon sprite sheets”"
-  - title: "SVG cheat sheet"
-    url: svg-cheat-sheet
-    highlight: true
-  - title: "CSS animations & effects cheat sheet"
-    url: css-animations-effects-cheat-sheet
+# no_lab_times: true
+# no_office_hours: true
 
-slides:
-  - title: "SVG icons"
-    url: svg-icons
+next_week_notes:
+  - "Please bring headphones to next class."
+
+group_activities:
+  - title: "Index card Q&A"
+    url: "/courses/shared/index-card-qa/"
+    type: pencil
 
 tasks:
-  - title: "SVG Synthesizer"
-    url: "https://activities.learn-the-web.algonquindesign.ca/svg-synthesizer/"
-    type: activity
-  - title: "Using SVG icons"
-    url: using-svg-icons
-    type: lesson
-    submit: code
   - type: blank
-  - title: "SVG icons sets"
-    url: "https://github.com/acgd-webdev-3/svg-icon-sets"
+  - title: "One-on-one time"
+    url: "https://github.com/acgd-webdev-shared/one-on-one-time"
+    type: basic
+    button: activity
+    submit: "Submit nothing."
+    graded-as: false
+  - title: "Mid-course feedback"
+    url: "/feedback/"
+    type: basic
+    submit: "Submit feedback form."
+    graded-as: false
+  - title: "Continue assignments"
+    url: "https://github.com/acgd-webdev-shared/continue-assignments"
+    submit: "Submit nothing new."
+    graded-as: false
   - type: watch-videos
 ---

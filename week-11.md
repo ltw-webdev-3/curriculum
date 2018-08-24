@@ -31,6 +31,9 @@ tasks:
     url: using-a11y-testing-tools
     type: lesson
     no-solution: true
+  # Accessibility basics: roles, skip links, alt attributes
+  # But also fix VoiceOver labelling problems
+  # Maybe add: aria-label, aria-role="presentation", aria-hidden="true"
   - title: "All the humans"
     url: "https://github.com/acgd-webdev-2/all-the-humans"
     disabled: true
