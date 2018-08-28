@@ -34,13 +34,14 @@ tasks:
     url: using-a11y-testing-tools
     type: lesson
     no-solution: true
+  - title: "Only keyboards allowed"
+    url: "https://github.com/acgd-webdev-3/only-keyboards-allowed"
   # Accessibility basics: roles, skip links, alt attributes
   # But also fix VoiceOver labelling problems
   # Maybe add: aria-label, aria-role="presentation", aria-hidden="true"
+  # Print styles!
   - title: "All the humans"
     url: "https://github.com/acgd-webdev-2/all-the-humans"
     disabled: true
-  - title: "Only keyboards allowed"
-    url: "https://github.com/acgd-webdev-3/only-keyboards-allowed"
   - type: watch-videos
 ---
