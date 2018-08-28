@@ -16,6 +16,8 @@ video_tutorials:
     url: css-animations-effects-cheat-sheet
   - title: "Performance checklist"
     url: performance-checklist
+  - title: "Accessibility cheat sheet"
+    url: accessibility-cheat-sheet
   - title: "Accessibility checklist"
     url: accessibility-checklist
 

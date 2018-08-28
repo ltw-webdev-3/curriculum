@@ -11,6 +11,9 @@ video_tutorials:
     highlight: true
   - title: "Accessibility"
     url: accessibility
+  - title: "Accessibility cheat sheet"
+    url: accessibility-cheat-sheet
+    highlight: true
   - title: "Accessibility checklist"
     url: accessibility-checklist
     highlight: true

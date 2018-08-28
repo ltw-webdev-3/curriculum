@@ -11,6 +11,8 @@ extra_tutorials:
     url: accessibility
   - title: "Accessibility slide deck"
     url: /courses/web-dev-3/accessibility/
+  - title: "Accessibility cheat sheet"
+    url: accessibility-cheat-sheet
   - title: "Accessibility checklist"
     url: accessibility-checklist
   - title: "Accessibility testing checklist"
