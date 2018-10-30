@@ -16,6 +16,7 @@ video_tutorials:
 
 slides:
   - title: "Many images, you choose"
+    url: many-images-you-choose
     # Slide deck about choosing the correct responsive image format
     # <picture>, srcset, compressive
 
