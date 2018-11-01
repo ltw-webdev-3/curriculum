@@ -7,6 +7,8 @@ video_tutorials:
   - title: "Responsive & retina images"
     url: responsive-retina-images
     highlight: true
+  - title: "Images for the web"
+    url: image-formats
   - title: "Images cheat sheet"
     url: images-cheat-sheet
   - title: "SVG cheat sheet"
@@ -25,7 +27,6 @@ next_week_notes:
 
 tasks:
   - type: blank
-  # Making favicons
   - title: "Micro interface branding"
     url: micro-interface-branding
     type: lesson
