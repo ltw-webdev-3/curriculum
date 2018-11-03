@@ -35,10 +35,9 @@ tasks:
   # Theme should literally be crops, like corn or grains
   # Tzolk'in inspired?
   - title: "Different crops, same image"
-    url: different-crops, same image
+    url: different-crops-same-image
     type: lesson
     submit: code
-    disabled: true
   # An application interface card—theme could be an action hero card, all meta-like
   # Maybe like Pinterest with an image and action buttons
   # The action buttons should include SVG icons
