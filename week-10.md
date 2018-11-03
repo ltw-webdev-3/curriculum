@@ -31,7 +31,6 @@ tasks:
     url: micro-interface-branding
     type: lesson
     submit: code
-    disabled: true
   # About using the picture tag
   # Theme should literally be crops, like corn or grains
   # Tzolk'in inspired?
