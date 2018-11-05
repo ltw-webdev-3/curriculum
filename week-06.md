@@ -20,6 +20,7 @@ group_activities:
     url: stories-on-board
     type: pencil
     pair: true
+    no-solution: true
 
 tasks:
   - title: "Effect Effector"

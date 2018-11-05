@@ -21,6 +21,7 @@ group_activities:
     url: image-formats
     type: pencil
     pair: true
+    no-solution: true
 
 tasks:
   - title: "Naming Conventioneer"
