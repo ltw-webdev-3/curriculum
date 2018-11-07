@@ -7,6 +7,11 @@ video_tutorials:
   - title: "Accessibility"
     url: accessibility
     videos: true
+  - title: "Print media queries"
+    url: /topics/media-queries/#print-styles
+    highlight: true
+    videos: true
+    notes: "There’s one video from the media queries playlist about @print"
   - title: "Accessibility cheat sheet"
     url: accessibility-cheat-sheet
     highlight: true
@@ -36,12 +41,7 @@ tasks:
     no-solution: true
   - title: "Only keyboards allowed"
     url: "https://github.com/acgd-webdev-3/only-keyboards-allowed"
-  # Accessibility basics: roles, skip links, alt attributes
-  # But also fix VoiceOver labelling problems
-  # Maybe add: aria-label, aria-role="presentation", aria-hidden="true"
-  # Print styles!
-  - title: "All the humans"
-    url: "https://github.com/acgd-webdev-2/all-the-humans"
-    disabled: true
+  - title: "Kraken good accessibility"
+    url: "https://github.com/acgd-webdev-3/kraken-good-accessibility"
   - type: watch-videos
 ---
