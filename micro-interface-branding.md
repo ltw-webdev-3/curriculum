@@ -16,6 +16,9 @@ extra_tutorials:
 goal:
   before: |
     We’re going to make proper favicons for the most common sizes & hit most of the use cases. You can go really crazy with different favicons for different platforms and crazy amounts of sizes. But most often it’s unnecessary—doing just the most common minimum version is good enough.
+  notes:
+    - label: "Type it, type it real good"
+      text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
 fork:
   url: "https://github.com/acgd-webdev-3/micro-interface-branding/fork"

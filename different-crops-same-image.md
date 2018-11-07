@@ -16,6 +16,9 @@ extra_tutorials:
 goal:
   before: |
     We’re going to implement a different kind of responsive banner. Instead of have the text off the image on small screens, then on at larger screens, we’re going to make use of the `<picture>` tag to use the same general layout, but with differently cropped images.
+  notes:
+    - label: "Type it, type it real good"
+      text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
 fork:
   url: "https://github.com/acgd-webdev-3/different-crops-same-image/fork"
