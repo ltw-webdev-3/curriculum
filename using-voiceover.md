@@ -36,8 +36,8 @@ slides:
       1. Go to Wikipedia.org
       2. Search for “Doctor Who”
       3. Go down to the “Changes of appearance” heading
-      4. In the table, find & activate the “Matt Smith” link
-      5. At the bottom of the page, find & active his “IMDB” link
+      4. In the table, find & activate the “Jodie Whittaker” link
+      5. At the bottom of the page, find & activate her “IMDB” link
       6. Under “Filmography”, find & click the “Doctor Who” link
 
       *Show the teacher you’re on IMDB’s “Doctor Who” page.*
