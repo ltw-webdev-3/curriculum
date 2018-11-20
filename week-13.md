@@ -30,6 +30,8 @@ tasks:
     url: "https://github.com/acgd-webdev-3/animal-rescue-website-ux"
     type: basic
     no-solution: true
+    submit: show
+    button: activity
   - title: "Animal rescue website"
     url: "https://github.com/acgd-webdev-3/animal-rescue-website"
     graded-as: animal-rescue-website
