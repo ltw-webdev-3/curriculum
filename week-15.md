@@ -28,18 +28,21 @@ tasks:
     pair: true
     button: activity
     type: basic
+    progressinator_id: animal-rescue-perf-testing
   - title: "Accessibility testing"
     url: "/courses/shared/accessibility-testing/"
     submit: "Submit nothing."
     pair: true
     button: activity
     type: basic
+    progressinator_id: animal-rescue-a11y-testing
   - title: "Browser testing"
     url: "/courses/shared/browser-testing/"
     submit: "Submit nothing."
     pair: true
     button: activity
     type: basic
+    progressinator_id: animal-rescue-browser-testing
   - title: "Request for grade"
     url: "https://github.com/acgd-webdev-3/request-for-grade"
     due: "Midnight, last day of class"
