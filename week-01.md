@@ -28,5 +28,6 @@ tasks:
     submit: show
     button: activity
     url: update-your-computer
+    progressinator_id: update-your-computer-web-dev-3
   - type: blank
 ---
