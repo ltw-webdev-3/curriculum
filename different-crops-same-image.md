@@ -82,18 +82,18 @@ steps:
       **Large sizes: Open `banner-l.psd`**
 
       1. Use “Save for web” to save it as a JPG—around 55% quality looks okay.
-      2. Name it `banner-l-2x.jpg` in your `images` folder.
+      2. Name it `banner-l@2x.jpg` in your `images` folder.
       3. Now, “Save for web” again, and resize it down to `1200` pixels wide (in the bottom right corner of the dialog).
       4. Save it as `banner-l.jpg`, around 55% is okay.
 
       **Medium sizes: Open `banner-m.psd`**
 
-      1. Same thing: save as JPG at its original size: `banner-m-2x.jpg`
+      1. Same thing: save as JPG at its original size: `banner-m@2x.jpg`
       2. Resize to half size, `600px`, and save another JPG: `banner-m.jpg`
 
       **Small sizes: Open `banner-s.psd`**
 
-      1. Same thing: save as JPG at its original size: `banner-s-2x.jpg`
+      1. Same thing: save as JPG at its original size: `banner-s@2x.jpg`
       2. Resize to half size, `320px`, and save another JPG: `banner-s.jpg`
     folders:
       - label: "different-crops-same-image"
@@ -119,15 +119,15 @@ steps:
       - label: "images"
         type: folder
         indent: 2
-      - label: "banner-l-2x.jpg"
+      - label: "banner-l@2x.jpg"
         indent: 3
       - label: "banner-l.jpg"
         indent: 3
-      - label: "banner-m-2x.jpg"
+      - label: "banner-m@2x.jpg"
         indent: 3
       - label: "banner-m.jpg"
         indent: 3
-      - label: "banner-s-2x.jpg"
+      - label: "banner-s@2x.jpg"
         indent: 3
       - label: "banner-s.jpg"
         indent: 3
@@ -222,9 +222,9 @@ steps:
       ⋮
       <div class="banner relative">
         <picture class="img-flex">
-          <source media="(min-width:60em)" srcset="images/banner-l-2x.jpg 2x, images/banner-l.jpg 1x">
-          <source media="(min-width:38em)" srcset="images/banner-m-2x.jpg 2x, images/banner-m.jpg 1x">
-          <img srcset="images/banner-s-2x.jpg 2x, images/banner-s.jpg 1x" src="images/banner-s.jpg" alt="">
+          <source media="(min-width:60em)" srcset="images/banner-l@2x.jpg 2x, images/banner-l.jpg 1x">
+          <source media="(min-width:38em)" srcset="images/banner-m@2x.jpg 2x, images/banner-m.jpg 1x">
+          <img srcset="images/banner-s@2x.jpg 2x, images/banner-s.jpg 1x" src="images/banner-s.jpg" alt="">
         </picture>
         <div class="absolute pin-lb island-1-2 max-length">
           <h1 class="push-1-8">Maize: cornerstone of culture &amp; spirituality</h1>
@@ -238,7 +238,7 @@ steps:
         fade: true
       - num: 4
         text: |
-          I added `images/banner-l-2x.jpg 2x` to the start of the `srcset`
+          I added `images/banner-l@2x.jpg 2x` to the start of the `srcset`
 
           Also notice the addition of the `1x` at the very end of the `srcset`
 

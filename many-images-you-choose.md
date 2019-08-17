@@ -152,9 +152,9 @@ slides:
       If you want to really complicate things you can specify different sizes & resolutions for the `<picture>` tag.
     html: |
       <picture class="img-flex">
-        <source media="(min-width: 60em)" srcset="dino-l-2x.png 2x, dino-l.png 1x">
-        <source media="(min-width: 38em)" srcset="dino-m-2x.png 2x, dino-m.png 1x">
-        <img srcset="dino-s-2x.png 2x, dino-s.png 1x" src="dino-s.png" alt="A ginormous dinosaur">
+        <source media="(min-width: 60em)" srcset="dino-l@2x.png 2x, dino-l.png 1x">
+        <source media="(min-width: 38em)" srcset="dino-m@2x.png 2x, dino-m.png 1x">
+        <img srcset="dino-s@2x.png 2x, dino-s.png 1x" src="dino-s.png" alt="A ginormous dinosaur">
       </picture>
 
   - content: |
