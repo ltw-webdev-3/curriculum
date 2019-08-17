@@ -1,30 +1,29 @@
 ---
-# topic: "Reading week—no classes"
-topic: "Work week"
-# during_class: "No class"
-# desc: "No classes, labs or new homework this week—get caught up!"
-desc: "Work classes to get caught up and ready for the final push to the end of the term!"
-clr: "1, 2, 4, 7"
+topic: "Reading week—no classes"
+during_class: "No class"
+desc: "No classes, labs or new homework this week—get caught up!"
+clr: "1, 2, 3, 4, 5, 6"
 
-# no_lab_times: true
-# no_office_hours: true
+no_lab_times: true
+no_office_hours: true
 
 next_week_notes:
   - "Please bring headphones to next class."
 
-group_activities:
-  - title: "Index card Q&A"
-    url: "/courses/shared/index-card-qa/"
-    type: pencil
+# group_activities:
+#   - title: "Index card Q&A"
+#     url: "/courses/shared/index-card-qa/"
+#     type: pencil
 
 tasks:
   - type: blank
-  - title: "One-on-one time"
-    url: "https://github.com/acgd-webdev-shared/one-on-one-time"
-    type: basic
-    button: activity
-    submit: "Submit nothing."
-    graded-as: false
+  - type: blank
+  # - title: "One-on-one time"
+  #   url: "https://github.com/acgd-webdev-shared/one-on-one-time"
+  #   type: basic
+  #   button: activity
+  #   submit: "Submit nothing."
+  #   graded-as: false
   - title: "Mid-course feedback"
     url: "/feedback/"
     type: basic
