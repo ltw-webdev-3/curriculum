@@ -15,6 +15,9 @@ slides:
   - title: "Web Dev 3 intro"
     url: intro
 
+todos:
+  - "[Assign yourself to the correct course & section on Progressinator for due dates](https://progress.learn-the-web.algonquindesign.ca/profile/)"
+
 tasks:
   - type: blank
   - title: "Submit GitHub account"
