@@ -18,6 +18,12 @@ slides:
   - title: "Advanced SVG"
     url: advanced-svg
 
+group_activities:
+  - title: "Index card Q&A"
+    url: "/courses/shared/index-card-qa/"
+    type: pencil
+    no-solution: true
+
 tasks:
   - type: blank
   - title: "SVG smiley face"

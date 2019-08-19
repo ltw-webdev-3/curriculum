@@ -21,6 +21,12 @@ video_tutorials:
   - title: "Accessibility checklist"
     url: accessibility-checklist
 
+group_activities:
+  - title: "Index card Q&A"
+    url: "/courses/shared/index-card-qa/"
+    type: pencil
+    no-solution: true
+
 tasks:
   - title: "Performance Prognosticator"
     url: "https://activities.learn-the-web.algonquindesign.ca/performance-prognosticator/"
