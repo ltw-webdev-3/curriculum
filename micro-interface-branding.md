@@ -42,7 +42,7 @@ steps:
         indent: 2
       - label: "favicon-32.psd"
         indent: 2
-      - label: "favicon-38.psd"
+      - label: "favicon-48.psd"
         indent: 2
       - label: "favicon-196.psd"
         indent: 2
@@ -84,7 +84,7 @@ steps:
       - label: "favicon-32.psd"
         notes: "Another modified version that looks good at 32 pixels"
         indent: 2
-      - label: "favicon-38.psd"
+      - label: "favicon-48.psd"
         indent: 2
         notes: "The full version of the icon, but close to the sides"
       - label: "favicon-196.psd"
@@ -108,7 +108,7 @@ steps:
         indent: 1
       - label: "favicon-32.png"
         indent: 1
-      - label: "favicon-38.png"
+      - label: "favicon-48.png"
         indent: 1
       - label: "favicon-196.png"
         indent: 1
@@ -149,7 +149,7 @@ steps:
       - label: "favicon-32.png"
         indent: 1
         fade: true
-      - label: "favicon-38.png"
+      - label: "favicon-48.png"
         indent: 1
         fade: true
       - label: "favicon-196.png"
