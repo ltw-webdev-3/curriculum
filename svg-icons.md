@@ -42,15 +42,15 @@ slides:
 
       <!-- Further down the HTML -->
       <i class="icon i-128">
-        <svg><use xlink:href="#the-triangle" /></svg>
+        <svg><use xlink:href="#the-triangle"></use></svg>
       </i>
 
       <i class="icon i-128">
-        <svg><use xlink:href="#the-circle" /></svg>
+        <svg><use xlink:href="#the-circle"></use></svg>
       </i>
 
       <i class="icon i-24">
-        <svg><use xlink:href="#the-triangle" /></svg>
+        <svg><use xlink:href="#the-triangle"></use></svg>
       </i>
     html_hidden: |
       <link href="modules.css" rel="stylesheet">
@@ -72,15 +72,15 @@ slides:
     html: |
       <!-- Icons in a separate sprite sheet -->
       <i class="icon i-96">
-        <svg><use xlink:href="images/icons.svg#the-circle" /></svg>
+        <svg><use xlink:href="images/icons.svg#the-circle"></use></svg>
       </i>
 
       <i class="icon i-128">
-        <svg><use xlink:href="images/icons.svg#the-triangle" /></svg>
+        <svg><use xlink:href="images/icons.svg#the-triangle"></use></svg>
       </i>
 
       <i class="icon i-48">
-        <svg><use xlink:href="images/icons.svg#the-circle" /></svg>
+        <svg><use xlink:href="images/icons.svg#the-circle"></use></svg>
       </i>
     html_hidden: |
       <link href="modules.css" rel="stylesheet">
@@ -99,7 +99,7 @@ slides:
       </svg>
 
       <i class="icon i-128">
-        <svg><use xlink:href="#the-circle" /></svg>
+        <svg><use xlink:href="#the-circle"></use></svg>
       </i>
     html_lines:
       - num: 4
@@ -152,5 +152,4 @@ slides:
       - [Image formats · SVG ➔](/topics/image-formats/#svg)
       - [Advanced SVG ➔](/topics/advanced-svg/)
       - [SVG cheat sheet ➔](/topics/svg-cheat-sheet/)
-
 ---

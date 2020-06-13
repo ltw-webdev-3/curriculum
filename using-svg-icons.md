@@ -170,7 +170,7 @@ steps:
           <li class="center-text">
             <a class="block" href="#">
               <i class="icon i-96">
-                <svg><use xlink:href="images/dino-icons.svg#brachiosaurus" /></svg>
+                <svg><use xlink:href="images/dino-icons.svg#brachiosaurus"></use></svg>
               </i>
               <span class="block icon-text">Brachiosaurus</span>
             </a>
@@ -259,5 +259,4 @@ steps:
       A real basic green colour and a slightly different hover green.
 
       Test it out—should work great.
-
 ---
