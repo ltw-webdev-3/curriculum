@@ -29,17 +29,17 @@ group_activities:
 
 tasks:
   - title: "Performance Prognosticator"
-    url: "https://activities.learn-the-web.algonquindesign.ca/performance-prognosticator/"
+    url: "https://activities.learntheweb.courses/performance-prognosticator/"
     type: activity
   - type: blank
   - title: "Animal rescue website UX"
-    url: "https://github.com/acgd-webdev-3/animal-rescue-website-ux"
+    url: "https://github.com/ltw-webdev-3/animal-rescue-website-ux"
     type: basic
     no-solution: true
     submit: show
     button: activity
   - title: "Animal rescue website"
-    url: "https://github.com/acgd-webdev-3/animal-rescue-website"
+    url: "https://github.com/ltw-webdev-3/animal-rescue-website"
     graded-as: animal-rescue-website
     due: "Midnight, last day of class"
     due_week: 15

@@ -20,7 +20,7 @@ slides:
 
 tasks:
   - title: "SVG Synthesizer"
-    url: "https://activities.learn-the-web.algonquindesign.ca/svg-synthesizer/"
+    url: "https://activities.learntheweb.courses/svg-synthesizer/"
     type: activity
   - title: "Using SVG icons"
     url: using-svg-icons
@@ -28,6 +28,6 @@ tasks:
     submit: code
   - type: blank
   - title: "SVG icons sets"
-    url: "https://github.com/acgd-webdev-3/svg-icon-sets"
+    url: "https://github.com/ltw-webdev-3/svg-icon-sets"
   - type: watch-videos
 ---

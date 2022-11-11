@@ -22,17 +22,17 @@ slides:
 
 tasks:
   - title: "Path Paladin"
-    url: "https://activities.learn-the-web.algonquindesign.ca/path-paladin/"
+    url: "https://activities.learntheweb.courses/path-paladin/"
     type: activity
   - title: "Alt Attributer"
-    url: "https://activities.learn-the-web.algonquindesign.ca/alt-attributer/"
+    url: "https://activities.learntheweb.courses/alt-attributer/"
     type: activity
   - title: "Fancy hover boxes"
     url: fancy-hover-boxes
     submit: code
     type: lesson
   - title: "Interactive polaroids"
-    url: "https://github.com/acgd-webdev-3/interactive-polaroids"
+    url: "https://github.com/ltw-webdev-3/interactive-polaroids"
   - title: "But ’em buttons"
-    url: "https://github.com/acgd-webdev-3/but-em-buttons"
+    url: "https://github.com/ltw-webdev-3/but-em-buttons"
 ---

@@ -18,7 +18,7 @@ extra_tutorials:
     url: using-images
 
 goal:
-  video: "https://assets.learn-the-web.algonquindesign.ca/web-dev-3/animated-clock/goal.mp4"
+  video: "https://assets.learntheweb.courses/web-dev-3/animated-clock/goal.mp4"
   video_poster: goal.png
   no_image: true
   before: |
@@ -28,10 +28,10 @@ goal:
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
 fork:
-  url: "https://github.com/acgd-webdev-3/animated-clock/fork"
+  url: "https://github.com/ltw-webdev-3/animated-clock/fork"
 
 download:
-  url: "https://assets.learn-the-web.algonquindesign.ca/web-dev-3/animated-clock-download.zip"
+  url: "https://assets.learntheweb.courses/web-dev-3/animated-clock-download.zip"
 
 steps:
   - title: "Project files"

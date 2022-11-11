@@ -69,11 +69,11 @@ slides:
       № 8
 
   - content: |
-      1. SVG — simple graphic
-      2. JPG — complex photograph
-      3. JPG — too complex for anything else
-      4. PNG — can’t be reproduced easily with SVG
-      5. SVG — SVGs can have effects
+      1. SVG — simple graphic
+      2. JPG — complex photograph
+      3. JPG — too complex for anything else
+      4. PNG — can’t be reproduced easily with SVG
+      5. SVG — SVGs can have effects
       6. SVG — and animations!
       7. SVG + JPG + PNG — SVG using PNG mask & JPG image
       8. SVG + HTML + CSS — SVG for graphic, text as live text

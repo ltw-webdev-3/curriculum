@@ -21,14 +21,14 @@ goal:
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
 fork:
-  url: "https://github.com/acgd-webdev-3/different-crops-same-image/fork"
+  url: "https://github.com/ltw-webdev-3/different-crops-same-image/fork"
 
 steps:
   - title: "Download & set up files"
     before: |
       After forking & cloning the repository, also download these PSD files for our images.
 
-      ### [Download these files.](https://assets.learn-the-web.algonquindesign.ca/web-dev-3/different-crops-same-image-download.zip)
+      ### [Download these files.](https://assets.learntheweb.courses/web-dev-3/different-crops-same-image-download.zip)
 
       Following our standard folder layout we should have this:
     folders:

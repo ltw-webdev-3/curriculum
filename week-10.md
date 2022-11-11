@@ -36,7 +36,7 @@ tasks:
     type: lesson
     submit: code
   - title: "Action hero card with actions"
-    url: "https://github.com/acgd-webdev-3/action-hero-card-with-actions"
+    url: "https://github.com/ltw-webdev-3/action-hero-card-with-actions"
   - title: "Jurassic dashboard"
-    url: "https://github.com/acgd-webdev-3/jurassic-dashboard"
+    url: "https://github.com/ltw-webdev-3/jurassic-dashboard"
 ---

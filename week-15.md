@@ -44,14 +44,14 @@ tasks:
     type: basic
     progressinator_id: animal-rescue-browser-testing
   - title: "Request for grade"
-    url: "https://github.com/acgd-webdev-3/request-for-grade"
+    url: "https://github.com/ltw-webdev-3/request-for-grade"
     due: "Midnight, last day of class"
     due_week: 15
     due_time: "23:59"
     type: basic
     graded-as: false
   - title: "Animal rescue website"
-    url: "https://github.com/acgd-webdev-3/animal-rescue-website"
+    url: "https://github.com/ltw-webdev-3/animal-rescue-website"
     graded-as: animal-rescue-website
     due: "Midnight, last day of class"
     due_week: 15

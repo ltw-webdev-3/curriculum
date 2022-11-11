@@ -294,5 +294,5 @@ steps:
       - [ ] Missing ARIA landmarks for navigation
 
 quiz:
-  url: "https://activities.learn-the-web.algonquindesign.ca/using-a11y-testing-tools/"
+  url: "https://activities.learntheweb.courses/using-a11y-testing-tools/"
 ---

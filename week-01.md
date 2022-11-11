@@ -16,7 +16,7 @@ slides:
     url: intro
 
 todos:
-  - "[Assign yourself to the correct course & section on Progressinator for due dates](https://progress.learn-the-web.algonquindesign.ca/profile/)"
+  - "[Assign yourself to the correct course & section on Progressinator for due dates](https://progress.learntheweb.courses/profile/)"
 
 tasks:
   - type: blank

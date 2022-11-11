@@ -122,7 +122,7 @@ steps:
     before: |
       Make sure you have the most recent version of Markbot that’s compatible with this term’s projects.
 
-      #### Download & install [Markbot](https://assets.learn-the-web.algonquindesign.ca/markbot/Install%20Markbot.dmg) or [Markbot for Windows](https://assets.learn-the-web.algonquindesign.ca/markbot/Markbot%20Setup.exe).
+      #### Download & install [Markbot](https://assets.learntheweb.courses/markbot/Install%20Markbot.dmg) or [Markbot for Windows](https://assets.learntheweb.courses/markbot/Markbot%20Setup.exe).
 
       ![](markbot.jpg)
 

@@ -31,7 +31,7 @@ tasks:
     type: lesson
     submit: code
   - title: "Leafy decorations"
-    url: "https://github.com/acgd-webdev-3/leafy-decorations"
+    url: "https://github.com/ltw-webdev-3/leafy-decorations"
   - title: "Retina gallery"
-    url: "https://github.com/acgd-webdev-3/retina-gallery"
+    url: "https://github.com/ltw-webdev-3/retina-gallery"
 ---

@@ -24,7 +24,7 @@ group_activities:
 
 tasks:
   - title: "Effect Effector"
-    url: "https://activities.learn-the-web.algonquindesign.ca/effect-effector/"
+    url: "https://activities.learntheweb.courses/effect-effector/"
     type: activity
   - title: "Animated clock"
     type: lesson
@@ -32,6 +32,6 @@ tasks:
     submit: code
   - type: blank
   - title: "Frozen—not in time"
-    url: "https://github.com/acgd-webdev-3/frozen-not-in-time"
+    url: "https://github.com/ltw-webdev-3/frozen-not-in-time"
   - type: watch-videos
 ---

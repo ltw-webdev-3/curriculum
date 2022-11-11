@@ -24,14 +24,14 @@ goal:
     The technique we’re going to look at is called “Compressive JPGs”—essentially we make them double the width and scale them down while significantly reducing the quality.
 
 fork:
-  url: "https://github.com/acgd-webdev-3/retina-images/fork"
+  url: "https://github.com/ltw-webdev-3/retina-images/fork"
 
 steps:
   - title: "Project setup"
     before: |
       To get started on this project we need to download a few PSDs to use on the website.
 
-      ### [Download these PSDs.](https://assets.learn-the-web.algonquindesign.ca/web-dev-3/retina-images-download.zip)
+      ### [Download these PSDs.](https://assets.learntheweb.courses/web-dev-3/retina-images-download.zip)
 
       After downloading the PSDs and cloning the repo you should have a folder structure like this:
     folders:

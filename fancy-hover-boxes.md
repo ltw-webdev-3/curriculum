@@ -23,14 +23,14 @@ goal:
   before: |
     We’re going to explore how to use transitions to make fancy hover boxes where images go from greyscale to coloured and zoom in when hovered.
   no_image: true
-  video: "https://assets.learn-the-web.algonquindesign.ca/web-dev-3/fancy-hover-boxes/goal.mp4"
+  video: "https://assets.learntheweb.courses/web-dev-3/fancy-hover-boxes/goal.mp4"
   video_poster: goal.jpg
   notes:
     - label: "Type it, type it real good"
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
 fork:
-  url: "https://github.com/acgd-webdev-3/fancy-hover-boxes"
+  url: "https://github.com/ltw-webdev-3/fancy-hover-boxes"
 
 steps:
   - title: "Project files"
@@ -137,16 +137,16 @@ steps:
             text: |
               Add the following classes:
 
-              - `.link-box` — makes the link `display: block`, to allow `<div>` tags inside, and removes the underlines from the text.
-              - `.relative` — because we’ll be using `position: absolute` inside the link.
-              - `.crop` — this will chop off the text labels because we want them to slide in when hovered.
+              - `.link-box` — makes the link `display: block`, to allow `<div>` tags inside, and removes the underlines from the text.
+              - `.relative` — because we’ll be using `position: absolute` inside the link.
+              - `.crop` — this will chop off the text labels because we want them to slide in when hovered.
           - num: 8
             text: |
               Some more styling classes here:
 
-              - `.island-1-4` — for a little space.
-              - `.w-1` — to make sure it fills all the way across.
-              - `.absolute` — so we can position this with coordinates.
+              - `.island-1-4` — for a little space.
+              - `.w-1` — to make sure it fills all the way across.
+              - `.absolute` — so we can position this with coordinates.
           - num: 9
             text: |
               Finally some styles for the heading itself—they’re pretty self-explanatory.
@@ -197,7 +197,7 @@ steps:
         fade: true
       - num: 3
         text: |
-          It’s important to define an initial location for the caption, here we’re setting it below the bottom of the image. And therefore it will be cropped off because of the `.crop` class we added earlier.
+          It’s important to define an initial location for the caption, here we’re setting it below the bottom of the image. And therefore it will be cropped off because of the `.crop` class we added earlier.
       - num: "8-10"
         text: |
           When we hover anywhere on the `.hover-box` we want to target the caption and change it’s `bottom` position to `0`, making it align to the bottom of the image now.
@@ -262,7 +262,7 @@ steps:
       - num: 9
         text: |
           We can use the `transform` property to grow the image a little bit. The `scale()` function will allow us to grow or shrink HTML elements: `1` is what an element currently is, so `1.1` is just slightly larger.
-    after_video: "https://assets.learn-the-web.algonquindesign.ca/web-dev-3/fancy-hover-boxes/hover-effect.mp4"
+    after_video: "https://assets.learntheweb.courses/web-dev-3/fancy-hover-boxes/hover-effect.mp4"
 
   - title: "Finish off the rest"
     before: |

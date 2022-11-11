@@ -30,7 +30,7 @@ slides:
       **The final result, after the animations play.**
 
   - type: video
-    video: "https://assets.learn-the-web.algonquindesign.ca/web-dev-3/stories-on-board/animated.mp4"
+    video: "https://assets.learntheweb.courses/web-dev-3/stories-on-board/animated.mp4"
     poster: "end.jpg"
 
   - content: |

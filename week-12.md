@@ -21,7 +21,7 @@ slides:
 
 tasks:
   - title: "VoiceOver Voyageur"
-    url: "https://activities.learn-the-web.algonquindesign.ca/voiceover-voyageur/"
+    url: "https://activities.learntheweb.courses/voiceover-voyageur/"
     type: activity
   - title: "Checking performance"
     url: checking-performance
@@ -29,7 +29,7 @@ tasks:
     submit: "Submit nothing."
     no-solution: true
   - title: "Fastness fixer"
-    url: "https://github.com/acgd-webdev-3/fastness-fixer"
+    url: "https://github.com/ltw-webdev-3/fastness-fixer"
   - title: "This site ain’t no sloth"
-    url: "https://github.com/acgd-webdev-3/this-site-aint-no-sloth"
+    url: "https://github.com/ltw-webdev-3/this-site-aint-no-sloth"
 ---

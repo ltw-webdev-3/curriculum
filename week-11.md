@@ -33,15 +33,15 @@ group_activities:
 
 tasks:
   - title: "Accessibility Adapter"
-    url: "https://activities.learn-the-web.algonquindesign.ca/accessibility-adapter/"
+    url: "https://activities.learntheweb.courses/accessibility-adapter/"
     type: activity
   - title: "Using a11y testing tools"
     url: using-a11y-testing-tools
     type: lesson
     no-solution: true
   - title: "Only keyboards allowed"
-    url: "https://github.com/acgd-webdev-3/only-keyboards-allowed"
+    url: "https://github.com/ltw-webdev-3/only-keyboards-allowed"
   - title: "Kraken good accessibility"
-    url: "https://github.com/acgd-webdev-3/kraken-good-accessibility"
+    url: "https://github.com/ltw-webdev-3/kraken-good-accessibility"
   - type: watch-videos
 ---

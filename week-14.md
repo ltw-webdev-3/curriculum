@@ -23,22 +23,22 @@ video_tutorials:
 
 group_activities:
   - title: "Course feedback"
-    url: "https://www.algonquincollege.com/studentfeedback/"
+    url: "/feedback/"
     type: star
 
 tasks:
   - title: "License Liberator"
-    url: "https://activities.learn-the-web.algonquindesign.ca/license-liberator/"
+    url: "https://activities.learntheweb.courses/license-liberator/"
     type: activity
   - type: blank
   - title: "Animal rescue website check-in"
-    url: "https://github.com/acgd-webdev-3/animal-rescue-website-check-in"
+    url: "https://github.com/ltw-webdev-3/animal-rescue-website-check-in"
     button: activity
     type: basic
     no-solution: true
     submit: show
   - title: "Animal rescue website"
-    url: "https://github.com/acgd-webdev-3/animal-rescue-website"
+    url: "https://github.com/ltw-webdev-3/animal-rescue-website"
     graded-as: animal-rescue-website
     due: "Midnight, last day of class"
     due_week: 15

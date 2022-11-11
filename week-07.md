@@ -31,8 +31,8 @@ tasks:
     type: lesson
     submit: code
   - title: "Interactive SVG"
-    url: "https://github.com/acgd-webdev-3/interactive-svg"
+    url: "https://github.com/ltw-webdev-3/interactive-svg"
   - title: "SVG line drawing"
-    url: "https://github.com/acgd-webdev-3/svg-line-drawing"
+    url: "https://github.com/ltw-webdev-3/svg-line-drawing"
   - type: watch-videos
 ---

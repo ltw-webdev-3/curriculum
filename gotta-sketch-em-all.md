@@ -15,7 +15,7 @@ slides:
       ## Set up
 
       1. Form into pairs
-      2. [Download the files](https://github.com/acgd-webdev-3/gotta-sketch-em-all/archive/master.zip)
+      2. [Download the files](https://github.com/ltw-webdev-3/gotta-sketch-em-all/archive/master.zip)
       3. Print “wireframe.pdf”
       4. Get out a pencil for marking up the paper
 

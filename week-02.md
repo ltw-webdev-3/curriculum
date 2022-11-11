@@ -32,12 +32,12 @@ group_activities:
 
 tasks:
   - title: "Semantics Soothsayer"
-    url: "https://activities.learn-the-web.algonquindesign.ca/semantics-soothsayer/"
+    url: "https://activities.learntheweb.courses/semantics-soothsayer/"
     type: activity
   - type: blank
   - title: "Me-oh-my HTML"
-    url: "https://github.com/acgd-webdev-3/me-oh-my-html"
+    url: "https://github.com/ltw-webdev-3/me-oh-my-html"
   - title: "Modularity mindfulness"
-    url: "https://github.com/acgd-webdev-3/modularity-mindfulness"
+    url: "https://github.com/ltw-webdev-3/modularity-mindfulness"
   - type: watch-videos
 ---

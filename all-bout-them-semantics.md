@@ -15,7 +15,7 @@ slides:
       ## Set up
 
       1. Form into pairs
-      2. [Download the files](https://github.com/acgd-webdev-3/all-bout-them-semantics/archive/master.zip)
+      2. [Download the files](https://github.com/ltw-webdev-3/all-bout-them-semantics/archive/master.zip)
       3. Print “content.pdf”
       4. Get out a pencil for marking up the paper
 

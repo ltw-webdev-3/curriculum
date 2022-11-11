@@ -25,7 +25,7 @@ group_activities:
 
 tasks:
   - title: "Naming Conventioneer"
-    url: "https://activities.learn-the-web.algonquindesign.ca/naming-conventioneer/"
+    url: "https://activities.learntheweb.courses/naming-conventioneer/"
     type: activity
   - title: "Exporting from Photoshop"
     url: exporting-from-photoshop
@@ -36,7 +36,7 @@ tasks:
     type: lesson
     submit: code
   - title: "Production prepping & compression"
-    url: "https://github.com/acgd-webdev-3/production-prepping-compression"
+    url: "https://github.com/ltw-webdev-3/production-prepping-compression"
     button: do-work
     type: download-markbot
   - type: watch-videos

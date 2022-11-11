@@ -26,7 +26,7 @@ goal:
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
 fork:
-  url: "https://github.com/acgd-webdev-3/background-images/fork"
+  url: "https://github.com/ltw-webdev-3/background-images/fork"
 
 steps:
   - title: "Project files"

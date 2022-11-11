@@ -21,14 +21,14 @@ goal:
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
 fork:
-  url: "https://github.com/acgd-webdev-3/micro-interface-branding/fork"
+  url: "https://github.com/ltw-webdev-3/micro-interface-branding/fork"
 
 steps:
   - title: "Download & set up files"
     before: |
       After forking & cloning the repository, also download these PSD files for our favicons.
 
-      ### [Download these files.](https://assets.learn-the-web.algonquindesign.ca/web-dev-3/micro-interface-branding-download.zip)
+      ### [Download these files.](https://assets.learntheweb.courses/web-dev-3/micro-interface-branding-download.zip)
 
       Following our standard folder layout we should have this:
     folders:
@@ -62,9 +62,9 @@ steps:
     before: |
       Favicons are made up of a bunch of differently sized icons. We need all these different icons sizes for different situations, different browsers, and better rendering.
 
-      - `16 × 16 px` — the most basic, used on browser tabs on non-retina screens
-      - `32 × 32 px` — used in browser tabs on retina screens & bookmarks
-      - `48 × 48 px` — used lots on Windows & when larger icons are needed
+      - `16 × 16 px` — the most basic, used on browser tabs on non-retina screens
+      - `32 × 32 px` — used in browser tabs on retina screens & bookmarks
+      - `48 × 48 px` — used lots on Windows & when larger icons are needed
       - `196 × 196 px` — used on device homescreens, bookmarks, etc, wherever a large size is helpful
 
       ### Why don’t we just use one icon and scale it to the different sizes automatically?
