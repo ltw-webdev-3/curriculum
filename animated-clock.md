@@ -18,7 +18,7 @@ extra_tutorials:
     url: using-images
 
 goal:
-  video: "https://videos.learntheweb.courses/playlists/web-dev-3/animated-clock-goal.mp4"
+  video: "https://video-assets.learntheweb.courses/web-dev-3/animated-clock-goal.mp4"
   video_poster: goal.png
   no_image: true
   before: |

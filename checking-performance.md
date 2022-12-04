@@ -19,9 +19,9 @@ steps:
   - title: "Browser developer tools"
     before: |
       This video is a quick introduction to using the browser developer tools to test the performance of your website.
-    video: "https://videos.learntheweb.courses/playlists/performance/1-developer-tools.mp4"
+    video: "https://video-assets.learntheweb.courses/performance/1-developer-tools.mp4"
   - title: "Online tools"
     before: |
       Learn about some online tools for testing website performance.
-    video: "https://videos.learntheweb.courses/playlists/performance/2-online-tools.mp4"
+    video: "https://video-assets.learntheweb.courses/performance/2-online-tools.mp4"
 ---

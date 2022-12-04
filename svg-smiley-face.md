@@ -23,7 +23,7 @@ goal:
 
     When hovering over the face the eyebrows will tilt from happy to angry positions.
   no_image: true
-  video: "https://videos.learntheweb.courses/playlists/web-dev-3/svg-smiley-face-goal.mp4"
+  video: "https://video-assets.learntheweb.courses/web-dev-3/svg-smiley-face-goal.mp4"
   video_poster: "goal.jpg"
   notes:
     - label: "Type it, type it real good"
