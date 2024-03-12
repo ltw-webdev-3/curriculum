@@ -25,7 +25,7 @@ tasks:
   #   submit: "Submit nothing."
   #   graded-as: false
   - title: "Mid-course feedback"
-    url: "/feedback/"
+    url: "/feedback"
     type: basic
     submit: "Submit feedback form."
     graded-as: false
